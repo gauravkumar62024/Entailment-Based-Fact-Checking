@@ -1,0 +1,9 @@
+{
+"base_model_path": "tiiuae/Falcon3-7B-Instruct",
+"adapter_path": "checkpoint/TBE3/LIAR_RAW/LoRA/falcon",
+"test_data_path": "../../../data/falcon3_lair_raw__test_transformed_dataset.json",
+"output_dir": "results/TBE3/LoRA/LAIR_RAW/falcon",
+"max_new_tokens": 256,
+"temperature": 0.01,
+"truncate_len": 2048
+}

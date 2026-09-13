@@ -1,0 +1,5 @@
+llamafactory-cli train examples/extras/loraplus/liar_raw/llama3_lora_sft_gemma_lair_raw.yaml
+llamafactory-cli train examples/extras/loraplus/liar_raw/llama3_lora_sft_lair_raw.yaml
+# llamafactory-cli train examples/extras/loraplus/liar_raw/llama3_lora_sft_mistral_lair_raw.yaml
+llamafactory-cli train examples/extras/loraplus/liar_raw/llama3_lora_sft_qwen_lair_raw.yaml
+llamafactory-cli train examples/extras/loraplus/liar_raw/llama3_lora_sft_falcon_lair_raw.yaml

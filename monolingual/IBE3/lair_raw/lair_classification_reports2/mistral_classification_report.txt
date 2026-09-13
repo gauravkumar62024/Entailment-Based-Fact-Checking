@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+  pants-fire     1.0000    0.0118    0.0233        85
+       false     0.3177    0.3534    0.3346       249
+ barely-true     0.2069    0.0286    0.0502       210
+   half-true     0.2744    0.3422    0.3046       263
+ mostly-true     0.2250    0.4916    0.3087       238
+        true     0.3263    0.1512    0.2067       205
+
+    accuracy                         0.2664      1250
+   macro avg     0.3917    0.2298    0.2047      1250
+weighted avg     0.3201    0.2664    0.2334      1250

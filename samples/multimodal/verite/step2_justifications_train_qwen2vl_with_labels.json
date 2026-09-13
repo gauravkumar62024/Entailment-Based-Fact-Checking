@@ -1,0 +1,142 @@
+[
+  {
+    "claim_id": "666",
+    "claim_text": "Photograph taken at the Antarctic base of Dumont D'Urville in 2002 show ice formed over time from ice that has been compacted and uplifted by glaciation.",
+    "support_justification": "The claim suggests that photographs taken at the Dumont D'Urville base in 2002 depict ice formations resulting from glacial compaction and uplift. The visual evidence, classified as supportive, provides a clear context for the claim. The photographs likely show ice formations consistent with glacial processes, such as compacted and uplifted ice, which are characteristic of glacial environments. The visual analysis supports the claim by illustrating the presence of ice formations that align with the described glacial activity, thereby lending credibility to the statement.",
+    "refute_justification": "The claim suggests that the photograph taken at the Dumont D'Urville base in 2002 shows ice formed over time from compacted and uplifted glacial ice. However, the visual evidence, classified as supportive, does not contradict the claim. Instead, it appears to align with the idea that the ice in the photograph is consistent with glacial processes. The absence of refuting text evidence means there is no direct textual contradiction to the claim. Therefore, based on the provided information, the claim cannot be definitively refuted, but it remains unverified without further evidence.",
+    "label": "true"
+  },
+  {
+    "claim_id": "572",
+    "claim_text": "A photograph shows an ice sculpture of a frozen spider web created in 2011 by a Kenyan sculptor, Michael Kaloki.",
+    "support_justification": "The claim that a photograph shows an ice sculpture of a frozen spider web created in 2011 by a Kenyan sculptor, Michael Kaloki, is refuted by the visual evidence classification of \"REFUTE.\" This classification suggests that the visual evidence contradicts the claim. Without supporting text evidence, the claim cannot be verified or supported. The discrepancy between the claim and the visual evidence classification indicates that the photograph in question does not depict an ice sculpture of a frozen spider web. Therefore, the claim is not substantiated by the available information.",
+    "refute_justification": "The claim that a photograph shows an ice sculpture of a frozen spider web created in 2011 by a Kenyan sculptor, Michael Kaloki, is refuted by the visual evidence. The photograph in question does not depict a spider web but rather a structure resembling a human figure, which contradicts the claim of it being a spider web. Additionally, the visual analysis of the image does not align with the description of a spider web, further supporting the refutation of the claim.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "731",
+    "claim_text": "An image of priests blessing a Russian army truck in May 2015.",
+    "support_justification": "The claim about an image of priests blessing a Russian army truck in May 2015 lacks supporting textual evidence and visual evidence. Without any visual or textual details to verify the image, it is impossible to confirm or refute the claim. The absence of corroborating information leaves the claim unverified. Therefore, based on the provided evidence, the claim cannot be substantiated.",
+    "refute_justification": "The claim of priests blessing a Russian army truck in May 2015 is refuted by the lack of textual evidence and the absence of visual confirmation. Without any supporting text or images, it is impossible to verify the authenticity of the claim. The absence of visual evidence means that the claim cannot be substantiated, and the lack of textual evidence leaves no basis for verification. Therefore, the claim cannot be considered true based on the provided information.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "334",
+    "claim_text": "A photograph shows Joe Biden acting in a discomforting manner with a young boy.",
+    "support_justification": "The claim that a photograph shows Joe Biden acting in a discomforting manner with a young boy cannot be substantiated with the provided textual and visual evidence. The absence of supporting text and the lack of visual evidence means there is no concrete basis to evaluate the claim. Without additional context or images, it is impossible to determine the accuracy of the statement. Therefore, the claim remains unverified based on the given information.",
+    "refute_justification": "The claim that a photograph shows Joe Biden acting in a discomforting manner with a young boy cannot be substantiated with the provided evidence. The absence of visual evidence leaves the claim unverified. Without any visual context or details from the photograph, it is impossible to determine the nature of the interaction depicted. The lack of textual evidence also means there is no additional information to support or refute the claim. Therefore, the claim remains unproven and cannot be confirmed as true or false based on the given information.",
+    "label": "miscaptioned"
+  },
+  {
+    "claim_id": "732",
+    "claim_text": "An image of a traffic jam on a Crimean bridge while people trying to move towards the Crimean peninsula on July 16, 2022.",
+    "support_justification": "The claim depicts a traffic jam on a Crimean bridge with people attempting to move towards the Crimean peninsula on July 16, 2022. The visual evidence supports this claim by showing a congested scene on a bridge, which aligns with the description of a traffic jam. The context of people trying to move towards the Crimean peninsula is consistent with the claim, as the Crimean bridge is a key route for accessing the peninsula. The date, July 16, 2022, is not explicitly supported by the visual evidence but is a reasonable assumption given the context of the claim. The visual analysis confirms the presence of a traffic jam, which is a plausible scenario for a bridge leading to a peninsula, especially during a significant event or period of heightened activity.",
+    "refute_justification": "The claim suggests a traffic jam on a Crimean bridge with people attempting to cross towards the Crimean peninsula on July 16, 2022. However, the visual evidence contradicts this by showing a clear, unobstructed view of the bridge with no visible signs of congestion or people moving. The image appears to depict a calm scene with no evident traffic issues, which is inconsistent with the claim of a traffic jam. This discrepancy in the visual evidence strongly refutes the claim.",
+    "label": "true"
+  },
+  {
+    "claim_id": "501",
+    "claim_text": "President Trump follows Japan's Prime Minister Shinzo Abe in dumping fish food into the koi pond.",
+    "support_justification": "The claim that President Trump follows Japan's Prime Minister Shinzo Abe in dumping fish food into the koi pond lacks textual evidence. However, the visual evidence classification as \"SUPPORT\" suggests that there is visual information that could potentially corroborate the claim. Without the actual visual evidence, it's impossible to definitively verify the claim. The claim itself is not supported by the provided textual evidence, and the lack of visual evidence makes it difficult to form a conclusive opinion. Therefore, based on the available information, the claim cannot be confirmed as true.",
+    "refute_justification": "The claim that President Trump follows Japan's Prime Minister Shinzo Abe in dumping fish food into a koi pond is refuted by the lack of textual evidence supporting the practice. Additionally, the visual evidence, classified as supportive, does not provide any context or imagery related to the claim. The claim appears to be a fabricated or humorous statement, as there is no credible evidence linking either political figure to such an activity. The absence of factual backing and the lack of visual confirmation make the claim implausible.",
+    "label": "true"
+  },
+  {
+    "claim_id": "637",
+    "claim_text": "A photograph captures the exact moment torero Álvaro Múnera became an opponent of bullfighting.",
+    "support_justification": "The claim that a photograph captures the exact moment torero Álvaro Múnera became an opponent of bullfighting is refuted by the visual evidence classification of \"REFUTE.\" This suggests that the image in question does not support the claim. Since there is no supporting text evidence provided, the claim cannot be substantiated with textual information either. Without additional context or supporting evidence, it is impossible to verify the claim. Therefore, based on the available information, the claim cannot be considered true.",
+    "refute_justification": "The claim that a photograph captures the exact moment torero Álvaro Múnera became an opponent of bullfighting is refuted by the visual evidence. The photograph, classified as REFUTE, suggests that the image does not depict the transition from being a torero to an opponent of bullfighting. Instead, it appears to show Múnera in a traditional torero stance, which contradicts the claim that he is an opponent. The visual evidence does not support the notion that the photograph captures a pivotal moment in his stance or ideology. Therefore, the claim is not supported by the available evidence.",
+    "label": "miscaptioned"
+  },
+  {
+    "claim_id": "635",
+    "claim_text": "A photograph shows a satellite image of Hurricane Floyd from September 1999.",
+    "support_justification": "The claim that a photograph shows a satellite image of Hurricane Floyd from September 1999 is not supported by the provided textual or visual evidence. Without any textual details or visual images to analyze, it is impossible to verify the authenticity or date of the satellite image. The absence of supporting evidence leaves the claim unverified.",
+    "refute_justification": "The claim that the photograph shows a satellite image of Hurricane Floyd from September 1999 is refuted by the lack of visual evidence. Without any visual data, it is impossible to verify the authenticity or the specific details of the image, such as the date and the satellite used. Additionally, the absence of textual evidence further complicates the verification process, as it leaves no supporting information to cross-reference or confirm the claim. Therefore, based on the given information, the claim cannot be substantiated.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "53",
+    "claim_text": "Photograph shows a person hanging from a helicopter with a harness while waving to the people on the ground.",
+    "support_justification": "The claim suggests a person is hanging from a helicopter with a harness while waving to the ground. However, the visual evidence contradicts this description. The image does not depict a person hanging from a helicopter; instead, it shows a person in a seated position inside the helicopter, secured with a harness, but not hanging. This visual evidence refutes the claim, as it clearly illustrates a different scenario where the person is not waving but is seated and secured within the helicopter. The contradiction between the claim and the visual evidence makes it impossible for the claim to be true based on the provided information.",
+    "refute_justification": "The claim that the photograph shows a person hanging from a helicopter with a harness while waving to the ground is refuted by the visual evidence. The image does not depict a person hanging from a helicopter; instead, it shows a person in a seated position, securely strapped into a harness, which is typical for skydiving or similar activities. The posture and positioning of the individual in the image are inconsistent with hanging from a helicopter. Additionally, the context and posture of the person in the image do not align with waving to the ground, as the individual appears to be in a stable, seated position, likely preparing for or in the midst of a skydiving jump. These visual details strongly contradict the claim.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "832",
+    "claim_text": "Image showing Macron sitting down and with one hand on his forehead, after a call with Russian President Vladimir Putin.",
+    "support_justification": "The claim depicts a scene where a person, identified as Macron, is seated and placing one hand on their forehead, presumably after a call with Russian President Vladimir Putin. The visual evidence supports this claim by showing the individual in a seated position with a hand gesture that aligns with the described scenario. The context of the image, though not detailed, suggests a formal or diplomatic setting, which is consistent with the interaction between world leaders. The posture and gesture imply a moment of reflection or fatigue, which is plausible following a significant conversation.",
+    "refute_justification": "The claim suggests that Macron is seated and has one hand on his forehead after a call with Putin. However, the visual evidence contradicts this by showing Macron standing, not seated, and his hand is not on his forehead. The posture and positioning in the image clearly indicate a different scenario, which refutes the claim.",
+    "label": "miscaptioned"
+  },
+  {
+    "claim_id": "719",
+    "claim_text": "Image shows a damaged railway bridge collapsed into a body of water in June 2020 in Murmansk, Russia.",
+    "support_justification": "The claim suggests a railway bridge collapsed into a body of water in June 2020 in Murmansk, Russia. However, the visual evidence contradicts this claim by classifying it as REFUTE, indicating that the image does not support the statement. The absence of textual evidence further complicates the verification process, as it leaves no additional context or supporting details to confirm or refute the claim. Therefore, based on the provided information, the claim cannot be substantiated.",
+    "refute_justification": "The claim that a damaged railway bridge collapsed into a body of water in June 2020 in Murmansk, Russia, is refuted by the lack of textual evidence supporting the specific details of the event. Additionally, the visual analysis of the image does not provide any information that corroborates the claim. The image appears to show a different scene, possibly unrelated to the described event, which lacks the necessary context and details to validate the claim. Therefore, the claim cannot be substantiated based on the available evidence.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "533",
+    "claim_text": "Image shows German special forces wearing chainmail protective gear while heading into a situation that involves someone armed with a sharp stabbing or cutting weapon.",
+    "support_justification": "The claim suggests that German special forces are equipped with chainmail protective gear and are moving towards a situation involving a sharp stabbing or cutting weapon. However, the visual evidence contradicts this claim. The image does not depict chainmail protective gear; instead, it shows modern tactical gear, which is not historically associated with chainmail. Additionally, the context in the image does not suggest a historical or medieval setting where chainmail would be appropriate. The modern tactical gear and the contemporary setting in the image do not align with the claim of German special forces using chainmail in a situation involving a sharp weapon. Therefore, the claim is refuted by the visual evidence.",
+    "refute_justification": "The claim suggests German special forces wearing chainmail protective gear, which is historically inaccurate. Chainmail, while historically used for protection, is not a modern standard in military gear, especially for special forces. Additionally, the visual evidence shows modern military attire, which does not include chainmail. The context of the image depicts a situation involving a sharp stabbing or cutting weapon, which is consistent with modern military operations. Therefore, the claim is refuted by the mismatch between the historical and modern elements in the visual evidence.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "554",
+    "claim_text": "A photograph shows a little girl lying in the chalk outline of a woman taken by Iranian photographer Bahareh Bisheh in 2012.",
+    "support_justification": "The claim suggests a photograph depicts a little girl lying within a chalk outline of a woman, created by Iranian photographer Bahareh Bisheh in 2012. However, the absence of supporting text and the lack of visual evidence make it impossible to verify the claim. Without additional context or images, it is not possible to confirm the authenticity or details of the photograph. The claim lacks sufficient evidence to support its accuracy.",
+    "refute_justification": "The claim that a photograph shows a little girl lying in the chalk outline of a woman taken by Iranian photographer Bahareh Bisheh in 2012 is refuted by the lack of visual evidence. Since no visual evidence is provided, it is impossible to verify the authenticity of the photograph or confirm the details mentioned in the claim. Without a visual reference, any assertion about the photograph's content, including the presence of a little girl and the specific photographer, cannot be substantiated. Therefore, the claim cannot be supported by the available information.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "629",
+    "claim_text": "A photograph shows the chief of Brazil's Kayapó tribe weeping after reuniting with a family member, a common practice among the Kayapó.",
+    "support_justification": "The claim suggests that a photograph depicts the chief of Brazil's Kayapó tribe weeping after reuniting with a family member, which is a common practice among the Kayapó. However, the visual evidence classification is REFUTE, indicating that the image contradicts the claim. If the photograph indeed shows a Kayapó chief weeping upon reuniting with a family member, it would align with the cultural practice described. Yet, since the visual evidence is classified as REFUTE, it implies that the image does not support the claim. Therefore, the claim cannot be substantiated by the provided visual evidence.",
+    "refute_justification": "The claim suggests that a photograph depicts the chief of Brazil's Kayapó tribe weeping after reuniting with a family member, a practice common among the Kayapó. However, the visual evidence contradicts this claim. The photograph does not show a chief, nor does it depict a weeping individual. Instead, the image appears to show a person in a different context, possibly unrelated to the Kayapó tribe or the described scenario. This discrepancy between the claim and the visual evidence strongly refutes the statement.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "527",
+    "claim_text": "A still frame taken from the 2012 film Kingdom of Ants movie shows a boy after he was shot in the heart.",
+    "support_justification": "The claim that a still frame from the 2012 film \"Kingdom of Ants\" shows a boy after he was shot in the heart lacks textual and visual evidence to support it. Without any supporting text or visual evidence, it is impossible to verify the claim. The absence of such evidence suggests that the claim may be unfounded or based on speculation. Therefore, without additional context or evidence, it is not possible to confirm or refute the claim.",
+    "refute_justification": "The claim that a still frame from the 2012 film \"Kingdom of Ants\" shows a boy after he was shot in the heart is refuted by the lack of textual evidence and the absence of visual evidence. The absence of textual evidence means there is no supporting narrative or dialogue that could confirm the scene's content. Additionally, the lack of visual evidence means there is no image or frame from the film that can be analyzed for such a specific detail. Without concrete evidence, the claim cannot be substantiated, making it impossible to verify the claim's accuracy.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "601",
+    "claim_text": "A photograph shows the skeleton of a monster snake known as a Titanoboa.",
+    "support_justification": "The claim that a photograph shows the skeleton of a monster snake known as a Titanoboa is not supported by the provided textual and visual evidence. The absence of textual evidence means there is no written information to verify the claim. Additionally, the lack of visual evidence means there is no photograph to analyze for details that might confirm the presence of a Titanoboa skeleton. Without concrete evidence, it is impossible to validate the claim based on the given information.",
+    "refute_justification": "The claim that a photograph shows the skeleton of a monster snake known as a Titanoboa is refuted by the lack of textual evidence and the absence of visual confirmation. Titanoboa, a prehistoric snake, is known to have been much larger than any snake alive today, but no credible photographs or scientific evidence of its skeleton have been widely accepted. The absence of any supporting text or visual evidence directly contradicts the claim, as it lacks the necessary documentation and visual proof to substantiate the existence of such a photograph.",
+    "label": "miscaptioned"
+  },
+  {
+    "claim_id": "85",
+    "claim_text": "Α photograph shows οne of the nine parents that were deported by Trump, being reunited with his child in the U.S. during the Biden administration in February 2021.",
+    "support_justification": "The claim suggests a photograph depicts one of the nine parents deported by Trump being reunited with their child in the U.S. during the Biden administration in February 2021. However, the visual evidence classification is REFUTE, indicating the image contradicts the claim. Since no supporting text evidence is provided, the claim cannot be substantiated. The contradiction in the visual evidence suggests the photograph does not align with the claim, thus the claim cannot be verified as true based on the available information.",
+    "refute_justification": "The claim suggests a photograph depicts a parent deported by Trump being reunited with their child under Biden in February 2021. However, the visual evidence classifies the claim as refuted, indicating the image does not support the claim. Without textual evidence to contradict the claim, the absence of supporting details in the image itself is the key factor. The claim's assertion of a specific historical event and its timing is not visually corroborated, leading to the conclusion that the image does not align with the claim.",
+    "label": "miscaptioned"
+  },
+  {
+    "claim_id": "116",
+    "claim_text": "Image shows three U.S. Democratic senators during the confirmation hearing of Supreme Court nominee Brett Kavanaugh in September 2018.",
+    "support_justification": "The claim suggests that the image depicts three U.S. Democratic senators during the confirmation hearing of Supreme Court nominee Brett Kavanaugh in September 2018. However, the visual evidence classification is REFUTE, indicating that the image is contradictory to the textual evidence provided. Since no supporting text evidence is given, the claim cannot be verified or refuted based solely on the textual information. The discrepancy between the claim and the visual evidence classification suggests that the image does not align with the claim, thus the claim is likely incorrect.",
+    "refute_justification": "The claim suggests that the image depicts three U.S. Democratic senators during the confirmation hearing of Supreme Court nominee Brett Kavanaugh in September 2018. However, the visual evidence contradicts this claim. The image shows individuals in formal attire, seated in a setting that resembles a legislative chamber, which is consistent with the appearance of senators. Yet, the context and the individuals' attire do not align with the specific event and time frame mentioned in the claim. The individuals in the image appear to be in a more formal, possibly ceremonial, setting rather than a confirmation hearing. This discrepancy in context and setting strongly refutes the claim.",
+    "label": "out-of-context"
+  },
+  {
+    "claim_id": "793",
+    "claim_text": "A photograph of large waves crashing ashore in Abergavenny, Wales during storms that battered the U.K. in February 2022.",
+    "support_justification": "The claim describes a photograph of large waves crashing ashore in Abergavenny, Wales, during storms that hit the U.K. in February 2022. However, the visual evidence classification is REFUTE, indicating that the image contradicts the claim. If the image were to depict such a scene, it would likely show coastal areas with significant wave activity, possibly showing the impact of strong winds and high tides. The REFUTE classification suggests that the image does not align with the described scenario, thus questioning the accuracy of the claim. Without the image, it's impossible to verify the claim definitively, but the visual evidence provided does not support the claim.",
+    "refute_justification": "The claim about a photograph of large waves crashing ashore in Abergavenny, Wales during storms in February 2022 is refuted by the lack of textual evidence supporting the claim. Additionally, the visual evidence classification and analysis indicate a refutation, suggesting that the image in question does not align with the described scenario. Without specific textual details or visual elements that corroborate the claim, it is impossible to verify the authenticity of the photograph. Therefore, the claim cannot be substantiated based on the available information.",
+    "label": "miscaptioned"
+  },
+  {
+    "claim_id": "1009",
+    "claim_text": "Image shows a large crowd protesting on the streets of London, in defense of jailed far-right activist Tommy Robinson in June 2018.",
+    "support_justification": "The claim suggests a large crowd protesting on the streets of London in June 2018 in defense of jailed far-right activist Tommy Robinson. However, the visual evidence contradicts this claim. The image does not depict a large crowd or any specific protest scene. Instead, it shows a relatively small group of people in an urban setting, which does not align with the description of a large protest. Additionally, the context and the visual details do not support the claim of a protest in defense of Tommy Robinson, as there is no visible text or imagery indicating such a protest. Therefore, the claim is not supported by the visual evidence provided.",
+    "refute_justification": "The claim suggests a large crowd protesting in London in June 2018 in defense of Tommy Robinson. However, the visual evidence contradicts this claim. The image shows a relatively small gathering, with no visible signs or banners that specifically mention Tommy Robinson or any political protest. The setting appears to be a public square, but the crowd size and the lack of identifiable protest signs make it unlikely to be a large-scale demonstration. Additionally, the date mentioned in the claim (June 2018) does not align with the visual evidence, which does not provide a specific date. These discrepancies strongly suggest that the claim is false.",
+    "label": "miscaptioned"
+  }
+]

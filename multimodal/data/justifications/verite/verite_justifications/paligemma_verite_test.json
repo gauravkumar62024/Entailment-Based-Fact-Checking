@@ -1,0 +1,668 @@
+[
+  {
+    "claim_id": "363",
+    "claim_text": "A photograph captures a massive multi-day traffic jam in China, from the infamous August 2010 China National Highway 110 traffic tie-up.",
+    "support_justification": "The claim is refuted by the visual evidence. The image shows a massive traffic jam in China, from the infamous August 2010 China National Highway 110 traffic tie-up. This contradicts the textual evidence that states there was no major traffic jam at the time.",
+    "refute_justification": "The claim is refuted by the available evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "379",
+    "claim_text": "A photograph shows Tariq Ali and Vanessa Redgrave headlining a protest against the Vietnam War on 17 March 1968.",
+    "support_justification": "The image does not support the claim that Tariq Ali and Vanessa Redgrave were protesting against the Vietnam War on 17 March 1968.",
+    "refute_justification": "The image does not show Tariq Ali and Vanessa Redgrave headlining a protest against the Vietnam War on 17 March 1968.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "166",
+    "claim_text": "Image of a mother fox feeding fox cubs near Montréal, Canada in 2009.",
+    "support_justification": "The image is contradictory to the textual evidence provided. The photograph shows a mother fox feeding her cubs, but there is no mention of any such event in the text. This indicates that the claim is false.",
+    "refute_justification": "The image is false because it shows a mother fox feeding her cubs near Montréal, Canada in 2009. However, this behavior is not typical for foxes in North America. Foxes typically do not feed their young outside of their dens. Additionally, the mother fox appears to be wearing clothing, which is not common behavior for foxes.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "373",
+    "claim_text": "A photograph shows an art installation of a dead whale choked by plastics, created by Greenpeace to 'underscore the massive problem of plastics pollution in the ocean' in Philippines in May 2017.",
+    "support_justification": "The claim is refuted because there is no evidence that the whale died due to plastic ingestion. The photo was taken at an art installation by Greenpeace to underscore the massive problem of plastics pollution in the ocean.",
+    "refute_justification": "The claim is false. The photo does not show a dead whale choked by plastic. It is an artistic representation of a dead whale with plastic bags around its neck.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "650",
+    "claim_text": "Image shows more than 670 residents of Tacloban, Leyte  on board a military plane following Super Typhoon Haiyan November 17, 2013.",
+    "support_justification": "The image does not support the claim that more than 670 residents of Tacloban, Leyte were evacuated by a military plane following Super Typhoon Haiyan.",
+    "refute_justification": "The image does not show more than 670 residents of Tacloban, Leyte on board a military plane following Super Typhoon Haiyan November 17, 2013.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "464",
+    "claim_text": "Photographs of fan who ran into Tom Hanks at a restaurant and deliberately pretended to be drunk while posing for some amusing snapshots.",
+    "support_justification": "The photograph does not support the claim that the man was drunk. The man is sober and appears to be enjoying his time with the actor.",
+    "refute_justification": "The photograph does not refute the claim that the man was drunk.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "691",
+    "claim_text": "A photograph shows a hunter that killed a squirrel, using forced perspective to make the squirrel appear larger than it really is, taken in November 2016.",
+    "support_justification": "The photo does not show a hunter that killed a squirrel. The image is misleading because of the use of forced perspective.",
+    "refute_justification": "The photo does not show a hunter that killed a squirrel. The image is misleading because of the use of forced perspective.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "685",
+    "claim_text": "Photograph shows the Japanese attack on Pearl Harbor from the 2001 Touchstone film Pearl Harbor.",
+    "support_justification": "The photograph does not support the claim that it is an accurate depiction of the Japanese attack on Pearl Harbor. The image appears to be from a movie rather than a historical event. Additionally, there is no supporting text evidence available to further substantiate the claim.",
+    "refute_justification": "The photograph does not show the Japanese attack on Pearl Harbor. The image is from the 2001 Touchstone film Pearl Harbor.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "103",
+    "claim_text": "Photograph shows mounds of refuse and other trash in Greenpoint, a neighborhood in northern Brooklyn, New York after a trash fire.",
+    "support_justification": "The photograph clearly shows piles of garbage and other trash in Greenpoint, a neighborhood in northern Brooklyn, New York after a trash fire. This is contradictory to the claim that there is no evidence of a recent fire in the area.",
+    "refute_justification": "The photograph does not show any evidence that the area is polluted with toxic waste.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "708",
+    "claim_text": "Photograph shows Florida residents looting electronic devices during Hurricane Dorian in the summer of 2019.",
+    "support_justification": "The photograph does not show Florida residents looting electronic devices during Hurricane Dorian in the summer of 2019.",
+    "refute_justification": "The photograph does not show Florida residents looting electronic devices during Hurricane Dorian in the summer of 2019.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "81",
+    "claim_text": "Photograph of a triceratops model being unloaded from a truck at the Mojosemi Forest Park in Indonesia.",
+    "support_justification": "The photograph shows a large dinosaur model being unloaded from a truck at the Mojosemi Forest Park in Indonesia. The photo is accompanied by a caption that states, \"A replica of a Triceratops was unveiled at the park.\" However, there is no accompanying text evidence to support this claim. Additionally, the image does not show any other individuals present, such as visitors or staff members, which could have been used as additional evidence. Furthermore, the photo appears to be staged, with the truck positioned in an unnatural way. Based on these factors, I would classify the claim as **False**.",
+    "refute_justification": "The photo shows a large dinosaur model being unloaded from a truck at the Mojosemi Forest Park in Indonesia. The model is labeled as a triceratops, but it appears to be a fake plastic replica.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "296",
+    "claim_text": "Photograph shows protestor burning a Trump flag during an anti-Trump riot in Albuquerque, New Mexico, in May 2016.",
+    "support_justification": "The photograph does not support the claim that the protester is burning a Trump flag. The image appears to show a person holding a lit match near a small piece of paper with a Trump logo printed on it. This could be interpreted as a symbolic gesture rather than an actual act of burning the flag. Additionally, there is no indication that the person in the photo is wearing any clothing or accessories associated with the Republican Party or Donald Trump. Therefore, the photograph does not provide sufficient evidence to support the claim that the protester is burning a Trump flag.",
+    "refute_justification": "The photograph does not show a protester burning a Trump flag. The image is of a person holding a lit match near a small piece of paper with a Trump logo printed on it. This is not a demonstration of burning a flag.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "233",
+    "claim_text": "A 9-year-old girl who was impregnated by a Muslim man.",
+    "support_justification": "The claim is false. The age of consent in the United States is 16 years old. It is illegal for a child under the age of 16 to be married or sexually active with an adult.",
+    "refute_justification": "The claim is false. The age of consent in the United States is 16 years old. It is illegal for a child under the age of 16 to be married or sexually active with an adult.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "46",
+    "claim_text": "Picture of China launching a space rocket in December 2019.",
+    "support_justification": "The picture shows a Chinese rocket launch in December 2019. The image is contradictory to the text evidence as it does not match with the description given in the article.",
+    "refute_justification": "The picture shows a Chinese rocket launch in December 2019. The image is false because it does not show a recent launch.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "71",
+    "claim_text": "Image shows former child star Amanda Bynes wearing a willie product support t-shirt.",
+    "support_justification": "Amanda Bynes is not wearing a Willie product support t-shirt.",
+    "refute_justification": "The image does not show Amanda Bynes wearing a Willie product support t-shirt.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "196",
+    "claim_text": "Image shows a crowd of people during a 'crusade' by the religious group 'In His Name Ministries' in November 2014 in Nikomazi, South Africa.",
+    "support_justification": "The image does not support the claim that there was a 'crusade' by the religious group 'In His Name Ministries' in November 2014 in Nikomazi, South Africa.",
+    "refute_justification": "The image does not show any signs of a crusade.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "591",
+    "claim_text": "A photo shows Ukrainian soldiers entering the liberated part of Kiev where the people greet them with flowers in February 2022.",
+    "support_justification": "The image is contradictory to the textual evidence provided. The caption states that the photo was taken in February 2022, but the clothing of the soldiers suggests that it was taken later. Additionally, there is no indication that the soldiers are wearing any kind of uniform, which would be expected if they were Russian troops. Furthermore, the faces of the civilians do not show any sign of fear or distress, which would also be expected if they were being invaded by Russian forces.",
+    "refute_justification": "The image is false. The picture shows Russian soldiers entering Kiev, not Ukrainian.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "370",
+    "claim_text": "Ukrainian strongman Dmytro Vasilievich Khaladzhi - a power-lifting champion - carrying a horse.",
+    "support_justification": "The claim is refuted because there is no textual evidence that supports it. The image shows a man carrying a horse, which contradicts the claim that he is a powerlifting champion. Additionally, the man's clothing does not match the description of a powerlifter.",
+    "refute_justification": "The claim is false. The image does not show a Ukrainian strongman carrying a horse.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "633",
+    "claim_text": "Photograph shows British actor Sir Ian McKellen taking a selfie with a fan in November 2021 on Narrow St, London outside The Grapes – a pub leased by McKellen.",
+    "support_justification": "Sir Ian McKellen is a renowned British actor known for his roles in films such as 'The Lord of the Rings' and 'X-Men'. In November 2021, he was spotted taking a selfie with a fan outside The Grapes - a pub leased by McKellen in London. This photograph has sparked controversy among fans and media alike, leading to speculation about whether it is genuine or fabricated.\nHowever, upon closer examination, it appears that the photo is indeed authentic. The lighting, facial expression, and body language of McKellen all align with his usual style and demeanor. Additionally, the background of the photo matches the description given by the photographer. Furthermore, there is no visible tampering or editing present in the image.\nIn conclusion, the photograph appears to be genuine and accurate. It is likely that Sir Ian McKellen took this picture with a fan during his visit to London.",
+    "refute_justification": "Sir Ian McKellen is not taking a selfie with a fan at the pub called The Grapes on November 2021 on Narrow St, London.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "643",
+    "claim_text": "An image shows a protest on Bondi Beach against COVID-19 restrictions in Sydney, Australia on August 21 2021.",
+    "support_justification": "The claim is false. The photo does not show any sign of protest.",
+    "refute_justification": "The claim is false. The photo does not show any sign of protest.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "300",
+    "claim_text": "Photograph shows an injured police officer after altercations between police officers and protesters in Mexico in October 2012.",
+    "support_justification": "The photograph does not support the claim that the Mexican government is responsible for human rights violations. The image shows a wounded police officer, but there is no evidence to suggest that this is a result of government actions.",
+    "refute_justification": "The photograph does not show any signs of injury or trauma that would be consistent with being struck by a projectile.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "565",
+    "claim_text": "Image showing a group of truckers starting their workday with a prayer in March 2020 in Honduras.",
+    "support_justification": "The image shows a group of truckers starting their workday with a prayer in March 2020 in Honduras. The photo is captioned as \"A group of truckers start their day with a prayer.\"\nThis picture is an example of how religious beliefs can influence people's lives. It also shows that even in times of crisis, like the pandemic, people still find time to pray.",
+    "refute_justification": "The image shows a group of truckers starting their workday with a prayer in March 2020 in Honduras. The photo is taken at an outdoor location, possibly near a highway or other public area. The men are dressed casually, wearing hats and shirts, and appear to be standing together. They are holding hands and praying, likely before beginning their work day.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "80",
+    "claim_text": "Photograph of a living triceratops being unloaded from a truck in Indonesia in December 2020.",
+    "support_justification": "The photograph does not support the claim that there is a living triceratops in existence. The image appears to be a staged photo, with no credible sources or evidence to support its authenticity. Additionally, the species has been extinct for millions of years, making it impossible for any living specimens to exist today.",
+    "refute_justification": "The photograph does not show a living triceratops. The animal is a dinosaur that went extinct millions of years ago.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "387",
+    "claim_text": "Image of President Barack Obama and his family serving meals to homeless U.S. military veterans during an event at St. Luke's Methodist Church in Washington D.C. on 25 November 2015.",
+    "support_justification": "The image clearly shows that President Obama is serving meals to homeless U.S. military veterans during an event at St. Luke's Methodist Church in Washington D.C. on 25 November 2015. This contradicts the textual evidence which states that the president was not present at the event. Therefore, I must refute the claim as it is contradicted by the visual evidence.",
+    "refute_justification": "The image does not show any evidence that contradicts the claim.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "127",
+    "claim_text": "Image shows former U.S. President Barack Obama and first lady Michelle Obama marching with protesters against racial injustice and police violence in June 2020.",
+    "support_justification": "Former U.S. President Barack Obama and first lady Michelle Obama marched with protesters against racial injustice and police violence in June 2020.",
+    "refute_justification": "The image does not show former U.S. President Barack Obama and first lady Michelle Obama marching with protesters against racial injustice and police violence in June 2020.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "549",
+    "claim_text": "Photo of a Ukrainian jet flying so low that it collected a road sign during a military exercise on August 27, 2020.",
+    "support_justification": "The image is clearly showing a Ukrainian fighter aircraft flying very close to the ground, with its wingtip touching a road sign. This is an obvious violation of safety regulations and could potentially lead to accidents.",
+    "refute_justification": "The photo is not genuine. The road sign is actually part of a traffic light pole, which was accidentally mistaken for an object by the pilot.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "470",
+    "claim_text": "A photograph shows Wendy, a bully whippet that lives in Victoria, British Columbia, that weighs twice as much as a standard whippet due having two mutated copies of the gene.",
+    "support_justification": "The claim is refuted because there is no textual evidence supporting it. The photo does not show any information about the dog's weight, nor does it show any other relevant details. Additionally, the photo does not show any other dogs for comparison, which would be necessary to support the claim.",
+    "refute_justification": "The claim is false because there is no evidence that Wendy is a bully whippet.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "44",
+    "claim_text": "Image of an 8 year old Ukrainian girl confronting a Russian soldier and telling him to go back to his country, taken during Russia's invasion of Ukraine in March 2022.",
+    "support_justification": "The image is clearly showing that the child is standing in front of the soldier and asking him to go back to his country. This is a strong indication that the claim is false.",
+    "refute_justification": "The image is a hoax. The photo was manipulated by a Ukrainian activist group called \"Svitla Pravda.\"",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "270",
+    "claim_text": "A photograph shows a man in a polar bear costume being arrested during Flood Wall Street, an environmental protest staged in downtown Manhattan in 2014.",
+    "support_justification": "The photo clearly shows that the protester is wearing a polar bear costume, which is not a common sight at protests against climate change. Additionally, the protester's face is covered by a mask, making it difficult to identify him. Furthermore, the protester appears to be holding a sign that reads \"Stop Fossil Fuels,\" which contradicts the claim that he was protesting against police brutality.",
+    "refute_justification": "The image clearly shows that the protester is wearing a polar bear costume, which is not a common sight at protests against climate change. Additionally, the protester's face is covered by a mask, which makes it difficult to identify him as a specific individual. Furthermore, the protester appears to be holding a sign that reads \"Stop Climate Change,\" which contradicts the claim that he was protesting against police brutality.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "618",
+    "claim_text": "Image depicts a protest during the anti-government demonstrations in Algeria in early 2019.",
+    "support_justification": "The image does not support the claim that it is from the recent protests in Algeria. The photo appears to be from an earlier event, possibly related to the Arab Spring movement of 2010-2011.",
+    "refute_justification": "The image does not show any signs of violence or destruction, which would be expected if it were taken during the protests. Additionally, there is no visible sign of the date or location of the photo, making it difficult to verify its authenticity. Furthermore, the photo appears to have been edited, with the background being replaced by a white backdrop. These factors suggest that the photo may not be authentic.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "352",
+    "claim_text": "A photograph shows Cuban Elian Gonzalez refugee in a bedroom closet with Donato Dalrymple, one of the two men who rescued the boy from the sea, as federal agents enter the Little Havana home of Elian's relatives in 2000.",
+    "support_justification": "Elian was found in a closet by his father, Juan Miguel Gonzalez, after being rescued at sea by a group of fishermen.",
+    "refute_justification": "Elian is pictured in a bedroom closet with Donato Dalrymple, one of the two men who rescued the boy from the sea, as federal agents enter the Little Havana home of Elian's relatives in 2000.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "367",
+    "claim_text": "Image decpits members of the Air Force Officers’ Spouses’ Club taken at the annual Joint Armed Forces of Washington Luncheon (JAFOWL) on April 24.",
+    "support_justification": "The image clearly shows that the event was held at the Air Force Officers' Spouses' Club. The photo also depicts several attendees wearing military uniforms, indicating that some of the individuals present were active duty personnel.",
+    "refute_justification": "The image does not support the claim that the Air Force Officers' Spouses' Club is present at the JAFOWL luncheon.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "99",
+    "claim_text": "Photograph shows a member of Batista's army who was charged as a war criminal, being executed by a Fidel Castro firing squad.",
+    "support_justification": "The photograph does not support the claim that this person is a member of Batista's army. The image does not show any military insignia or uniform, nor does it indicate that the person is a soldier. Furthermore, there is no indication that the person was charged as a war criminal. Therefore, the photograph does not provide evidence to support the claim that this person was a member of Batista's army.",
+    "refute_justification": "The photograph does not show a member of Batista's army being executed by a firing squad. The man in the photo is wearing civilian clothing and appears to be standing at attention rather than kneeling before execution. Additionally, there is no indication that he was charged as a war criminal. Therefore, the claim is false.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "389",
+    "claim_text": "Image of President Barack Obama and his family serving meals to homeless U.S. military veterans during an event at St. Luke's Methodist Church in Washington D.C. on 25 November 2015.",
+    "support_justification": "The image clearly shows that President Obama is serving meals to homeless U.S. military veterans during an event at St. Luke's Methodist Church in Washington D.C. on 25 November 2015. This contradicts the textual evidence which states that the president was not present at the event. Therefore, I must refute the claim as it is contradicted by the visual evidence.",
+    "refute_justification": "The image does not show any evidence that contradicts the claim.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "94",
+    "claim_text": "A photograph of a 19 year-old Japanese student with an unusual punk-inspired style who has garnered some attention in the Tokyo.",
+    "support_justification": "The photo shows a young man wearing a black shirt and white pants, along with a black hat and a red bandana around his neck. He also has a small beard and mustache. His hair is styled in a mohawk, and he appears to be standing in front of a wall.",
+    "refute_justification": "The image does not support the claim that the young man is a member of a punk band.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "718",
+    "claim_text": "Photograph shows an alligator that has torn of the arm of a 59-year-old snorkeler in September 2007.",
+    "support_justification": "The image clearly shows an alligator biting the man's arm. This is a strong indication that the claim is false.",
+    "refute_justification": "The image clearly shows an alligator biting the man's arm. The man is holding his arm up to show the bite marks.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "344",
+    "claim_text": "Α photograph taken in 2009 during a Tea Party protest in West Palm Beach, Florida, in which parents brought their kids for a mock arrest to demonstrate how they are being saddled with debt from government spending.",
+    "support_justification": "The image is clearly a satire, as it depicts children being arrested for protesting against excessive government spending. The sign reads \"Tax Me Now,\" suggesting that the children are protesting against high taxes. This is a humorous way of showing that even young people are concerned about government spending and taxation.",
+    "refute_justification": "The image is clearly a staged photo intended to make a political statement about the Tea Party movement rather than an accurate representation of reality.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "220",
+    "claim_text": "Image shows a 'We plan to cut all homeless people in half by 2025' sign created by street artist who goes by the name of Foka Wolf.",
+    "support_justification": "The claim is false. The image does not show any evidence that supports the claim.",
+    "refute_justification": "The claim is false. The image does not show any evidence that supports the claim.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "159",
+    "claim_text": "Photograph shows a soldier rescuing a starving donkey during the Algerian War in 1958 by carrying it on his back.",
+    "support_justification": "The photograph does not support the claim that the French Army rescued a starving donkey during the Algerian War in 1958. The image is not authentic and has been manipulated.",
+    "refute_justification": "The photograph does not show a French soldier carrying a donkey on his back during the Algerian War in 1958. The image is actually a staged photo taken in 2006 by an Italian photographer who wanted to promote animal rights.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "696",
+    "claim_text": "A photograph shows a suffragete being attacked during the Black Friday suffragette protest in November 1910.",
+    "support_justification": "The photograph does not support the claim that the suffragette was attacked during the Black Friday protest. The image is not related to the event and cannot be used as evidence.",
+    "refute_justification": "The photograph does not show a suffragette being attacked during the Black Friday suffragette protest in November 1910.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "348",
+    "claim_text": "Photograph of a woman buried in the ground up to her neck, being fed water from a spoon just before being stoned to death in Iran.",
+    "support_justification": "The photograph is likely a hoax. The victim appears to be buried up to her neck in the ground, with her head above the surface. She is being fed water from a spoon, but there is no indication that she is actually drinking it. The victim's eyes are closed, suggesting that she may be unconscious or dead. There is no sign of blood or other bodily fluids on her face or body.",
+    "refute_justification": "The photograph is not authentic. The woman's head is visible above the ground, indicating that she is alive. Furthermore, there is no indication that she is being stoned to death.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "713",
+    "claim_text": "Photograph showing a family using a refrigerator as a makeshift boat after heavy rains hit the Greenspoint area of Houston, taken in April 2016.",
+    "support_justification": "The photograph shows a family using a refrigerator as a makeshift boat after heavy rains hit the Greenspoint area of Houston, taken in April 2016.",
+    "refute_justification": "The image is false because it does not show any evidence that the family used a refrigerator as a boat.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "163",
+    "claim_text": "Air Force One during U.S. President George W. Bush's trip to the annual NASCAR race in 2004.",
+    "support_justification": "The image clearly shows Air Force One during U.S. President George W. Bush's trip to the annual NASCAR race in 2004. This is an accurate representation of the event.",
+    "refute_justification": "The image does not show Air Force One landing at the Charlotte Motor Speedway.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "6",
+    "claim_text": "Image shows unnamed runway model showcasing designs from Chinese designer and performance artist Sheguang Hu's collection during the Mercedes-Benz China Fashion Week.",
+    "support_justification": "The image does not support the claim that Sheguang Hu is a Chinese designer. The model is wearing a black dress with white flowers and a red lipstick. This contradicts the claim that Sheguang Hu is a Chinese designer because there is no indication that the model is wearing any of his designs.",
+    "refute_justification": "The image does not show any of the models mentioned in the article.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "284",
+    "claim_text": "Image from surveillance video shows a group of plain clothed police officers shooting an armed robber in a pharmacy in Brazil, 2017.",
+    "support_justification": "The robbery was committed by a man with a gun.",
+    "refute_justification": "The robbery was committed by two individuals wearing masks and carrying firearms.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "603",
+    "claim_text": "Image shows Tennessee Republican Senator Marsha Blackburn at a hearing on the Department of Defense's budget requests for fiscal year 2023 held on April 7, 2022.",
+    "support_justification": "The image clearly shows that Senator Blackburn is present at the hearing.",
+    "refute_justification": "The image does not show any evidence that would support the claim.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "459",
+    "claim_text": "Image shows Joseph F. Smith, the 6th President of the Church of Jesus Christ of Latter-Day Saints, posing with his multiple wives and children in 1904.",
+    "support_justification": "The image does not support the claim that Joseph F. Smith was married to multiple women. The image shows him surrounded by his family members, including his wife Emma Smith and their children. There is no indication that any other women were present at the time. Additionally, there is no evidence to suggest that he had additional wives. Therefore, the claim that he was married to multiple women cannot be supported by the available evidence.",
+    "refute_justification": "The image does not show any of Joseph F. Smith's wives or children.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "225",
+    "claim_text": "A photograph shows columns of tanks taking part in President John Kennedy's inaugural parade.",
+    "support_justification": "The photo does not show any tanks in the president's inaugural parade.",
+    "refute_justification": "The photo does not show any tanks in the president's inaugural parade.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "429",
+    "claim_text": "A photograph shows a group of nuns holding guns from the Sisters of Divine Providence in 1957.",
+    "support_justification": "The image clearly shows that the nuns are holding guns, which is contradictory to the claim that they do not have weapons.",
+    "refute_justification": "The image does not show any evidence that the nuns were armed with guns. The caption states that they were holding rifles, but this is not supported by the photo itself. Additionally, the photo was taken in 1957, which was before the start of the Vietnam War, so it is unlikely that the nuns would have been carrying guns at that time.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "716",
+    "claim_text": "An image showing a convenience store in Houston that had been looted during Hurricane Harvey in 2017.",
+    "support_justification": "The claim is refuted because there is no evidence of looting in the image. The image shows a convenience store with broken windows due to the hurricane, but there is no indication of any damage caused by looters. Additionally, the location of the store is unknown, so it cannot be confirmed that it was located in Houston.",
+    "refute_justification": "The image shows a convenience store in Houston that had been looted during Hurricane Harvey in 2017. The looting was widespread and widespread across the city, with many businesses being completely destroyed.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "665",
+    "claim_text": "An image documents a cow with a surgical fistula, a procedure that provides researchers a window to see into the cow's digestive system and to allow the transfer of microbes between healthy and sick cows.",
+    "support_justification": "The claim is refuted because there is no supporting text evidence that contradicts the visual evidence.",
+    "refute_justification": "The claim is false. The image does not show a cow with a fistula.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "203",
+    "claim_text": "A photograph from the 1977 ballet 'Blaubart' by the late German dancer and choreographer Pina Bausch.",
+    "support_justification": "The image of the dance performance is contradictory to the textual evidence provided. The photo shows dancers performing a dance routine, but there is no mention of any specific event or performance in the text. Additionally, the photo does not show any costumes or props that would be associated with a particular dance style. Therefore, it is difficult to determine whether the photo supports the claim that the dance was performed at the opening ceremony of the Olympic Games.",
+    "refute_justification": "The image does not support the claim that it is from the 1977 ballet 'Blaubart' by the late German dancer and choreographer Pina Bausch.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "574",
+    "claim_text": "Image shows fires burning and smoke billowing over Kyiv’s Independence Square after demonstrations against then president Viktor Yanukovich on February 19, 2014.",
+    "support_justification": "The image clearly shows fires burning and smoke billowing over Kyiv's Independence Square on February 19, 2014. This is contradictory to the given claim that it was peaceful protests.",
+    "refute_justification": "The image does not show any evidence of fires burning or smoke billowing over Kyiv's Independence Square on February 19, 2014.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "27",
+    "claim_text": "Image of a bus powered by compressed natural gas, bursting into flames in Italy.",
+    "support_justification": "The claim is false. The image shows a bus powered by compressed natural gas that burst into flames in Italy. However, there is no evidence to support this claim. In fact, there have been no reports of buses powered by CNG catching fire in Italy. Furthermore, the image does not show any evidence of CNG being used in the bus. Therefore, the claim is false.",
+    "refute_justification": "The image shows a bus powered by compressed natural gas that burst into flames in Italy. This is false as there is no evidence to support this claim. The bus was actually powered by diesel fuel and caught fire due to mechanical problems.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "616",
+    "claim_text": "Image depicts a protest during the anti-government demonstrations in Algeria in early 2019.",
+    "support_justification": "The image does not support the claim that it is from the recent protests in Algeria. The photo appears to be from an earlier event, possibly related to the Arab Spring movement of 2010-2011.",
+    "refute_justification": "The image does not show any signs of violence or destruction, which would be expected if it were taken during the protests. Additionally, there is no visible sign of the date or location of the photo, making it difficult to verify its authenticity. Furthermore, the photo appears to have been edited, with the background being replaced by a white backdrop. These factors suggest that the photo may not be authentic.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "517",
+    "claim_text": "Photograph shows the sinking of the 'Kharg', Iran’s largest navy ship, after catching fire in the Gulf of Oman in June 2021.",
+    "support_justification": "The photograph does not show the sinking of the 'Kharg', Iran's largest navy ship, after catching fire in the Gulf of Oman in June 2021. The image is a composite with an altered background.",
+    "refute_justification": "The photograph does not show the sinking of the 'Kharg', Iran's largest navy ship, after catching fire in the Gulf of Oman in June 2021.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "238",
+    "claim_text": "A photograph shows Brad Pitt in costume as Bob Marley in preparation for an upcoming biopic.",
+    "support_justification": "The photo of Brad Pitt in costume as Bob Marley is false. The actor has never been known to play a role in a movie about the reggae musician.",
+    "refute_justification": "The photo of Brad Pitt in costume as Bob Marley is false.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "223",
+    "claim_text": "A photograph shows three U.S. women's soccers players after visiting the Jewish heritage museum in New York City.",
+    "support_justification": "The photo is false because it does not show any of the three soccer players at the museum.",
+    "refute_justification": "The image clearly shows that the three soccer players are wearing different uniforms.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "95",
+    "claim_text": "A photograph shows the Supreme Army General of Antifa in Portland.",
+    "support_justification": "The image does not show the Supreme Army General of Antifa in Portland. The photo is a satirical meme that has been circulating online, and it is not an accurate representation of any real event or person.",
+    "refute_justification": "The image does not show the Supreme Army General of Antifa in Portland.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "30",
+    "claim_text": "A Norwegian naval ship is being struck by a missile that was fired by the Norwegian Navy in 2013",
+    "support_justification": "The claim is false. The image clearly shows a missile launched by the Norwegian Navy in 2013. This contradicts the claim that it was launched by an enemy force.",
+    "refute_justification": "The claim is false. The image does not show a missile strike on a Norwegian naval ship.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "32",
+    "claim_text": "Image shows a giant snake skeleton, that of the extinct Titanoboa, was discovered in France on Google Maps.",
+    "support_justification": "The claim is false. The image does not show a giant snake skeleton. It is a hoax created by an individual who posted it online as a joke.",
+    "refute_justification": "The claim is false. The image does not show a giant snake skeleton.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "432",
+    "claim_text": "A photograph depicts a Six Flags Over Georgia theme park submerged in Atlanta floods on 23 September 2009.",
+    "support_justification": "The claim is refuted by the visual evidence. The image clearly shows that the Six Flags Over Georgia theme park is not submerged in water. It is visible and dry. This contradicts the textual evidence, which states that the park was flooded on 23 September 2009.",
+    "refute_justification": "The image clearly shows that the water level is rising rapidly, indicating an imminent flood.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "604",
+    "claim_text": "Image shows 2015 Miss Ukraine, Anastasiia Lenna equipped with a mock rifles while playing airsoft.",
+    "support_justification": "Anastasiia Lenna is an actress and model who was born in Kiev, Ukraine. She has appeared in several films and television shows, as well as fashion campaigns. In 2015, she was crowned Miss Ukraine, but later resigned after being accused of using her position to promote a pro-Russian separatist group.",
+    "refute_justification": "Anastasiia Lenna is wearing a military uniform and holding a rifle that appears to be real.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "89",
+    "claim_text": "Image shows three U.S. Democratic senators during the confirmation hearing of Supreme Court nominee Brett Kavanaugh in September 2018.",
+    "support_justification": "The image clearly shows that all three senators were present at the hearing.",
+    "refute_justification": "The image does not show any of the three U.S. Democratic senators mentioned in the claim.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "558",
+    "claim_text": "Image shows Klaus Schwab, founder of the World Economic Forum, with U2 front man Bono, heading to the 'Special 10th Anniversary Celebration of the (RED) Campaign' during the WEF annual meeting in Davos January 22, 2016.",
+    "support_justification": "Bono is wearing a red shirt and black jeans.",
+    "refute_justification": "The image does not show any evidence that supports the claim.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "692",
+    "claim_text": "A photograph shows a 110-pound squirrel shot by a hunter in North Texas.",
+    "support_justification": "The claim is refuted because the image of the squirrel is inconsistent with the description provided in the text. The weight of the animal is significantly higher than the average weight of a wild squirrel, which is typically around 2 pounds. Additionally, the size of the animal is also larger than usual, indicating that it may have been fed or bred for hunting purposes. Therefore, the claim is false and should be rejected as inaccurate.",
+    "refute_justification": "The claim is false. The image of the squirrel is not real. It is a hoax.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "104",
+    "claim_text": "Image of Jesus by artist Rob Ferrel who uses a variety of media to create his artworks, including salt and other food products.",
+    "support_justification": "Rob Ferrel is an American contemporary artist known for his unique use of food as a medium in his art. His work often features everyday objects such as bread, cheese, and fruit, which he combines with traditional painting techniques to create visually striking and thought-provoking pieces. In particular, his series \"Food Portraits,\" which feature portraits of people made entirely out of food, have garnered significant attention and acclaim.",
+    "refute_justification": "The image does not show Jesus as depicted in Christian tradition. The figure is unrecognizable and appears to be a generic person.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "142",
+    "claim_text": "Photograph shows McDonald's burning in November 2016 after a grease fire started in Lebanon, Pennsylvania.",
+    "support_justification": "The photograph does not support the claim that the restaurant was burning in November 2016. The image is of a fire at a different location, unrelated to the restaurant.",
+    "refute_justification": "The image does not show the restaurant burning.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "228",
+    "claim_text": "A German-English dictionary used as part of a crystallization experiment by Catherine McEver in 2014.",
+    "support_justification": "The claim is refuted because the image shows a different book than the one referenced in the text.",
+    "refute_justification": "The claim is false. The dictionary was not used as part of an experiment by Catherine McEver in 2014.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "250",
+    "claim_text": "A photograph captures a cruise ship starting up its turbines before dropping anchor, stiring sand and mud from the bottom of the water, causing the brown clouds visible in the water.",
+    "support_justification": "The claim is refuted by the visual evidence. The image clearly shows that the ship's engines are running, which contradicts the claim that it has dropped anchor. Additionally, the photo also reveals that the ship is surrounded by murky brown waters, indicating that the ship is stirring up sediment from the ocean floor.",
+    "refute_justification": "The claim is false. The photo does not show the ship stirring up sand and mud from the bottom of the water.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "281",
+    "claim_text": "A photograph shows an Immigrant at the 'Customs and Border Protection' facility in South Texas with a case of scabies on June 2014.",
+    "support_justification": "The image is contradictory to the textual evidence provided. The photograph does not show any signs of scabies on the person.",
+    "refute_justification": "The image is false.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "25",
+    "claim_text": "Image of a bus powered by compressed natural gas, bursting into flames in Italy.",
+    "support_justification": "The claim is false. The image shows a bus powered by compressed natural gas that burst into flames in Italy. However, there is no evidence to support this claim. In fact, there have been no reports of buses powered by CNG catching fire in Italy. Furthermore, the image does not show any evidence of CNG being used in the bus. Therefore, the claim is false.",
+    "refute_justification": "The image shows a bus powered by compressed natural gas that burst into flames in Italy. This is false as there is no evidence to support this claim. The bus was actually powered by diesel fuel and caught fire due to mechanical problems.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "114",
+    "claim_text": "Photgraph of President Obama, Dr. Anthony Fauci, and Melinda Gates at a laboratory in Wuhan, China, in 2015.",
+    "support_justification": "The photo is clearly fake. The image has been manipulated with Photoshop to include President Obama, Dr. Anthony Fauci, and Melinda Gates. This is an example of misinformation being spread by anti-science groups.",
+    "refute_justification": "The image does not refute the claim that the United States funded research into the development of the SARS-CoV-2 virus in Wuhan, China.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "654",
+    "claim_text": "Image shows a helicopter doing a de-icing test on a windfarm in Uljabuouda in Arjeplog municipality, Sweden during the winter of 2014.",
+    "support_justification": "The image clearly shows a helicopter performing a de-icing test on a wind farm located in Uljabuouda in Arjeplog municipality, Sweden during the winter of 2014. The helicopter is equipped with a specialized device that uses pressurized water to remove snow and ice from the blades of the wind turbines. This process is essential to ensure the proper functioning of the wind farm and prevent any potential damage caused by accumulated snow and ice.",
+    "refute_justification": "The image does not show a helicopter doing a de-icing test on a windfarm in Uljabuouda in Arjeplog municipality, Sweden during the winter of 2014.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  }
+]

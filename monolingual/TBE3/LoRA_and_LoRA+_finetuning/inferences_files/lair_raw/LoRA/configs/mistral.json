@@ -1,0 +1,9 @@
+{
+"base_model_path": "mistralai/Mistral-7B-Instruct-v0.3",
+"adapter_path": "checkpoint/TBE3/LIAR_RAW/LoRA/mistral",
+"test_data_path":"mistral_lair_raw__test_transformed_dataset.json",
+"output_dir":"results/TBE3/LoRA/LAIR_RAW/mistral",
+"max_new_tokens": 256,
+"temperature": 0.01,
+"truncate_len": 2048
+}

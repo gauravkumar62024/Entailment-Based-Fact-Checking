@@ -1,0 +1,117 @@
+[
+  {
+    "claim": "The Obama administration provided a $3.7 million grant to the Wuhan Institute of Virology in China.",
+    "true_label": "half",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "In 1994, a 17-year-old Eagle Scout built a nuclear reactor in his mother’s backyard, an act that ultimately necessitated a Superfund cleanup.",
+    "true_label": "true",
+    "predicted_label": "half"
+  },
+  {
+    "claim": "A chart accurately shows the effectiveness of wearing face masks during the COVID-19 pandemic. ",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "In response to a question in a July 2020 CNN interview about what would happen if a COVID-19 outbreak occurred in schools, U.S. Education Secretary Betsy DeVos said, “You can’t plan for something that hasn’t happened yet.”",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "In late 2019, a pattern of incidents existed whereby motorists were tricked into stopping their cars by a person lying in the road, as part of a prevalent sex-trafficking tactic in Tampa, Florida. ",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "A gunman associated with the Black Lives Matter (BLM) movement shot and wounded two Los Angeles County sheriff's deputies on Sept. 12, 2020, and BLM protesters afterwards blocked emergency access to the hospital where the deputies received medical treatment.",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "Mark Zuckerberg admitted or bragged that Facebook banned pro-life advertising, in particular, during Ireland's 2018 abortion-referendum campaign. ",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "A TEDx speaker gave a talk that referred to pedophilia as an 'unchangeable sexual orientation.'",
+    "true_label": "true",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "A photograph shows a large species of megabat.",
+    "true_label": "true",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "A graphic shows contradictory CNN articles about hydroxychloroquine, published three months apart and co-authored by the same person.",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "When U.S. President Donald Trump was asked what he'd say to people who lost family members to COVID-19, he replied, \"I would say this didn't hurt anyone as much as it hurt me.\"",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "In February 2020 the Vatican said that Pope Francis and two aides had tested positive for COVID-19, a disease caused by a new coronavirus.",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "Sen. Kamala Harris lied about being in the second racially integrated class at Berkeley Public Schools.",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "Walmart is selling 'satanic' items.",
+    "true_label": "half",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "Democratic Florida State Representative Kimberly Daniels once said, \"I thank God for slavery.\"",
+    "true_label": "true",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "The Trump Administration’s policies have halted a research effort seeking a cure for HIV.",
+    "true_label": "true",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "Controlled blasting was used near Native American burial sites during the the construction of a U.S.-Mexico border wall in Arizona's Organ Pipe Cactus National Monument.",
+    "true_label": "true",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "Canada was placed under a nationwide boil-water notice in the spring of 2019. ",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "A photograph shows Keanu Reeves and dozens of cats he saved from euthanasia. ",
+    "true_label": "false",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "A 13-year-old girl was beheaded by an \"illegal immigrant\" in a crime \"suppressed\" by the mainstream news media.",
+    "true_label": "half",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "Jack and Rosie Riddle were photographed in 1948 accepting a radio from a group of Ku Klux Klan members.",
+    "true_label": "true",
+    "predicted_label": "false"
+  },
+  {
+    "claim": "Washington state Sen. Maureen Walsh said nurses \"play cards for a considerable amount of the day.\" ",
+    "true_label": "half",
+    "predicted_label": "true"
+  },
+  {
+    "claim": "Donald Trump \"bankrupted\" a golf course in Puerto Rico, leaving taxpayers there on the hook for $33 million worth of debt.",
+    "true_label": "half",
+    "predicted_label": "true"
+  }
+]

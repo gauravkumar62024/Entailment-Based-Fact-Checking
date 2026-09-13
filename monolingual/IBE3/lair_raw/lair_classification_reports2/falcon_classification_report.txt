@@ -1,0 +1,30 @@
+              precision    recall  f1-score   support
+
+  pants-fire     0.2143    0.0353    0.0606        85
+       false     0.2857    0.2249    0.2517       249
+ barely-true     0.2051    0.1905    0.1975       210
+   half-true     0.2450    0.2319    0.2383       263
+ mostly-true     0.2537    0.3571    0.2967       238
+        true     0.2452    0.3122    0.2747       205
+
+    accuracy                         0.2472      1250
+   macro avg     0.2415    0.2253    0.2199      1250
+weighted avg     0.2460    0.2472    0.2391      1250
+
+
+
+lair_raw 
+	precision    recall  f1-score 
+macro avg     0.2415    0.2253    0.2100 (falcon )
+macro avg     0.2686    0.1935    0.1634  (gemma)
+macro avg     0.2604    0.2277    0.2071  (llama)
+macro avg     0.3917    0.2298    0.2047  (mistral)
+macro avg     0.2416    0.2236    0.2082  (qwen )
+
+rawfc
+	     precision    recall  f1-score
+macro avg     0.5997    0.5246    0.4821  (falcon)
+macro avg     0.4518    0.4092    0.3909  (gemma)
+macro avg     0.4507    0.4753    0.4089  (llama)
+macro avg     0.5070    0.5204    0.4487  (mistral)
+ macro avg     0.5681    0.5397    0.5210 (qwen)

@@ -1,0 +1,8 @@
+metric	value
+rouge1_f	0.1734
+rouge2_f	0.0529
+rougeL_f	0.1098
+bleu	0.0213
+bert_p	-0.1272
+bert_r	0.0847
+bert_f1	-0.0232

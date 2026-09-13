@@ -1,0 +1,10 @@
+python falcon3_lair_raw_tb3_lora123.py
+python falcon3_lair_raw_tb3_lora999.py
+python gemma_lair_raw_tb3_lora123.py
+python gemma_lair_raw_tb3_lora999.py
+python llama_lair_raw_tb3_lora123.py
+python llama_lair_raw_tb3_lora999.py
+python mistral_lair_raw_tb3_lora123.py
+python mistral_lair_raw_tb3_lora999.py
+python qwen2.5_lair_raw_tb3_lora123.py
+python qwen2.5_lair_raw_tb3_lora999.py

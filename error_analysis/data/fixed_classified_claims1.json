@@ -1,0 +1,1202 @@
+[
+  {
+    "claim": "Elephants think of humans as \"cute,\" in the same manner that humans think of kittens or puppies.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim is related to the behavior and cognitive abilities of animals, which falls under the field of biology and natural sciences.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim is related to the behavior and cognitive abilities of animals, which falls under the field of biology and natural sciences. </explanation>"
+  },
+  {
+    "claim": "Electric car manufacturers rely on child labor to extract cobalt for their car batteries.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis claim falls under Social and Political Issues because it involves a social concern (child labor) related to a political and economic context (electric car manufacturing).",
+    "llm_response": "<Social and Political Issues> \nThis claim falls under Social and Political Issues because it involves a social concern (child labor) related to a political and economic context (electric car manufacturing)."
+  },
+  {
+    "claim": "A video shows a chicken being hypnotized by holding its head down and \"drawing\" a line in the sand extending from its beak.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a demonstration of a scientific phenomenon or experiment involving animals, specifically a chicken, and a natural environment.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a demonstration of a scientific phenomenon or experiment involving animals, specifically a chicken, and a natural environment. </explanation>"
+  },
+  {
+    "claim": "Democratic presidential candidate Joe Biden said U.S. taxpayers have an obligation to fund health care for 11 million \"illegal immigrants.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves a statement made by a presidential candidate regarding a policy position, indicating a focus on government and politics.",
+    "llm_response": "<Politics and Government> \nThe claim involves a statement made by a presidential candidate regarding a policy position, indicating a focus on government and politics."
+  },
+  {
+    "claim": "U.S. actor Tom Hanks is related to \"Mister Rogers' Neighborhood\" host Fred Rogers.",
+    "category": "Entertainment and Media",
+    "explanation": "<Entertainment and Media> \nThis category was chosen because the claim is about a well-known television personality and a famous actor, indicating it falls under the entertainment industry.",
+    "llm_response": "<Entertainment and Media> \nThis category was chosen because the claim is about a well-known television personality and a famous actor, indicating it falls under the entertainment industry."
+  },
+  {
+    "claim": "Michelle Obama's book \"Becoming\" sold more copies in its first week than Donald Trump's \"The Art of the Deal\" did in 32 years.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim involves a comparison between the sales of books by two high-profile political figures, which falls under the category of Politics and Government.",
+    "llm_response": "<Politics and Government> \nThis claim involves a comparison between the sales of books by two high-profile political figures, which falls under the category of Politics and Government."
+  },
+  {
+    "claim": "U.S. President Donald Trump issued an executive order in July 2020 that will lower the price Americans pay for insulin to \"pennies a day.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a specific action taken by a U.S. President, indicating a government-related topic.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a specific action taken by a U.S. President, indicating a government-related topic."
+  },
+  {
+    "claim": "Martial arts star Jet Li is in frail health, as shown in a recent photograph.",
+    "category": "Health and Wellness",
+    "explanation": "<Health and Wellness> \nThis category was chosen because the claim is about the physical health of a person, specifically Jet Li.",
+    "llm_response": "<Health and Wellness> \nThis category was chosen because the claim is about the physical health of a person, specifically Jet Li."
+  },
+  {
+    "claim": "Health officials warned that a new STD superbug could be deadlier than AIDS.",
+    "category": "Health and Wellness",
+    "explanation": "This category was chosen because the claim is about a health-related issue, specifically a new STD superbug, which is a concern for public health and wellness.",
+    "llm_response": "<category> Health and Wellness </category>\n<explanation> This category was chosen because the claim is about a health-related issue, specifically a new STD superbug, which is a concern for public health and wellness. </explanation>"
+  },
+  {
+    "claim": "Did Mike Pompeo declare, \"We will continue to fight these battles. It is a never-ending struggle ... until the Rapture.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a public figure, Mike Pompeo, which is related to a political or governmental context.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a public figure, Mike Pompeo, which is related to a political or governmental context."
+  },
+  {
+    "claim": "U.S. President Donald Trump tweeted that economic stimulus checks would only go to those who have not made negative social media comments about him.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim involves a statement made by a U.S. President regarding a policy decision, indicating its relevance to the field of politics and government.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim involves a statement made by a U.S. President regarding a policy decision, indicating its relevance to the field of politics and government."
+  },
+  {
+    "claim": "The NFL gave Donald Trump a \"lifetime ban\" after he was involved in a disastrous lawsuit against the league.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves a specific event related to the National Football League (NFL) and a public figure, which falls under the broader topic of politics and government, particularly involving the intersection of sports and public figures with government bodies.",
+    "llm_response": "<Politics and Government> \nThe claim involves a specific event related to the National Football League (NFL) and a public figure, which falls under the broader topic of politics and government, particularly involving the intersection of sports and public figures with government bodies."
+  },
+  {
+    "claim": "UPS lost a family's $846,000 inheritance check but would only refund them the $32 shipping fee.",
+    "category": "Crime and Safety",
+    "explanation": "<Crime and Safety> \nThis category was chosen because the claim involves a dispute over a lost item and a company's response to it, which falls under the umbrella of safety and protection of personal property. The claim also implies a potential breach of trust or responsibility.",
+    "llm_response": "<Crime and Safety> \nThis category was chosen because the claim involves a dispute over a lost item and a company's response to it, which falls under the umbrella of safety and protection of personal property. The claim also implies a potential breach of trust or responsibility."
+  },
+  {
+    "claim": "The U.S. Department of Justice issued a card that exempts holders from wearing face masks on the grounds that it poses a health risk to them due to medical conditions they aren't required to disclose by authority of the Americans with Disabilities Act (ADA).",
+    "category": "Legal and Regulatory Information",
+    "explanation": "<Legal and Regulatory Information> \nThis category was chosen because the claim involves the U.S. Department of Justice and the Americans with Disabilities Act (ADA), indicating a discussion about laws and regulations.",
+    "llm_response": "<Legal and Regulatory Information> \nThis category was chosen because the claim involves the U.S. Department of Justice and the Americans with Disabilities Act (ADA), indicating a discussion about laws and regulations."
+  },
+  {
+    "claim": "A Black Lives Matter organizer said, \"I don't care if someone decides to loot.\"",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim is related to a statement made by a Black Lives Matter organizer, indicating a discussion about social and political issues, specifically the Black Lives Matter movement.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim is related to a statement made by a Black Lives Matter organizer, indicating a discussion about social and political issues, specifically the Black Lives Matter movement."
+  },
+  {
+    "claim": "The Trump Administration is seeking to monitor social media posts of disability recipients.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government\nThe claim is related to government actions and policies, specifically the actions of a presidential administration. This indicates a topic within the realm of politics and government.",
+    "llm_response": "<Politics and Government\nThe claim is related to government actions and policies, specifically the actions of a presidential administration. This indicates a topic within the realm of politics and government."
+  },
+  {
+    "claim": "Costco toilet paper damages septic tanks.",
+    "category": "Product and Shopping Queries",
+    "explanation": "<Product and Shopping Queries</Product and Shopping Queries>\nThe claim is about the potential issue with a specific product (Costco toilet paper) in relation to its impact on a septic tank, suggesting a query about the product's quality or suitability for use.",
+    "llm_response": "<Product and Shopping Queries</Product and Shopping Queries>\nThe claim is about the potential issue with a specific product (Costco toilet paper) in relation to its impact on a septic tank, suggesting a query about the product's quality or suitability for use."
+  },
+  {
+    "claim": "President Trump congratulated the wrong state for the Chiefs' 2020 Super Bowl win.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government</Politics and Government>\nThis category was chosen because the claim involves a public figure and an official action related to governance, specifically the presidency.",
+    "llm_response": "<Politics and Government</Politics and Government>\nThis category was chosen because the claim involves a public figure and an official action related to governance, specifically the presidency."
+  },
+  {
+    "claim": "Thirty-nine missing children were found in a double-wide trailer in the state of Georgia.",
+    "category": "Crime and Safety",
+    "explanation": "<crime and safety> Crime and Safety </crime and safety>\nThis category was chosen because the claim involves the discovery of missing children, which is a topic related to safety and potentially a crime.",
+    "llm_response": "<crime and safety> Crime and Safety </crime and safety>\nThis category was chosen because the claim involves the discovery of missing children, which is a topic related to safety and potentially a crime."
+  },
+  {
+    "claim": "In his farewell address to the House of Representatives in 2012, Ron Paul described Congress as “a bunch of psychopathic authoritarians.”",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is related to a political figure's statement about the government, which falls under the broader category of politics and government.",
+    "llm_response": "<Politics and Government> \nThis claim is related to a political figure's statement about the government, which falls under the broader category of politics and government."
+  },
+  {
+    "claim": "A significant number of internet users 'attacked' Andrew Pollack, a man mourning the death of his daughter, on the basis of his support for Donald Trump.",
+    "category": "Politics and Government",
+    "explanation": "<politics_and_government> \nThe claim involves a political figure (Donald Trump) and an online social issue, indicating a topic related to politics and government. </politics_and_government>",
+    "llm_response": "<politics_and_government> \nThe claim involves a political figure (Donald Trump) and an online social issue, indicating a topic related to politics and government. </politics_and_government>"
+  },
+  {
+    "claim": "U.S. President Donald Trump said he \"tested very positively\" for COVID-19, meaning his test results came back negative, and he did not have the coronavirus disease.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves a statement made by a U.S. President, indicating that the category is related to the governance and activities of a government official.",
+    "llm_response": "<Politics and Government> \nThe claim involves a statement made by a U.S. President, indicating that the category is related to the governance and activities of a government official."
+  },
+  {
+    "claim": "A video shows Fox News host Tucker Carlson saying that he was \"basically on board\" with the tenets of democratic socialism.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim falls under Politics and Government because it involves a statement from a prominent figure in the media regarding their stance on a specific political ideology.",
+    "llm_response": "<Politics and Government> \nThis claim falls under Politics and Government because it involves a statement from a prominent figure in the media regarding their stance on a specific political ideology."
+  },
+  {
+    "claim": "In late 2019, a pattern of incidents existed whereby motorists were tricked into stopping their cars by a person lying in the road, as part of a prevalent sex-trafficking tactic in Tampa, Florida.",
+    "category": "Crime and Safety",
+    "explanation": "<crime-and-safety> Crime and Safety </crime-and-safety>\nThis category was chosen because the claim involves a specific type of crime and a safety concern related to a tactic used in sex trafficking.",
+    "llm_response": "<crime-and-safety> Crime and Safety </crime-and-safety>\nThis category was chosen because the claim involves a specific type of crime and a safety concern related to a tactic used in sex trafficking."
+  },
+  {
+    "claim": "The Paradise Adventist Academy in California received around $13,000 in donations as well as new uniforms and clothes from an opponent in a game played shortly after their hometown was destroyed by the Camp Fire.",
+    "category": "Social and Political Issues",
+    "explanation": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a community coming together to support a school affected by a natural disaster, which is a social and political issue related to community response and charity.",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a community coming together to support a school affected by a natural disaster, which is a social and political issue related to community response and charity."
+  },
+  {
+    "claim": "Another man was responsible for the assault that Christine Blasey Ford described as being perpetrated by Judge Brett Kavanaugh.",
+    "category": "Politics and Government",
+    "explanation": "This category was chosen because the claim involves a specific event and figure related to a government position, specifically a Supreme Court judge, and a controversy surrounding a political nomination.",
+    "llm_response": "<category> Politics and Government </category>\n<explanation> This category was chosen because the claim involves a specific event and figure related to a government position, specifically a Supreme Court judge, and a controversy surrounding a political nomination. </explanation>"
+  },
+  {
+    "claim": "A newly discovered species of amphibian was named \"Dermophis donaldtrumpi\" as an unflattering reference to the U.S. President.",
+    "category": "Science and Nature",
+    "explanation": "<science_and_nature> This category was chosen because the claim is about a newly discovered species of amphibian, which falls under the broader category of natural sciences. The topic is related to the discovery and classification of a new species, a common topic in the field of biology. </science_and_nature>",
+    "llm_response": "<science_and_nature> This category was chosen because the claim is about a newly discovered species of amphibian, which falls under the broader category of natural sciences. The topic is related to the discovery and classification of a new species, a common topic in the field of biology. </science_and_nature>"
+  },
+  {
+    "claim": "In response to a question in a July 2020 CNN interview about what would happen if a COVID-19 outbreak occurred in schools, U.S. Education Secretary Betsy DeVos said, “You can’t plan for something that hasn’t happened yet.”",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a government official (U.S. Education Secretary Betsy DeVos) in a specific context (a CNN interview), indicating its relevance to the realm of politics and government.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a government official (U.S. Education Secretary Betsy DeVos) in a specific context (a CNN interview), indicating its relevance to the realm of politics and government."
+  },
+  {
+    "claim": "Prince Philip mistakenly referred to Melania Trump as 'Stormy' during the U.S. First Couple's state visit to the UK.",
+    "category": "Politics and Government",
+    "explanation": "This category was chosen because the claim involves a state visit, a governmental event, and a high-ranking official, indicating a topic related to politics and government.",
+    "llm_response": "<Politics and Government>\n<explanation> This category was chosen because the claim involves a state visit, a governmental event, and a high-ranking official, indicating a topic related to politics and government. </explanation>"
+  },
+  {
+    "claim": "A crowdfunding campaign on the Christian site GiveSendGo solicited donations to help Kyle Rittenhouse, a 17-year-old accused of killing two people at a protest in Kenosha, Wisconsin.",
+    "category": "Crime and Safety",
+    "explanation": "<Crime and Safety> \nThis claim falls under the category of Crime and Safety because it involves a serious incident of violence and a legal issue surrounding the accused individual.",
+    "llm_response": "<Crime and Safety> \nThis claim falls under the category of Crime and Safety because it involves a serious incident of violence and a legal issue surrounding the accused individual."
+  },
+  {
+    "claim": "Nike donated three times more to Republicans than Democrats during the 2018 federal election cycle, up to August 2018.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThis category was chosen because the claim discusses the political donations made by Nike during an election cycle, indicating a focus on the intersection of politics and government.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThis category was chosen because the claim discusses the political donations made by Nike during an election cycle, indicating a focus on the intersection of politics and government."
+  },
+  {
+    "claim": "A photograph shows a giant snake found by a plumber investigating a clogged pipe.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a discovery related to the natural world, specifically a photograph of a snake, which falls under the realm of biology and the natural sciences.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a discovery related to the natural world, specifically a photograph of a snake, which falls under the realm of biology and the natural sciences. </explanation>"
+  },
+  {
+    "claim": "Magnus Söderlund proposed or advocated eating human flesh as a solution to climate change in remarks he made on Sept. 3, 2019.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis claim involves a public figure's opinion on a social and political issue related to climate change.",
+    "llm_response": "<Social and Political Issues> \nThis claim involves a public figure's opinion on a social and political issue related to climate change."
+  },
+  {
+    "claim": "Jack and Rosie Riddle were photographed in 1948 accepting a radio from a group of Ku Klux Klan members.",
+    "category": "History and Culture",
+    "explanation": "<history-and-culture> This category was chosen because the claim involves historical figures and a specific event related to a historical period and cultural context. </history-and-culture>",
+    "llm_response": "<history-and-culture> This category was chosen because the claim involves historical figures and a specific event related to a historical period and cultural context. </history-and-culture>"
+  },
+  {
+    "claim": "Actor Tom Cruise released a video announcing that he was running for U.S. president in 2020.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a political figure announcing a run for public office, which falls under the realm of politics and government.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a political figure announcing a run for public office, which falls under the realm of politics and government."
+  },
+  {
+    "claim": "Disney is set to announce a live-action remake of the film \"Hercules\" at D23.",
+    "category": "Entertainment and Media",
+    "explanation": "This category was chosen because the claim is related to an upcoming film project announcement in the entertainment industry.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> This category was chosen because the claim is related to an upcoming film project announcement in the entertainment industry. </explanation>"
+  },
+  {
+    "claim": "Democratic Florida State Representative Kimberly Daniels once said, \"I thank God for slavery.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category is chosen because the claim involves a statement made by a government official, indicating a topic related to politics and government.",
+    "llm_response": "<Politics and Government> \nThis category is chosen because the claim involves a statement made by a government official, indicating a topic related to politics and government."
+  },
+  {
+    "claim": "The U.S. Postal Service placed locks on mailboxes to prevent voters from casting mail-in ballots in the 2020 presidential election.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a specific event related to the administration and operation of government, specifically the U.S. Postal Service, in the context of an election.",
+    "llm_response": "<Politics and Government> \nThis claim is about a specific event related to the administration and operation of government, specifically the U.S. Postal Service, in the context of an election."
+  },
+  {
+    "claim": "Some visitors to Joshua Tree National Park cut down trees and perpetrated other acts of vandalism in January 2019 while staff, whose numbers were diminished due to the federal government shutdown, attempted to monitor visitor behavior.",
+    "category": "Social and Political Issues",
+    "explanation": "This category was chosen because the claim involves a social issue (vandalism) and a political context (federal government shutdown impacting park staff).",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a social issue (vandalism) and a political context (federal government shutdown impacting park staff). </explanation>"
+  },
+  {
+    "claim": "Taking a few sips of water every 15 mins will prevent the new coronavirus from entering your windpipe and lungs.",
+    "category": "Science and Nature",
+    "explanation": "This claim is related to the prevention of a health condition caused by a virus, which falls under the category of scientific information about the natural world.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This claim is related to the prevention of a health condition caused by a virus, which falls under the category of scientific information about the natural world. </explanation>"
+  },
+  {
+    "claim": "The Trump campaign announced in July 2020 that Diamond and Silk, Ted Nugent, Scott Baio, and Antonio Sabato Jr. would be speaking via Zoom at the Republican National Convention.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim is about the Trump campaign and the Republican National Convention, indicating a focus on political events and figures.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim is about the Trump campaign and the Republican National Convention, indicating a focus on political events and figures."
+  },
+  {
+    "claim": "U.S. President Donald Trump called U.S. Sen. John McCain, R-Ariz., a loser.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a statement made by a U.S. President regarding a U.S. Senator, indicating it falls under the category of Politics and Government.",
+    "llm_response": "<Politics and Government> \nThis claim is about a statement made by a U.S. President regarding a U.S. Senator, indicating it falls under the category of Politics and Government."
+  },
+  {
+    "claim": "Twitter has banned users from displaying the Star of David in their profile pictures.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis claim is related to social and political issues as it involves a platform's decision regarding user expression and potential implications for a particular group.",
+    "llm_response": "<Social and Political Issues> \nThis claim is related to social and political issues as it involves a platform's decision regarding user expression and potential implications for a particular group."
+  },
+  {
+    "claim": "Insect repellent companies hired a Ugandan man whose flatulence was deadly to mosquitoes.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the topic involves a scientific phenomenon (deadly flatulence affecting mosquitoes) and a natural entity (insects), indicating a connection to the natural world.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the topic involves a scientific phenomenon (deadly flatulence affecting mosquitoes) and a natural entity (insects), indicating a connection to the natural world. </explanation>"
+  },
+  {
+    "claim": "The Irish Times newspaper published a column by Fintan O’Toole expressing \"pity\" for the United States over U.S. President Donald Trump's leadership during the COVID-19 pandemic.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a political commentary on a U.S. president's leadership during a pandemic, indicating a focus on political and governmental issues.",
+    "llm_response": "<Politics and Government> \nThis claim is about a political commentary on a U.S. president's leadership during a pandemic, indicating a focus on political and governmental issues."
+  },
+  {
+    "claim": "In 2018 or 2019, an Alabama court ordered a rape survivor named Jessica Stallings to allow her rapist to visit the children who were born to them.",
+    "category": "Crime and Safety",
+    "explanation": "<crime_and_safety> Crime and Safety </crime_and_safety>\nThis category was chosen because the claim involves a serious crime (rape) and the legal consequences and implications for the survivor and the perpetrator, which falls under the umbrella of crime and safety.",
+    "llm_response": "<crime_and_safety> Crime and Safety </crime_and_safety>\nThis category was chosen because the claim involves a serious crime (rape) and the legal consequences and implications for the survivor and the perpetrator, which falls under the umbrella of crime and safety."
+  },
+  {
+    "claim": "U.S. President Barack Obama waited until millions were infected and thousands were dead before declaring a public health emergency concerning swine flu, the H1N1 virus.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a government decision made by a U.S. President, therefore it falls under the category of Politics and Government.",
+    "llm_response": "<Politics and Government> \nThis claim is about a government decision made by a U.S. President, therefore it falls under the category of Politics and Government."
+  },
+  {
+    "claim": "The U.S. government \"subsidizes\" medications for erectile dysfunction.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves the U.S. government, suggesting a topic related to its policies and actions, which falls under the Politics and Government category.",
+    "llm_response": "<Politics and Government> \nThe claim involves the U.S. government, suggesting a topic related to its policies and actions, which falls under the Politics and Government category."
+  },
+  {
+    "claim": "A photograph shows a statue of Christopher Columbus that was \"beheaded.\"",
+    "category": "History and Culture",
+    "explanation": "<history and culture> \nThis claim falls under the category of History and Culture because it involves a historical figure, Christopher Columbus, and a cultural artifact, a statue, which is being discussed in a context of an event.",
+    "llm_response": "<history and culture> \nThis claim falls under the category of History and Culture because it involves a historical figure, Christopher Columbus, and a cultural artifact, a statue, which is being discussed in a context of an event."
+  },
+  {
+    "claim": "During World War Two, singer Edith Piaf helped 120 prisoners of war escape from Nazi camps by fabricating phoney identity cards for them.",
+    "category": "History and Culture",
+    "explanation": "<history and culture> \nThis category was chosen because the claim is about a historical event and the actions of a famous cultural figure during World War Two. </history-and-culture>",
+    "llm_response": "<history-and-culture> \nThis category was chosen because the claim is about a historical event and the actions of a famous cultural figure during World War Two. </history-and-culture>"
+  },
+  {
+    "claim": "A pride flag replaced a POW/MIA flag at a Veterans Memorial Plaza in Maryland.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government>\nThe claim involves a change to a Veterans Memorial Plaza, which is a public space related to government and politics, indicating a government-related issue.",
+    "llm_response": "<Politics and Government>\nThe claim involves a change to a Veterans Memorial Plaza, which is a public space related to government and politics, indicating a government-related issue."
+  },
+  {
+    "claim": "A photograph shows U.S. President Donald Trump wearing a face mask below his nose.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> \nThis category was chosen because the claim involves a specific U.S. President, indicating a topic related to government and politics.",
+    "llm_response": "<politics and government> \nThis category was chosen because the claim involves a specific U.S. President, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "Actor Will Smith and his son Jaden Smith were killed in a car crash in December 2019.",
+    "category": "Entertainment and Media",
+    "explanation": "The claim involves a celebrity and a specific event related to the entertainment industry, making it a suitable fit for this category.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> The claim involves a celebrity and a specific event related to the entertainment industry, making it a suitable fit for this category. </explanation>"
+  },
+  {
+    "claim": "A passage from a speech JFK was supposed to deliver on the day he was assassinated stated that \"our duty as a party is not to our party alone, but to the Nation, and, indeed, to all mankind.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim is about a statement related to a political figure (JFK) and a speech, which falls under the broader topic of politics and government.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim is about a statement related to a political figure (JFK) and a speech, which falls under the broader topic of politics and government."
+  },
+  {
+    "claim": "The common allergy drug Benadryl can be used to treat rattlesnake bites.",
+    "category": "Health and Wellness",
+    "explanation": "This category was chosen because the claim is about the medical use of a drug to treat a specific condition, indicating a focus on health and wellness.",
+    "llm_response": "<category> Health and Wellness </category>\n<explanation> This category was chosen because the claim is about the medical use of a drug to treat a specific condition, indicating a focus on health and wellness. </explanation>"
+  },
+  {
+    "claim": "Canada was placed under a nationwide boil-water notice in the spring of 2019.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim falls under the Politics and Government category because it involves a government-imposed action (nationwide boil-water notice) that affects the public.",
+    "llm_response": "<Politics and Government> \nThis claim falls under the Politics and Government category because it involves a government-imposed action (nationwide boil-water notice) that affects the public."
+  },
+  {
+    "claim": "A gunman associated with the Black Lives Matter (BLM) movement shot and wounded two Los Angeles County sheriff's deputies on Sept. 12, 2020, and BLM protesters afterwards blocked emergency access to the hospital where the deputies received medical treatment.",
+    "category": "Social and Political Issues",
+    "explanation": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a social movement (Black Lives Matter) and a violent incident related to law enforcement and protests.",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a social movement (Black Lives Matter) and a violent incident related to law enforcement and protests."
+  },
+  {
+    "claim": "In June 2017, President Donald Trump canceled federal protections for whales and sea turtles",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a specific action taken by a government official, indicating a topic related to governance and administration.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a specific action taken by a government official, indicating a topic related to governance and administration."
+  },
+  {
+    "claim": "Employees at a Five Guys restaurant in Daphne, Alabama, refused to serve local police officers.",
+    "category": "Social and Political Issues",
+    "explanation": "This category was chosen because the claim involves a social issue (employees refusing to serve police officers) that has political undertones and implications, indicating a social and political issue.",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a social issue (employees refusing to serve police officers) that has political undertones and implications, indicating a social and political issue. </explanation>"
+  },
+  {
+    "claim": "An ad for the Ku Klux Klan found in a 2018 newspaper praised the policies of President Donald Trump.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim is related to a specific political figure and an organization with a history of political activity, indicating a context of politics and government.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim is related to a specific political figure and an organization with a history of political activity, indicating a context of politics and government."
+  },
+  {
+    "claim": "Former Vice President Joe Biden's great-great-great grandfather owned a 14-year-old Black slave in 1850.",
+    "category": "History and Culture",
+    "explanation": "<history-and-culture> This category was chosen because the claim refers to historical information and a family lineage, indicating a context related to historical events and cultural practices. </history and culture>",
+    "llm_response": "<history-and-culture> This category was chosen because the claim refers to historical information and a family lineage, indicating a context related to historical events and cultural practices. </history-and-culture>"
+  },
+  {
+    "claim": "Children in immigration court do not have the right to free, court-appointed attorneys.",
+    "category": "Legal and Regulatory Information",
+    "explanation": "<Legal and Regulatory Information> \nThis claim pertains to the legal rights of children in immigration court, specifically regarding their access to court-appointed attorneys, and is therefore classified under Legal and Regulatory Information. </Legal and Regulatory Information>",
+    "llm_response": "<Legal and Regulatory Information> \nThis claim pertains to the legal rights of children in immigration court, specifically regarding their access to court-appointed attorneys, and is therefore classified under Legal and Regulatory Information. </Legal and Regulatory Information>"
+  },
+  {
+    "claim": "U.S. President Donald Trump tweeted an image of his own head edited onto the body of the character Rocky Balboa from the \"Rocky\" series of movies.",
+    "category": "Politics and Government",
+    "explanation": "This category was chosen because the claim involves a U.S. President, indicating a topic related to government and political figures.",
+    "llm_response": "<Politics and Government>\n<explanation> This category was chosen because the claim involves a U.S. President, indicating a topic related to government and political figures. </explanation>"
+  },
+  {
+    "claim": "Beto O'Rourke's campaign asked a Veterans of Foreign Wars post commander if American flags could be taken down ahead of an event.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim falls under Politics and Government as it involves a specific event related to a political campaign and its interaction with a veterans' organization.",
+    "llm_response": "<Politics and Government> \nThis claim falls under Politics and Government as it involves a specific event related to a political campaign and its interaction with a veterans' organization."
+  },
+  {
+    "claim": "Taylor Swift said \"We should remove the Statue of Liberty.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about an opinion or statement related to a public figure and a national monument, indicating a topic of governance or public policy.",
+    "llm_response": "<Politics and Government> \nThis claim is about an opinion or statement related to a public figure and a national monument, indicating a topic of governance or public policy."
+  },
+  {
+    "claim": "Transgender prisoner Karen White (formerly Stephen Wood) of West Yorkshire, England, who confessed to committing multiple rapes as a man, sexually assaulted female inmates after being transferred to a women's jail.",
+    "category": "Crime and Safety",
+    "explanation": "<crime and safety> \nThis category was chosen because the claim involves a crime (rape and assault) and the context of a prison setting.",
+    "llm_response": "<crime and safety> \nThis category was chosen because the claim involves a crime (rape and assault) and the context of a prison setting."
+  },
+  {
+    "claim": "Police pepper-sprayed a double amputee and removed his prosthetic legs during a June 21, 2020, protest against police brutality in Columbus, Ohio.",
+    "category": "Crime and Safety",
+    "explanation": "<crime and safety> \nThis category was chosen because the claim involves an incident of police action and its impact on an individual's safety.",
+    "llm_response": "<crime and safety> \nThis category was chosen because the claim involves an incident of police action and its impact on an individual's safety."
+  },
+  {
+    "claim": "By ignoring a ban on performing COVID-19 autopsies, researchers in Italy discovered that the disease is caused by a bacteria —  not a virus — and can simply be treated with aspirin.",
+    "category": "Science and Nature",
+    "explanation": "<Science and Nature>\nThis category was chosen because the claim discusses a scientific discovery and the nature of a disease, indicating a topic related to scientific research and the natural world.",
+    "llm_response": "<Science and Nature>\nThis category was chosen because the claim discusses a scientific discovery and the nature of a disease, indicating a topic related to scientific research and the natural world."
+  },
+  {
+    "claim": "The Obama administration provided a $3.7 million grant to the Wuhan Institute of Virology in China.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim involves a specific policy action taken by a government administration, indicating a topic related to governance and politics.",
+    "llm_response": "<Politics and Government> \nThis claim involves a specific policy action taken by a government administration, indicating a topic related to governance and politics."
+  },
+  {
+    "claim": "A pair of photographs shows a severely dehydrated homeless veteran on the streets of Los Angeles.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis claim is categorized under Social and Political Issues because it involves a social issue (homelessness) and a vulnerable population (veterans), highlighting a concern that is often discussed in the context of social and political debates.",
+    "llm_response": "<Social and Political Issues> \nThis claim is categorized under Social and Political Issues because it involves a social issue (homelessness) and a vulnerable population (veterans), highlighting a concern that is often discussed in the context of social and political debates."
+  },
+  {
+    "claim": "On June 5, 2020, U.S. President Donald Trump stated during a talk about employment numbers that it was a \"great day\" for George Floyd, a black man who was killed May 25 after a Minneapolis police officer kneeled on his neck.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> \nThis category was chosen because the claim involves a statement made by a U.S. President and references a national and international event involving law enforcement.",
+    "llm_response": "<politics and government> \nThis category was chosen because the claim involves a statement made by a U.S. President and references a national and international event involving law enforcement."
+  },
+  {
+    "claim": "During protests following the police shooting of Jacob Blake in Kenosha, Wisconsin, a Kenosha facility run by the state Department of Corrections was set on fire and completely destroyed.",
+    "category": "Social and Political Issues",
+    "explanation": "This category was chosen because the claim involves protests and a police shooting, indicating a social and political context.",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves protests and a police shooting, indicating a social and political context. </explanation>"
+  },
+  {
+    "claim": "The National Association of Police Organizations called on its members to boycott Nike after the company announced a commercial deal with Colin Kaepernick.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim involves a call to action by a police organization in response to a commercial deal with a public figure, indicating a topic related to governance and societal structures.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim involves a call to action by a police organization in response to a commercial deal with a public figure, indicating a topic related to governance and societal structures."
+  },
+  {
+    "claim": "U.S. Sen. Bernie Sanders compared Baltimore to a \"third world country.\"",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim involves a statement made by a U.S. Senator, indicating a topic related to government and politics.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim involves a statement made by a U.S. Senator, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "Controlled blasting was used near Native American burial sites during the the construction of a U.S.-Mexico border wall in Arizona's Organ Pipe Cactus National Monument.",
+    "category": "History and Culture",
+    "explanation": "<history and culture> \nThis category was chosen because the claim involves the destruction or disturbance of Native American burial sites during a construction project, which falls under the broader topic of cultural preservation and historical events.",
+    "llm_response": "<history and culture> \nThis category was chosen because the claim involves the destruction or disturbance of Native American burial sites during a construction project, which falls under the broader topic of cultural preservation and historical events."
+  },
+  {
+    "claim": "The kids' TV show \"Paw Patrol\" was canceled in June 2020 due to its portrayal of police.",
+    "category": "Entertainment and Media",
+    "explanation": "This category was chosen because the claim is about a TV show, specifically its cancellation, which falls under the broader topic of entertainment media.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> This category was chosen because the claim is about a TV show, specifically its cancellation, which falls under the broader topic of entertainment media. </explanation>"
+  },
+  {
+    "claim": "A chart accurately shows the effectiveness of wearing face masks during the COVID-19 pandemic.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim is related to a scientific topic (COVID-19 pandemic) and a natural phenomenon (human health), which falls under the broad category of Science and Nature.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim is related to a scientific topic (COVID-19 pandemic) and a natural phenomenon (human health), which falls under the broad category of Science and Nature. </explanation>"
+  },
+  {
+    "claim": "Red Bull and Bang energy drinks test positive for various illicit or prescription drugs in substance or urine tests",
+    "category": "Crime and Safety",
+    "explanation": "<Crime and Safety> \nThe claim involves substances that are illicit or prescription drugs, indicating a concern for safety and potential crime related to the consumption of energy drinks. This categorization is based on the topic and context of the claim, which focuses on the presence of illicit substances in energy drinks.",
+    "llm_response": "<Crime and Safety> \nThe claim involves substances that are illicit or prescription drugs, indicating a concern for safety and potential crime related to the consumption of energy drinks. This categorization is based on the topic and context of the claim, which focuses on the presence of illicit substances in energy drinks."
+  },
+  {
+    "claim": "A TEDx speaker gave a talk that referred to pedophilia as an 'unchangeable sexual orientation.'",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis category was chosen because the claim involves a sensitive and controversial social issue, specifically the speaker's statement about pedophilia, which is a topic related to social and political discussions.",
+    "llm_response": "<Social and Political Issues> \nThis category was chosen because the claim involves a sensitive and controversial social issue, specifically the speaker's statement about pedophilia, which is a topic related to social and political discussions."
+  },
+  {
+    "claim": "A video shows U.S. President Donald Trump being rushed off stage after someone yelled that model Chrissy Teigen was in the audience.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government</Politics and Government>\nThe claim involves a U.S. President and a specific event, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government</Politics and Government>\nThe claim involves a U.S. President and a specific event, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "On 15 October 2018, Jefferson County officials stopped a bus filled with seniors from a county-run senior center from going to vote.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> \nThis claim is related to the actions of a government official and the process of voting, indicating it falls under the category of politics and government. </politics and government>",
+    "llm_response": "<politics and government> \nThis claim is related to the actions of a government official and the process of voting, indicating it falls under the category of politics and government. </politics and government>"
+  },
+  {
+    "claim": "In 2005, Senator Barack Obama expressed his opposition to \"undetected, undocumented, unchecked\" immigration.",
+    "category": "Politics and Government",
+    "explanation": "The claim involves a statement made by a U.S. Senator, indicating a political context and involvement in government.",
+    "llm_response": "<Politics and Government>\n<explanation> The claim involves a statement made by a U.S. Senator, indicating a political context and involvement in government. </explanation>"
+  },
+  {
+    "claim": "Roy Moore accuser Beverly Young Nelson \"forged\" Moore's signature and inscription in her high school yearbook.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government</Politics and Government>\nThe claim involves a politician (Roy Moore) and an accusation related to his personal conduct, which falls under the broader topic of politics and government.",
+    "llm_response": "<Politics and Government</Politics and Government>\nThe claim involves a politician (Roy Moore) and an accusation related to his personal conduct, which falls under the broader topic of politics and government."
+  },
+  {
+    "claim": "Former U.S. Vice President Joe Biden once said he had \"no empathy\" for the plight of younger people.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> \nThis category was chosen because the claim involves a statement made by a former U.S. government official, indicating a topic related to politics and government.",
+    "llm_response": "<politics and government> \nThis category was chosen because the claim involves a statement made by a former U.S. government official, indicating a topic related to politics and government."
+  },
+  {
+    "claim": "In the mid-1990s, a film studio executive proposed casting Julia Roberts as the abolitionist former slave Harriet Tubman.",
+    "category": "History and Culture",
+    "explanation": "<history and culture> \nThis claim falls under the category of History and Culture because it involves a historical figure and a context related to film and casting, which is a cultural aspect.",
+    "llm_response": "<history and culture> \nThis claim falls under the category of History and Culture because it involves a historical figure and a context related to film and casting, which is a cultural aspect."
+  },
+  {
+    "claim": "In 2019, Lenawee County threatened to demolish the homes of several Amish families unless the families brought them into compliance with health codes.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim involves a local government entity (Lenawee County) taking action against a specific group (Amish families), which falls under the realm of government actions and policies.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim involves a local government entity (Lenawee County) taking action against a specific group (Amish families), which falls under the realm of government actions and policies."
+  },
+  {
+    "claim": "Photographs show a severely earthquake-damaged road in Alaska that was repaired in just a few days.",
+    "category": "Science and Nature",
+    "explanation": "This category is chosen because the claim is related to a natural disaster (earthquake) and its impact on the environment, specifically a geographical location (Alaska).",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category is chosen because the claim is related to a natural disaster (earthquake) and its impact on the environment, specifically a geographical location (Alaska). </explanation>"
+  },
+  {
+    "claim": "Actor/director Clint Eastwood wrote an opinion piece that started with the statement, \"I love when people call Trump stupid.\"",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim involves a statement made by a public figure (Clint Eastwood) about a political figure (Trump), indicating a topic related to government and politics.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim involves a statement made by a public figure (Clint Eastwood) about a political figure (Trump), indicating a topic related to government and politics."
+  },
+  {
+    "claim": "A meme documents contradictory statements about the value of enhanced police presence offered by Kamala Harris.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government>\nThis claim is about a politician and their policy stance, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government>\nThis claim is about a politician and their policy stance, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "The Hells Angels Motorcycle Club was headed to Seattle in June 2020 to fight antifa.",
+    "category": "Crime and Safety",
+    "explanation": "<Crime and Safety> \nThe claim involves a specific incident involving a known motorcycle club, which is often associated with organized crime, and a mention of fighting a particular group, indicating a potential conflict or safety issue.",
+    "llm_response": "<Crime and Safety> \nThe claim involves a specific incident involving a known motorcycle club, which is often associated with organized crime, and a mention of fighting a particular group, indicating a potential conflict or safety issue."
+  },
+  {
+    "claim": "Visitors to prisons in Virginia are prohibited from wearing tampons or menstrual cups.",
+    "category": "Legal and Regulatory Information",
+    "explanation": "This category was chosen because the claim refers to a rule or restriction imposed by a governing authority, specifically related to prison visitation regulations.",
+    "llm_response": "<category> Legal and Regulatory Information </category>\n<explanation> This category was chosen because the claim refers to a rule or restriction imposed by a governing authority, specifically related to prison visitation regulations. </explanation>"
+  },
+  {
+    "claim": "Former President Barack Obama's administration was to blame for the shortage of protective equipment like N95 respirator masks in the early months of the 2020 COVID-19 pandemic.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government</Politics and Government>\nThe claim is about assigning blame to a specific administration, which is a political topic, making it relevant to the category of Politics and Government. This category is chosen because it directly involves the actions and policies of a government, specifically the Obama administration.",
+    "llm_response": "<Politics and Government</Politics and Government>\nThe claim is about assigning blame to a specific administration, which is a political topic, making it relevant to the category of Politics and Government. This category is chosen because it directly involves the actions and policies of a government, specifically the Obama administration."
+  },
+  {
+    "claim": "Of the 154 mass shootings recorded in the U.S. in 2018 through 28 June, none of them were perpetrated by black men, undocumented immigrants, or women.",
+    "category": "Crime and Safety",
+    "explanation": "<crime_and_safety> Crime and Safety </crime_and_safety>\nThis claim is about mass shootings and their perpetrators, which falls under the topic of crime and safety.",
+    "llm_response": "<crime_and_safety> Crime and Safety </crime_and_safety>\nThis claim is about mass shootings and their perpetrators, which falls under the topic of crime and safety."
+  },
+  {
+    "claim": "Amazon's Alexa randomly plays a \"creepy laugh.\"",
+    "category": "Technology and Digital Support",
+    "explanation": "This category is chosen because the claim involves a specific digital product and its behavior, indicating a need for technical support or information about its functionality.",
+    "llm_response": "<category> Technology and Digital Support </category>\n<explanation> This category is chosen because the claim involves a specific digital product and its behavior, indicating a need for technical support or information about its functionality. </explanation>"
+  },
+  {
+    "claim": "A video taken at a George Floyd protest in Denver on the night of May 29, 2020 shows police officers firing pepper balls at a car after the driver told them the passenger was pregnant.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a specific event involving law enforcement and a protest, indicating a topic related to governance and social unrest.",
+    "llm_response": "<Politics and Government> \nThis claim is about a specific event involving law enforcement and a protest, indicating a topic related to governance and social unrest."
+  },
+  {
+    "claim": "The 82nd Airborne received word they are being deployed to the U.S.-Mexico border as a migrant caravan moves through Mexico.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about the deployment of a military unit to the U.S.-Mexico border, which falls under the broader topic of government and politics.",
+    "llm_response": "<Politics and Government> \nThis claim is about the deployment of a military unit to the U.S.-Mexico border, which falls under the broader topic of government and politics."
+  },
+  {
+    "claim": "U.S. Rep. Alexandria Ocasio-Cortez said that the public shouldn't see photographs of the 9/11 terrorist attacks on the U.S. because they're \"triggering.\"",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> \nThis category was chosen because the claim involves a statement made by a U.S. Representative, indicating a topic related to government and politics.",
+    "llm_response": "<politics and government> \nThis category was chosen because the claim involves a statement made by a U.S. Representative, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "In February 2020 the Vatican said that Pope Francis and two aides had tested positive for COVID-19, a disease caused by a new coronavirus.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves information about the Pope, a high-ranking figure in the Catholic Church, and a government-like entity (the Vatican), indicating a topic related to politics and government.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves information about the Pope, a high-ranking figure in the Catholic Church, and a government-like entity (the Vatican), indicating a topic related to politics and government."
+  },
+  {
+    "claim": "A recent international investigation resulted in the shutting down of an online pedophilia forum with some 70,000 members worldwide.",
+    "category": "Crime and Safety",
+    "explanation": "<category> Crime and Safety </category>\n<explanation> This category was chosen because the claim involves the shutdown of an online forum related to a serious crime, indicating a focus on safety and law enforcement.",
+    "llm_response": "<category> Crime and Safety </category>\n<explanation> This category was chosen because the claim involves the shutdown of an online forum related to a serious crime, indicating a focus on safety and law enforcement."
+  },
+  {
+    "claim": "A photograph shows the Earth from the surface of the moon.",
+    "category": "Science and Nature",
+    "explanation": "<Science and Nature> \nThis category was chosen because the claim involves a scientific observation and the description of a natural phenomenon, specifically a photograph of the Earth from the moon.",
+    "llm_response": "<Science and Nature> \nThis category was chosen because the claim involves a scientific observation and the description of a natural phenomenon, specifically a photograph of the Earth from the moon."
+  },
+  {
+    "claim": "Amazon employees \"earn so little they qualify for food stamps.\"",
+    "category": "Economics and Finance",
+    "explanation": "<Economics and Finance> \nThis claim is about the financial situation of Amazon employees, specifically their salaries and potential reliance on government assistance, making it a topic related to economics and finance.",
+    "llm_response": "<Economics and Finance> \nThis claim is about the financial situation of Amazon employees, specifically their salaries and potential reliance on government assistance, making it a topic related to economics and finance."
+  },
+  {
+    "claim": "U.S. Rep. Alexandria Ocasio-Cortez wore a $7,600 ensemble to the State of the Union address.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a specific event and a public figure in a political context, making it relevant to the Politics and Government category.",
+    "llm_response": "<Politics and Government> \nThis claim is about a specific event and a public figure in a political context, making it relevant to the Politics and Government category."
+  },
+  {
+    "claim": "The website joebiden.info is Joe Biden's official 2020 presidential campaign site.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim is related to a government official and their campaign, indicating a topic within the realm of politics and government.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim is related to a government official and their campaign, indicating a topic within the realm of politics and government."
+  },
+  {
+    "claim": "Singer Celine Dion died in a plane crash in November 2019.",
+    "category": "Entertainment and Media",
+    "explanation": "This category was chosen because the claim involves a celebrity and a tragic event that is typically reported in the entertainment industry.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> This category was chosen because the claim involves a celebrity and a tragic event that is typically reported in the entertainment industry. </explanation>"
+  },
+  {
+    "claim": "Mandalay Bay, the Las Vegas hotel from which a gunman opened fire on a concert crowd of 20,000, filed lawsuits against mass shooting victims.",
+    "category": "Crime and Safety",
+    "explanation": "This category was chosen because the claim involves a mass shooting and lawsuits related to it, which falls under the topic of crime and safety.",
+    "llm_response": "<category> Crime and Safety </category>\n<explanation> This category was chosen because the claim involves a mass shooting and lawsuits related to it, which falls under the topic of crime and safety. </explanation>"
+  },
+  {
+    "claim": "Tanzania President John Magufuli secretly sent specimens from a fruit, quail, and goat to a lab testing for the COVID-19 coronavirus disease in humans — and the results came back positive.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a scientific experiment and the testing of biological specimens for a disease, which falls under the realm of natural sciences. The context is focused on a scientific inquiry and its results.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a scientific experiment and the testing of biological specimens for a disease, which falls under the realm of natural sciences. The context is focused on a scientific inquiry and its results. </explanation>"
+  },
+  {
+    "claim": "The Chinese government is building a hospital in 10 days to deal with the new coronavirus.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves the actions of a government, specifically the Chinese government, and the construction of a hospital, which is a governmental infrastructure project, indicating a topic related to government activities.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves the actions of a government, specifically the Chinese government, and the construction of a hospital, which is a governmental infrastructure project, indicating a topic related to government activities."
+  },
+  {
+    "claim": "Hillary Clinton used a hammer to smash her mobile phone during an FBI investigation.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is related to a specific event involving a public figure and a government investigation, making it relevant to the field of politics and government.",
+    "llm_response": "<Politics and Government> \nThis claim is related to a specific event involving a public figure and a government investigation, making it relevant to the field of politics and government."
+  },
+  {
+    "claim": "U.S. Democratic presidential candidate Joe Biden asserted during a speech that “poor kids are just as bright and just as talented as white kids.”",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim is a statement made by a political figure regarding social and political issues, specifically regarding the equality of educational opportunities for different groups of people.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim is a statement made by a political figure regarding social and political issues, specifically regarding the equality of educational opportunities for different groups of people."
+  },
+  {
+    "claim": "Instructors at a Virginia middle school did not allow a transgender student to take shelter during a drill simulating how to hide from a school shooter.",
+    "category": "Social and Political Issues",
+    "explanation": "This category was chosen because the claim involves a social issue related to the treatment of a transgender student in a school setting, which falls under the broader topic of social and political issues.",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a social issue related to the treatment of a transgender student in a school setting, which falls under the broader topic of social and political issues. </explanation>"
+  },
+  {
+    "claim": "A video shows actor Will Smith's teeth knocked out by singer Jason Derulo's errant golf swing.",
+    "category": "Entertainment and Media",
+    "explanation": "This category was chosen because the claim involves a celebrity and an incident related to a video, indicating a focus on the entertainment industry.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> This category was chosen because the claim involves a celebrity and an incident related to a video, indicating a focus on the entertainment industry. </explanation>"
+  },
+  {
+    "claim": "A man who stabbed his pregnant girlfriend “won’t be charged” because of New York’s recently enacted Reproductive Health Act.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a specific law, the Reproductive Health Act, and its application in a legal context.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a specific law, the Reproductive Health Act, and its application in a legal context."
+  },
+  {
+    "claim": "In January 2020, officials in the state of South Australia announced a plan to cull around 10,000 feral camels in response to concerns over public safety and environmental resources.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves a government announcement and decision-making process, indicating a political context.",
+    "llm_response": "<Politics and Government> \nThe claim involves a government announcement and decision-making process, indicating a political context."
+  },
+  {
+    "claim": "An \"elderly man\" was beaten while trying to protect a sundress-wearing man from being attacked.",
+    "category": "Crime and Safety",
+    "explanation": "<crime and safety> Crime and Safety </crime and safety>\nThe claim involves a violent attack on an individual, indicating a safety concern, which falls under the category of Crime and Safety.",
+    "llm_response": "<crime and safety> Crime and Safety </crime and safety>\nThe claim involves a violent attack on an individual, indicating a safety concern, which falls under the category of Crime and Safety."
+  },
+  {
+    "claim": "NFL players did not stand for the national anthem until the Defense Dept. started paying the league to stage patriotic displays in 2009.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThis claim is about a specific event involving the NFL and the US Defense Department, which falls under the broader category of politics and government.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThis claim is about a specific event involving the NFL and the US Defense Department, which falls under the broader category of politics and government."
+  },
+  {
+    "claim": "A graphic shows contradictory CNN articles about hydroxychloroquine, published three months apart and co-authored by the same person.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a specific media outlet (CNN) and a controversial topic, suggesting a context of media bias or government influence, which falls under the broader umbrella of politics and government.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a specific media outlet (CNN) and a controversial topic, suggesting a context of media bias or government influence, which falls under the broader umbrella of politics and government."
+  },
+  {
+    "claim": "The Annabelle doll escaped from the Warren's Occult Museum in Connecticut.",
+    "category": "Crime and Safety",
+    "explanation": "This category was chosen because the claim involves an event of an allegedly escaped object, which is related to a potentially threatening situation and raises concerns for safety.",
+    "llm_response": "<category> Crime and Safety </category>\n<explanation> This category was chosen because the claim involves an event of an allegedly escaped object, which is related to a potentially threatening situation and raises concerns for safety.  </explanation>"
+  },
+  {
+    "claim": "More than 100 whales are trapped in an underwater 'jail.'",
+    "category": "Science and Nature",
+    "explanation": "This category is chosen because the claim involves marine life and an underwater environment, indicating a connection to the natural world. It is a factual claim about a specific event involving animals, making it a topic of scientific or natural interest.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category is chosen because the claim involves marine life and an underwater environment, indicating a connection to the natural world. It is a factual claim about a specific event involving animals, making it a topic of scientific or natural interest. </explanation>"
+  },
+  {
+    "claim": "Tomi Lahren said that watching children being hit with tear gas \"was the highlight” of her Thanksgiving weekend.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim involves a public figure's statement on a current event, indicating a topic related to government, politics, and public figures.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim involves a public figure's statement on a current event, indicating a topic related to government, politics, and public figures."
+  },
+  {
+    "claim": "The Trump Administration’s policies have halted a research effort seeking a cure for HIV.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim is related to a government administration's policy and its impact on a specific issue, indicating a topic of political nature. </Politics and Government>",
+    "llm_response": "<Politics and Government> \nThe claim is related to a government administration's policy and its impact on a specific issue, indicating a topic of political nature. </Politics and Government>"
+  },
+  {
+    "claim": "Monica Lewinsky offered to \"take one for (the) team\" and perform oral sex in order to get President Donald Trump impeached.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is related to a specific event involving government officials and a political figure, making it relevant to the politics and government category.",
+    "llm_response": "<Politics and Government> \nThis claim is related to a specific event involving government officials and a political figure, making it relevant to the politics and government category."
+  },
+  {
+    "claim": "A photograph shows a white couple wearing \"Blacks for Trump\" T-shirts.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis category was chosen because the claim involves a political statement and a visual representation that can be interpreted as a form of public display or protest, which falls under the broader topic of social and political issues.",
+    "llm_response": "<Social and Political Issues> \nThis category was chosen because the claim involves a political statement and a visual representation that can be interpreted as a form of public display or protest, which falls under the broader topic of social and political issues."
+  },
+  {
+    "claim": "North Carolina admitted that a voter ID law was at least partly enacted in response to African-American voting tendencies that went against conservative interests.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim falls under the category of Politics and Government because it discusses the motivations and actions of a government entity (North Carolina) in relation to voting laws and voter behavior, which is a key aspect of politics and governance.",
+    "llm_response": "<Politics and Government> \nThis claim falls under the category of Politics and Government because it discusses the motivations and actions of a government entity (North Carolina) in relation to voting laws and voter behavior, which is a key aspect of politics and governance."
+  },
+  {
+    "claim": "A Black man was charged in North Carolina in the killing of Cannon Hinnant, a 5-year-old white boy, and except for Fox News, mainstream news media outlets purposely ignored it to further a predetermined racial narrative.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government>\nThis claim is about a racial crime and media coverage, which falls under the broader topic of politics and government, specifically issues related to social and racial tensions.",
+    "llm_response": "<Politics and Government>\nThis claim is about a racial crime and media coverage, which falls under the broader topic of politics and government, specifically issues related to social and racial tensions."
+  },
+  {
+    "claim": "In 1998, Senator Chuck Schumer was caught taking $1 million in excessive campaign contributions and failing to properly disclose $4.6 million in expenses, for which he was fined $138,000.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim is related to a specific politician and their actions within a governmental context, involving campaign finance and regulatory issues.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim is related to a specific politician and their actions within a governmental context, involving campaign finance and regulatory issues."
+  },
+  {
+    "claim": "Under the \"COVID Act,\" school officials in the U.S. can quarantine children with COVID-19 symptoms outside their family home without their parents' or guardians' consent.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a specific law (\"COVID Act\") and its application to school officials, indicating a topic related to government policies and regulations.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a specific law (\"COVID Act\") and its application to school officials, indicating a topic related to government policies and regulations."
+  },
+  {
+    "claim": "On 1 September 2017, a new law will come into force in Texas, making it harder for consumers to get paid for property insurance claims related to weather.",
+    "category": "Legal and Regulatory Information",
+    "explanation": "<Legal and Regulatory Information> \nThis category was chosen because the claim is about a new law in Texas that will affect the process of filing insurance claims, which falls under the realm of legal and regulatory information.",
+    "llm_response": "<Legal and Regulatory Information> \nThis category was chosen because the claim is about a new law in Texas that will affect the process of filing insurance claims, which falls under the realm of legal and regulatory information."
+  },
+  {
+    "claim": "Joel Osteen Ministries implemented \"Prayer Request Accounts\" for parishioners seeking prayers.",
+    "category": "Social and Political Issues",
+    "explanation": "This category was chosen because the claim involves a religious ministry and a specific practice related to community and social interaction within a religious context.",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category was chosen because the claim involves a religious ministry and a specific practice related to community and social interaction within a religious context. </explanation>"
+  },
+  {
+    "claim": "Mark Zuckerberg admitted or bragged that Facebook banned pro-life advertising, in particular, during Ireland's 2018 abortion-referendum campaign.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> \nThis claim is about a specific political issue and a government regulation, referring to a social media platform's actions during a national referendum.",
+    "llm_response": "<politics and government> \nThis claim is about a specific political issue and a government regulation, referring to a social media platform's actions during a national referendum."
+  },
+  {
+    "claim": "A photograph shows Keanu Reeves and dozens of cats he saved from euthanasia.",
+    "category": "Entertainment and Media",
+    "explanation": "This category was chosen because the claim involves a celebrity and a photograph, indicating a topic related to popular culture and media.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> This category was chosen because the claim involves a celebrity and a photograph, indicating a topic related to popular culture and media. </explanation>"
+  },
+  {
+    "claim": "COVID-19 vaccinations, which have already killed several youngsters, will be required before children will be allowed to return to school.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis claim pertains to a social issue (vaccination requirements for children to return to school) and has a political undertone (government or institutional requirements).",
+    "llm_response": "<Social and Political Issues> \nThis claim pertains to a social issue (vaccination requirements for children to return to school) and has a political undertone (government or institutional requirements)."
+  },
+  {
+    "claim": "In August 2018, \"researchers\" provided a \"warning\" about the spread of the \"flesh-eating STD\" donovanosis.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a medical topic (donovanosis) and mentions researchers providing a warning, indicating a scientific context.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a medical topic (donovanosis) and mentions researchers providing a warning, indicating a scientific context. </explanation>"
+  },
+  {
+    "claim": "Twenty-six of the deadliest 27 mass shooters in the U.S. came from fatherless homes.",
+    "category": "Social and Political Issues",
+    "explanation": "This category is chosen because the claim is related to a social issue (fatherless homes) and its impact on a political topic (mass shootings in the U.S.).",
+    "llm_response": "<category> Social and Political Issues </category>\n<explanation> This category is chosen because the claim is related to a social issue (fatherless homes) and its impact on a political topic (mass shootings in the U.S.). </explanation>"
+  },
+  {
+    "claim": "The \"Report on the Investigation Into Russian Interference in the 2016 Presidential Election\" documents President Donald Trump's reaction to the appointment of special counsel Robert Mueller: \"This is the end of my presidency, I'm fucked.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim is about a specific event involving a U.S. President and a government investigation, indicating a focus on the inner workings of government.",
+    "llm_response": "<Politics and Government> \nThe claim is about a specific event involving a U.S. President and a government investigation, indicating a focus on the inner workings of government."
+  },
+  {
+    "claim": "Miriam Adelson was given the Presidential Medal of Freedom for donating to a fund created to help Trump associates who were prosecuted in the Russia investigation with their legal bills.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a government award and a political figure, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a government award and a political figure, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "U.S. President Donald Trump tweeted that South Dakota should close its border with California.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a statement made by a U.S. President regarding a specific state's border, which falls under the category of politics and government.",
+    "llm_response": "<Politics and Government> \nThis claim is about a statement made by a U.S. President regarding a specific state's border, which falls under the category of politics and government."
+  },
+  {
+    "claim": "Goodwill offered free clothing, blankets and toiletries to anyone fleeing the November 2018 California wildfires, throughout the state.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues>\nThis category was chosen because the claim involves a social issue (disaster relief) and a charitable organization (Goodwill) providing support to people affected by a significant event (wildfires), which is a social and political issue.",
+    "llm_response": "<Social and Political Issues>\nThis category was chosen because the claim involves a social issue (disaster relief) and a charitable organization (Goodwill) providing support to people affected by a significant event (wildfires), which is a social and political issue."
+  },
+  {
+    "claim": "When U.S. President Donald Trump was asked what he'd say to people who lost family members to COVID-19, he replied, \"I would say this didn't hurt anyone as much as it hurt me.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a U.S. President, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a U.S. President, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "U.S. President Barack Obama authorized more than 500 drone strikes.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves the actions of a U.S. President, indicating a topic related to governance and government.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves the actions of a U.S. President, indicating a topic related to governance and government."
+  },
+  {
+    "claim": "In February 2018, a pride of lions killed and ate a man suspected of being a poacher near Kruger National Park in South Africa.",
+    "category": "Crime and Safety",
+    "explanation": "This category was chosen because the claim involves a violent incident involving wildlife and a human, which falls under the broader topic of safety and potential threats to human life.",
+    "llm_response": "<category> Crime and Safety </category>\n<explanation> This category was chosen because the claim involves a violent incident involving wildlife and a human, which falls under the broader topic of safety and potential threats to human life. </explanation>"
+  },
+  {
+    "claim": "Right-wing commentator Bill Mitchell tweeted \"someone let me know\" when 55,000 Americans have died from COVID-19 coronavirus disease.",
+    "category": "Politics and Government",
+    "explanation": "This category was chosen because the claim involves a right-wing commentator, a specific social media platform, and a reference to a significant event (COVID-19), all of which are related to politics and government.",
+    "llm_response": "<Politics and Government>\n<explanation> This category was chosen because the claim involves a right-wing commentator, a specific social media platform, and a reference to a significant event (COVID-19), all of which are related to politics and government. </explanation>"
+  },
+  {
+    "claim": "Washington state Sen. Maureen Walsh said nurses \"play cards for a considerable amount of the day.\"",
+    "category": "Politics and Government",
+    "explanation": "<politics and government</politics and government>\nThis category was chosen because the claim involves a statement made by a government official, specifically a state senator.",
+    "llm_response": "<politics and government</politics and government>\nThis category was chosen because the claim involves a statement made by a government official, specifically a state senator."
+  },
+  {
+    "claim": "Beto O'Rourke was in a band called the El Paso Pussycats and was arrested at least twice in the 1990s.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim is about a public figure's past involvement in a band and arrest history, which is relevant to their public persona and political career.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim is about a public figure's past involvement in a band and arrest history, which is relevant to their public persona and political career."
+  },
+  {
+    "claim": "As of April 25, 2020, the rate of people dying from the COVID-19 coronavirus disease in New York City was at least 250 times \"higher\" than Tokyo's — and growing with time.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim discusses a specific disease and its impact on a population, indicating a focus on scientific data and health outcomes.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim discusses a specific disease and its impact on a population, indicating a focus on scientific data and health outcomes. </explanation>"
+  },
+  {
+    "claim": "A map shows America's Favorite Fast Food restaurants.",
+    "category": "Travel and Geography",
+    "explanation": "<travel and geography> \nThis category was chosen because the claim mentions a map, which is a geographical tool, and the topic is about locations of restaurants in America.",
+    "llm_response": "<travel and geography> \nThis category was chosen because the claim mentions a map, which is a geographical tool, and the topic is about locations of restaurants in America."
+  },
+  {
+    "claim": "\"Child sex doll\" products were briefly available via Amazon in March 2019.",
+    "category": "Product and Shopping Queries",
+    "explanation": "<Product and Shopping Queries</Product and Shopping Queries>\nThe claim is about a product being available for purchase on Amazon, indicating a shopping-related inquiry.",
+    "llm_response": "<Product and Shopping Queries</Product and Shopping Queries>\nThe claim is about a product being available for purchase on Amazon, indicating a shopping-related inquiry."
+  },
+  {
+    "claim": "Roger Stone was an \"aide\" or an \"adviser\" to 37th U.S. President Richard Nixon.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThis category was chosen because the claim refers to a specific historical figure and their role in a U.S. presidential administration, indicating a topic related to government and politics.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThis category was chosen because the claim refers to a specific historical figure and their role in a U.S. presidential administration, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "Gov. Andrew Cuomo of New York recently received a little-publicized $71,000 pay raise that made him the highest paid governor in the U.S.",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim is about a government official and their compensation, indicating a topic related to governance and public office.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim is about a government official and their compensation, indicating a topic related to governance and public office."
+  },
+  {
+    "claim": "Researchers detected cocaine in multiple, freshwater-shrimp samples across the U.K.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves the discovery of a substance in a specific type of organism, which is a topic typically associated with scientific research and the natural world.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves the discovery of a substance in a specific type of organism, which is a topic typically associated with scientific research and the natural world. </explanation>"
+  },
+  {
+    "claim": "A video shows an augmented reality (AR) dragon flying over a baseball stadium.",
+    "category": "Entertainment and Media",
+    "explanation": "This category was chosen because the claim involves a video and an augmented reality (AR) effect, suggesting a creative or entertainment-based context.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> This category was chosen because the claim involves a video and an augmented reality (AR) effect, suggesting a creative or entertainment-based context. </explanation>"
+  },
+  {
+    "claim": "Dawn dish soap contains ammonia even though it's not listed as an ingredient, and when mixed with Clorox bleach products, the results could be lethal.",
+    "category": "Crime and Safety",
+    "explanation": "This category was chosen because the claim involves potential harm and lethal consequences from mixing household products, indicating a safety concern.",
+    "llm_response": "<category> Crime and Safety </category>\n<explanation> This category was chosen because the claim involves potential harm and lethal consequences from mixing household products, indicating a safety concern. </explanation>"
+  },
+  {
+    "claim": "The macaw species from the “Rio” movies has been declared extinct in the wild.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a specific species and its status, indicating a topic related to biology and the natural world.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a specific species and its status, indicating a topic related to biology and the natural world. </explanation>"
+  },
+  {
+    "claim": "A 13-year-old girl was beheaded by an \"illegal immigrant\" in a crime \"suppressed\" by the mainstream news media.",
+    "category": "Crime and Safety",
+    "explanation": "<crime-and-safety> This category was chosen because the claim involves a violent crime and the safety of individuals. </crime-and-safety>",
+    "llm_response": "<crime-and-safety> This category was chosen because the claim involves a violent crime and the safety of individuals. </crime-and-safety>"
+  },
+  {
+    "claim": "A video shows an armed robot turning on humans.",
+    "category": "Technology and Digital Support",
+    "explanation": "This category is chosen because the claim involves a robot, which is a technological entity, and the context suggests a digital or technological aspect related to video content.",
+    "llm_response": "<category> Technology and Digital Support </category>\n<explanation> This category is chosen because the claim involves a robot, which is a technological entity, and the context suggests a digital or technological aspect related to video content. </explanation>"
+  },
+  {
+    "claim": "U.S. President Donald Trump coined the nickname \"Mad Dog\" for retired Marine Corps General James Mattis.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a U.S. President and a high-ranking military officer, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a U.S. President and a high-ranking military officer, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "U.S. Rep. Ilhan Omar once said: \"We are not here to be part of America. We are here to take over America.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a U.S. representative, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a statement made by a U.S. representative, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "In January 2020, the Food and Drug Administration approved a nasal spray containing cocaine.",
+    "category": "Legal and Regulatory Information",
+    "explanation": "<Legal and Regulatory Information> \nThe claim involves the approval of a drug by a regulatory agency, indicating a topic related to laws, regulations, and governance of substances.",
+    "llm_response": "<Legal and Regulatory Information> \nThe claim involves the approval of a drug by a regulatory agency, indicating a topic related to laws, regulations, and governance of substances."
+  },
+  {
+    "claim": "The address used for the home of the SpongeBob SquarePants character corresponds to a location on sex offender Jeffrey Epstein's privately owned island.",
+    "category": "Crime and Safety",
+    "explanation": "This category was chosen because the claim involves a reference to a sex offender and a crime-related location, indicating a focus on safety and legal implications.",
+    "llm_response": "<category> Crime and Safety </category>\n<explanation> This category was chosen because the claim involves a reference to a sex offender and a crime-related location, indicating a focus on safety and legal implications. </explanation>"
+  },
+  {
+    "claim": "U.S. Postmaster General Louis DeJoy, a political ally to U.S. President Donald Trump, ordered Postal Service carriers to \"slow the mail down\" to help Trump win the 2020 presidential election.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim falls under the Politics and Government category because it involves a discussion about a government official's actions and their potential impact on a presidential election.",
+    "llm_response": "<Politics and Government> \nThis claim falls under the Politics and Government category because it involves a discussion about a government official's actions and their potential impact on a presidential election."
+  },
+  {
+    "claim": "The reelection campaign for U.S. President Donald Trump required attendees reserving tickets for a June 20, 2020, rally in Tulsa to agree they will not sue the campaign or event organizers should they be exposed to COVID-19 at the event.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves a political event and the actions of a U.S. President, making it relevant to the category of politics and government.",
+    "llm_response": "<Politics and Government> \nThe claim involves a political event and the actions of a U.S. President, making it relevant to the category of politics and government."
+  },
+  {
+    "claim": "The Bill and Melinda Gates Foundation was kicked out of India.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves an action taken by the government of India, specifically regarding an organization, indicating a political context. This categorization is based on the topic of government actions and interactions with external entities.",
+    "llm_response": "<Politics and Government> \nThe claim involves an action taken by the government of India, specifically regarding an organization, indicating a political context. This categorization is based on the topic of government actions and interactions with external entities."
+  },
+  {
+    "claim": "The sons of several top Democrats worked for Ukraine-linked energy companies, as part of a conspiracy involving the Clinton Foundation.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves allegations of a conspiracy and the involvement of politicians and government-related entities, making it relevant to the category of Politics and Government.",
+    "llm_response": "<Politics and Government> \nThe claim involves allegations of a conspiracy and the involvement of politicians and government-related entities, making it relevant to the category of Politics and Government."
+  },
+  {
+    "claim": "President Trump gave a talk during the COVID-19 pandemic in which he remonstrated about showers and dishwashers not functioning properly due to low-flow standards.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves the actions and statements of a sitting U.S. President, making it a topic related to politics and government.",
+    "llm_response": "<Politics and Government> \nThe claim involves the actions and statements of a sitting U.S. President, making it a topic related to politics and government."
+  },
+  {
+    "claim": "U.S. Sen. Kamala Harris said, \"If elected [president] and you don't surrender your guns, I will sign an executive order and the police will show up at your door.\"",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> Politics and Government </politics and government>\nThe claim is about a politician's statement regarding their potential actions as president, which falls under the broader topic of politics and government.",
+    "llm_response": "<politics and government> Politics and Government </politics and government>\nThe claim is about a politician's statement regarding their potential actions as president, which falls under the broader topic of politics and government."
+  },
+  {
+    "claim": "The U.S. Congress passed the 22nd Amendment in order to \"make sure President Franklin D. Roosevelt did not get re-elected.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim is about a specific event and action taken by the U.S. Congress, which is a government institution, making it directly related to the field of politics and government.",
+    "llm_response": "<Politics and Government> \nThe claim is about a specific event and action taken by the U.S. Congress, which is a government institution, making it directly related to the field of politics and government."
+  },
+  {
+    "claim": "Walmart is selling 'satanic' items.",
+    "category": "Product and Shopping Queries",
+    "explanation": "<Product and Shopping Queries</Product and Shopping Queries>\nThe claim is related to a specific product or item being sold by a particular store, Walmart, indicating a query about shopping.",
+    "llm_response": "<Product and Shopping Queries</Product and Shopping Queries>\nThe claim is related to a specific product or item being sold by a particular store, Walmart, indicating a query about shopping."
+  },
+  {
+    "claim": "A critically endangered Malabar civet was seen for the first time since the 1990s during a COVID-19 lockdown in India.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim revolves around a sighting of a specific species, indicating a topic related to biology and the natural world. The mention of conservation status further supports this classification as it pertains to the field of science and nature.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim revolves around a sighting of a specific species, indicating a topic related to biology and the natural world. The mention of conservation status further supports this classification as it pertains to the field of science and nature. </explanation>"
+  },
+  {
+    "claim": "In 1994, a 17-year-old Eagle Scout built a nuclear reactor in his mother’s backyard, an act that ultimately necessitated a Superfund cleanup.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a technical and scientific topic, specifically a nuclear reactor, indicating a connection to the field of science and nature.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a technical and scientific topic, specifically a nuclear reactor, indicating a connection to the field of science and nature. </explanation>"
+  },
+  {
+    "claim": "Democratic presidential nominee Joe Biden tweeted that there was less looting in Kenosha, Wisconsin, because the area had \"fewer Black people.\"",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim is about a statement made by a political figure regarding a social issue, indicating it falls under the category of politics and government.",
+    "llm_response": "<Politics and Government> \nThe claim is about a statement made by a political figure regarding a social issue, indicating it falls under the category of politics and government."
+  },
+  {
+    "claim": "U.S. Rep. Adam Schiff is \"linked\" to a Ukrainian arms dealer.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government</Politics and Government>\nThe claim is about a U.S. representative and an association with a Ukrainian arms dealer, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government</Politics and Government>\nThe claim is about a U.S. representative and an association with a Ukrainian arms dealer, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "52 thoroughbred horses whose owner died from COVID-19 are destined for slaughter if adopters are not found for them soon.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis claim is about the social implications of a specific situation involving horses and their adoption, which falls under social and political issues.",
+    "llm_response": "<Social and Political Issues> \nThis claim is about the social implications of a specific situation involving horses and their adoption, which falls under social and political issues."
+  },
+  {
+    "claim": "Several cities have started to use \"silent fireworks\" in order to make the shows more enjoyable for children, pets, and people with PTSD.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis category was chosen because the claim discusses a social issue (enjoyment for children, pets, and people with PTSD) and a public event (fireworks shows), which are common topics in the realm of social and political issues.",
+    "llm_response": "<Social and Political Issues> \nThis category was chosen because the claim discusses a social issue (enjoyment for children, pets, and people with PTSD) and a public event (fireworks shows), which are common topics in the realm of social and political issues."
+  },
+  {
+    "claim": "In talking to journalists, U.S. President Donald Trump used some notes to himself written in Sharpie pen that said, in part, \"I want nothing.\"",
+    "category": "Politics and Government",
+    "explanation": "<politics and government> \nThis claim involves a factual event related to a government official, specifically the President of the United States, and his actions during a public event.",
+    "llm_response": "<politics and government> \nThis claim involves a factual event related to a government official, specifically the President of the United States, and his actions during a public event."
+  },
+  {
+    "claim": "An Arizona family preparing for a swim found several rattlesnakes hiding inside two pool noodles stored near their home.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a natural phenomenon (rattlesnakes) and their interaction with their environment (near a home in Arizona), which falls under the broader category of science and nature.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a natural phenomenon (rattlesnakes) and their interaction with their environment (near a home in Arizona), which falls under the broader category of science and nature. </explanation>"
+  },
+  {
+    "claim": "A photograph shows five people atop a skyscraper spire.",
+    "category": "Entertainment and Media",
+    "explanation": "This category was chosen because the claim involves a photograph, which is a form of media, and the context suggests a visual representation of a scene, likely for entertainment or informational purposes.",
+    "llm_response": "<category> Entertainment and Media </category>\n<explanation> This category was chosen because the claim involves a photograph, which is a form of media, and the context suggests a visual representation of a scene, likely for entertainment or informational purposes. </explanation>"
+  },
+  {
+    "claim": "Donald Trump \"bankrupted\" a golf course in Puerto Rico, leaving taxpayers there on the hook for $33 million worth of debt.",
+    "category": "Politics and Government",
+    "explanation": "This category was chosen because the claim involves a politician (Donald Trump) and a governmental issue (taxpayers on the hook for debt), indicating a topic related to governance and public policy.",
+    "llm_response": "<Politics and Government>\n<explanation> This category was chosen because the claim involves a politician (Donald Trump) and a governmental issue (taxpayers on the hook for debt), indicating a topic related to governance and public policy. </explanation>"
+  },
+  {
+    "claim": "Members of the Trump family were banned from running charities in New York because they reportedly stole from a children's cancer charity.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim falls under the Politics and Government category as it involves a specific event or action related to a political figure and their family, and the implications of that event on their public roles and activities.",
+    "llm_response": "<Politics and Government> \nThis claim falls under the Politics and Government category as it involves a specific event or action related to a political figure and their family, and the implications of that event on their public roles and activities."
+  },
+  {
+    "claim": "Melinda Gates said Black people should be first in line, after health care workers, to be vaccinated against COVID-19.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis category was chosen because the claim involves a statement made by a public figure, Melinda Gates, regarding a social issue (COVID-19 vaccination priority) that has political implications and relevance.",
+    "llm_response": "<Social and Political Issues> \nThis category was chosen because the claim involves a statement made by a public figure, Melinda Gates, regarding a social issue (COVID-19 vaccination priority) that has political implications and relevance."
+  },
+  {
+    "claim": "U.S. President Donald Trump's name will appear on COVID-19 stimulus checks.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about the actions and policies of a U.S. President, which falls under the category of Politics and Government.",
+    "llm_response": "<Politics and Government> \nThis claim is about the actions and policies of a U.S. President, which falls under the category of Politics and Government."
+  },
+  {
+    "claim": "An X-ray shows hundreds of bubble tea pearls inside a teenage girl's stomach.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a medical imaging technique (X-ray) and a biological system (the human body), indicating a scientific or natural context.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a medical imaging technique (X-ray) and a biological system (the human body), indicating a scientific or natural context. </explanation>"
+  },
+  {
+    "claim": "Rutgers University or Rutgers' English Department Chair Rebecca Walkowitz wrote in June 2020 that \"grammar is racist\" or words to that effect.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThis category was chosen because the claim involves a statement made by a university official related to a social issue, specifically the relationship between language and racism, which is a common topic in social and political discussions.",
+    "llm_response": "<Social and Political Issues> \nThis category was chosen because the claim involves a statement made by a university official related to a social issue, specifically the relationship between language and racism, which is a common topic in social and political discussions."
+  },
+  {
+    "claim": "A photograph shows a large species of megabat.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a description of a specific type of living organism and a visual representation, which falls under the broad category of scientific information related to nature.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a description of a specific type of living organism and a visual representation, which falls under the broad category of scientific information related to nature. </explanation>"
+  },
+  {
+    "claim": "A decision by the Justice Department under the Obama administration forced the FBI to purge the names of 500,000 fugitives from justice from the background check database for firearms purchases.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim involves a specific decision made by a government department, referencing a past administration, indicating a topic related to governance and policy.",
+    "llm_response": "<Politics and Government> \nThis claim involves a specific decision made by a government department, referencing a past administration, indicating a topic related to governance and policy."
+  },
+  {
+    "claim": "U.S. President Donald Trump wrote personal checks to tornado victims in Nashville, Tennessee.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a high-ranking government official and a specific action related to their role.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a high-ranking government official and a specific action related to their role."
+  },
+  {
+    "claim": "Some grocery store receipts contain chemicals linked to infertility and hormone-related cancers.",
+    "category": "Science and Nature",
+    "explanation": "<Science and Nature> \nThis category was chosen because the claim involves a discussion of chemicals and their potential health effects, which falls under the broader topic of science and the natural world.",
+    "llm_response": "<Science and Nature> \nThis category was chosen because the claim involves a discussion of chemicals and their potential health effects, which falls under the broader topic of science and the natural world."
+  },
+  {
+    "claim": "A VA hospital removed military flags in order to fly a LGBTQ pride flag.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim involves an action taken by a government institution (VA hospital) related to a social issue (LGBTQ pride flag), indicating it falls under the category of politics and government.",
+    "llm_response": "<Politics and Government> \nThis claim involves an action taken by a government institution (VA hospital) related to a social issue (LGBTQ pride flag), indicating it falls under the category of politics and government."
+  },
+  {
+    "claim": "A video shows a car using a rear fifth wheel to parallel park.",
+    "category": "Technology and Digital Support",
+    "explanation": "<Technology and Digital Support> \nThis category was chosen because the claim involves a video showcasing a specific technological or digital application, in this case, a car's parallel parking feature.",
+    "llm_response": "<Technology and Digital Support> \nThis category was chosen because the claim involves a video showcasing a specific technological or digital application, in this case, a car's parallel parking feature."
+  },
+  {
+    "claim": "A C-SPAN video shows former Vice President Joe Biden confessing that he \"bribed\" Ukraine to drop the Burisma investigation.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim involves a former Vice President and a specific political event, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim involves a former Vice President and a specific political event, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "A November 2019 Trump administration proposal would end Social Security disability payments for thousands of recipients.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a proposal made by the Trump administration, indicating a topic related to government and policy.",
+    "llm_response": "<Politics and Government> \nThis claim is about a proposal made by the Trump administration, indicating a topic related to government and policy."
+  },
+  {
+    "claim": "The U.S. Supreme Court has ruled against House Speaker Nancy Pelosi on impeachment.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThe claim involves a ruling made by the U.S. Supreme Court regarding the impeachment process, which is a topic related to the political system and government of the United States.",
+    "llm_response": "<Politics and Government> \nThe claim involves a ruling made by the U.S. Supreme Court regarding the impeachment process, which is a topic related to the political system and government of the United States."
+  },
+  {
+    "claim": "El Paso County Sheriff Richard Wiles wrote a viral piece of text about the August 2019 mass shooting in El Paso, Texas.",
+    "category": "Crime and Safety",
+    "explanation": "<Crime and Safety> \nThis category was chosen because the claim involves a mass shooting, which is a type of violent crime, and the sheriff's response to it.",
+    "llm_response": "<Crime and Safety> \nThis category was chosen because the claim involves a mass shooting, which is a type of violent crime, and the sheriff's response to it."
+  },
+  {
+    "claim": "Joe Biden once said that Roe v. Wade — the U.S. Supreme Court case that protects a pregnant woman's freedom to choose whether to have an abortion — went too far.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis category was chosen because the claim discusses a Supreme Court case and a statement made by a U.S. government official, indicating a topic related to government and politics.",
+    "llm_response": "<Politics and Government> \nThis category was chosen because the claim discusses a Supreme Court case and a statement made by a U.S. government official, indicating a topic related to government and politics."
+  },
+  {
+    "claim": "Elisa Granato died shortly after being administered a trial vaccine for COVID-19.",
+    "category": "Science and Nature",
+    "explanation": "This category was chosen because the claim involves a scientific topic, specifically a medical trial and the administration of a vaccine, which falls under the broad category of science and nature.",
+    "llm_response": "<category> Science and Nature </category>\n<explanation> This category was chosen because the claim involves a scientific topic, specifically a medical trial and the administration of a vaccine, which falls under the broad category of science and nature. </explanation>"
+  },
+  {
+    "claim": "Comedian Trevor Noah said black South Africans should direct their anger at whites instead of immigrants.",
+    "category": "Politics and Government",
+    "explanation": "<politics_and_government> Politics and Government </politics_and_government>\nThe claim is related to a statement made by a comedian on a social or political issue, indicating a topic of discussion in the realm of government and politics.",
+    "llm_response": "<politics_and_government> Politics and Government </politics_and_government>\nThe claim is related to a statement made by a comedian on a social or political issue, indicating a topic of discussion in the realm of government and politics."
+  },
+  {
+    "claim": "The 9/11 Memorial & Museum and the World War II Memorial, both in New York state, were vandalized during Black Lives Matter protests in the spring of 2020.",
+    "category": "Social and Political Issues",
+    "explanation": "<Social and Political Issues> \nThe claim involves protests and vandalism related to a social movement, indicating a social and political context.",
+    "llm_response": "<Social and Political Issues> \nThe claim involves protests and vandalism related to a social movement, indicating a social and political context."
+  },
+  {
+    "claim": "Searching for any three-digit number followed by \"new cases\" on Google provides evidence that the COVID-19 pandemic was manufactured.",
+    "category": "Conspiracy and Misinformation",
+    "explanation": "<Conspiracy and Misinformation> \nThis claim is classified as conspiracy and misinformation because it suggests a baseless and unsubstantiated claim about the origin of the COVID-19 pandemic. It implies a misleading narrative that contradicts the overwhelming scientific evidence and official reports.",
+    "llm_response": "<Conspiracy and Misinformation> \nThis claim is classified as conspiracy and misinformation because it suggests a baseless and unsubstantiated claim about the origin of the COVID-19 pandemic. It implies a misleading narrative that contradicts the overwhelming scientific evidence and official reports."
+  },
+  {
+    "claim": "A photograph shows an African child on display in a \"human zoo\" at the 1958 World's Fair in Brussels, Belgium.",
+    "category": "History and Culture",
+    "explanation": "<history-and-culture> This category was chosen because the claim involves a historical event and a cultural practice (human zoo) from the past. </history-and-culture>",
+    "llm_response": "<history-and-culture> This category was chosen because the claim involves a historical event and a cultural practice (human zoo) from the past. </history-and-culture>"
+  },
+  {
+    "claim": "U.S. Senator Elizabeth Warren listed her race as \"American Indian\" on her 1986 Texas State Bar registration card.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim is about a U.S. Senator, indicating it falls under the category of politics and government.",
+    "llm_response": "<Politics and Government> \nThis claim is about a U.S. Senator, indicating it falls under the category of politics and government."
+  },
+  {
+    "claim": "A Harvard study proved that Apple purposely slows down its older model iPhones to coincide with device releases and to boost sales of new models.",
+    "category": "Technology and Digital Support",
+    "explanation": "This category was chosen because the claim involves a specific technology product (iPhones) and a study related to its performance, indicating a digital support context.",
+    "llm_response": "<category> Technology and Digital Support </category>\n<explanation> This category was chosen because the claim involves a specific technology product (iPhones) and a study related to its performance, indicating a digital support context. </explanation>"
+  },
+  {
+    "claim": "Sen. Kamala Harris lied about being in the second racially integrated class at Berkeley Public Schools.",
+    "category": "Politics and Government",
+    "explanation": "<Politics and Government> \nThis claim involves a specific accusation of dishonesty made against a public figure, which falls under the broader category of politics and government.",
+    "llm_response": "<Politics and Government> \nThis claim involves a specific accusation of dishonesty made against a public figure, which falls under the broader category of politics and government."
+  }
+]

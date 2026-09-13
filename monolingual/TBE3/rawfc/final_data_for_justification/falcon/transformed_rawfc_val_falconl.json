@@ -1,0 +1,1248 @@
+[
+    {
+        "claim": "A city in U.S. Rep. Ilhan Omar’s congressional district voted to eliminate the pledge of allegiance before city council meetings.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Razor blades were found in gas-pump handles in Michigan.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "William Harvey Carney was the first African-American serviceman to be awarded the Medal of Honor.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "The first Black American to earn the Medal of Honor , William Harvey Carney nearly die at Fort Wagner in the Civil War - but he never once let the Union flag touch the ground .",
+            "He be not the first Black American to receive the Medal , a he do not actually receive his until nearly 4 decade later in 1900 ."
+        ]
+    },
+    {
+        "claim": "A list of chemicals, written as if they were ingredients on a food label, accurately depicts the chemical composition of a banana. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "President Donald Trump's administration auctioned 150,000 acres of public land off in December 2018, making that land open to fracking activities.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows U.S. President Donald Trump wearing a protective face mask during a visit to a Ford manufacturing plant in spring 2020.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Three cats in Wyoming were diagnosed with the bubonic plague.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Energy drinks caused an expectant father to lose a large portion of his skull.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "One oyster can filter more than 50 gallons of water in 24 hours.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows a huntsman spider eating a pygmy possum. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Microwaving fabric masks is a good way to sanitize them for reuse.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An official Black Lives Matter flyer labels white men, women, and children as \"the enemy.\" ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows an abnormally large leatherback turtle on a beach.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Undercover video footage shows that Beto O'Rourke campaign staff illegally used campaign resources to provide food, supplies and transportation to Central American migrants.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Bill Gates is quoted in the February 1997 issue of George magazine as saying an \"over-populated planet\" would be \"choked to extinction by a lung-attacking virus.\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows U.S. Rep. Ilhan Omar dancing on the anniversary of 9/11. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Nathan Phillips falsely claimed to be a U.S. military veteran who served in the Vietnam War.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A list of public figures posted to Facebook was part of an \"unsealed\" list of names kept by Ghislaine Maxwell, who has been charged with facilitating the sexual abuse of minors by Jeffrey Epstein.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A Chinese intelligence officer revealed that a new coronavirus was developed in a lab as a bioweapon.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An image shows a recruitment flyer for a group seeking to hire \"professional anarchists.\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Mail-in ballots reveal the political party of the voter, meaning that Postal Service employees can tamper with election results.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The Dayton, Ohio, mass shooting suspect \"Connor Betts\" is or has assumed the identity of the same Connor Betts who died in Connecticut in 2014. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Authorities warned about more attacks on Walmart and Target stores in El Paso after a mass shooting there in August 2019.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. Rep. Ken Buck, a Republican from Colorado, attended a campaign rally wearing a T-shirt that read, “Kill ‘Em All. Let God Sort ‘Em Out.”",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Four Impossible Whoppers provide “enough estrogen to grow boobs on a male.” ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In 2020, PepsiCo gave $100 million to entities or projects associated with the Black Lives Matter movement.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "During an interview, presumed U.S. Democratic 2020 presidential nominee Joe Biden asked a news reporter, “Are you a junkie?” ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A group of Somali teenagers used hammers to physically attack and injure several passersby at a train station in Minneapolis in May 2019. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Austin public schools will force parents to allow the district to teach children \"how to have anal sex.\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The toy company Hasbro acquired Death Row Records. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A Broward County employee witnessed elections staff filling out blank absentee ballots.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Former U.S. Vice President Joe Biden once said he didn't want his kids to grow up in a \"racial jungle\" in regards to desegregation.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video captures an experiment in which immersing an egg in soda for 24 hours dissolved its shell and turned the egg into a rubbery, squeezable substance. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows a group of ducks patiently waiting at a traffic light.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In 1856 U.S. House Rep. Preston Brooks brutally attacked Sen. Charles Sumner with a cane in the U.S. Senate chamber.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Lee de Forest, the \"father of radio,\" proclaimed that a man-made moon voyage will never occur.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A tweet by President Trump about preserving American heritage and history echoed a speech given by Adolf Hitler in 1939.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump was photographed holding the Bible upside down outside St John's Episcopal church on June 1, 2020.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The student union at the University of Manchester instituted a ban on audible clapping during their events.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Obama accepted $21.6 million in illegal foreign donations to his 2012 re-election campaign.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A Craigslist ad offered to pay \"minority actors\" to hold signs at a Trump rally in Tulsa, Oklahoma on June 20, 2020.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows a group of people celebrating the end of COVID-19 restrictions in New Zealand. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "DC Comics is publishing a series depicting Jesus Christ living with a superhero.",
+        "label": "true",
+        "supporting_evidence": [
+            "”\nHe say , “ He send Jesus down to learn from this superhero and they end up learn from each other ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows Martin Luther King Jr. in the back seat of a police car, along with a dog that was put there by officers an attempt to intimidate him.",
+        "label": "half",
+        "supporting_evidence": [
+            "A German shepherd police dog be then put into the car in an apparent attempt to intimidate him .",
+            "The photo be take on the morning of June 18 , 1964 , when King be take by police to testify to a grand jury in St. Augustine , Florida ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "User videos taken in November 2019 showed Facebook's mobile application inadvertently opening the phone's camera in the background.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Parkland Shooter Nikolas Cruz registered to vote as a Republican from jail.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "We investigated a number of hoaxes, rumors, and conspiracy theories associated with a mass shooting on the Las Vegas strip on 1 October 2017.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Diane Abbott was photographed wearing mismatched shoes on Dec. 12, 2019. ",
+        "label": "true",
+        "supporting_evidence": [
+            "Although not the same photograph , Abbott tweet out an almost identical one at 6:47 p.m. the night before — show the exact same group of individual , stand in the exact same position :\nClearly , the photograph Abbott post at 9 a.m. on Election Day come from the previous evening 's canvas in Battersea , a this side-by-side comparison show :\nIt 's unclear why or how Abbott come to wear odd shoe on Election Day ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Justice Anthony Kennedy suddenly resigned from the Supreme Court as part of a deal to shield his son from ongoing Russian investigations.",
+        "label": "half",
+        "supporting_evidence": [
+            "But a Court without Kennedy be substantially more likely to :\nThis Supreme Court vacancy will give Donald Trump the power to shift jurisprudence on a range of critical issue ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Drinking cocktails from a copper mug can cause copper poisoning",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A graphic shows a Fox News chart correlating the stock market’s performance with the aftermath of the beating and deaths of black men. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The NAACP warned of violent white supremacist initiations planned for \"this weekend.\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph showing U.S. President Donald Trump awarding a purple heart to a wounded veteran went unreported by the mainstream news media. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "After an off-duty police officer shot Brian Hundley, a jury found the officer had acted negligently and lied about the event, but Judge Brett Kavanaugh overturned the finding.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "If the defendant think the evidence support alternative self-defense scenario other than the one describe by Officer Gaines and present in the write interrogatory , they should have timely make that point in the district court , especially with respect to the write interrogatory present to the jury ."
+        ]
+    },
+    {
+        "claim": "An image shows the official COVID-19 series of NFL helmets. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Donald Trump once said: \"You never blame yourself; you have to blame something else. If you do something bad, never, ever blame yourself.\"",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Residents of various U.S. states have received unsolicited mailings of seeds sent from China with malicious intent.",
+        "label": "half",
+        "supporting_evidence": [
+            "Those receive the seed also should refrain from open the seal packet in which they arrive ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows 2020 U.S. Democratic presidential nominee Joe Biden falling asleep during a live television interview. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Antifa and Muslim organizations in summer of 2020 were planning to police the streets of Minneapolis under Muslim rule.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In June 2020, the Michigan House of Representatives passed legislation that would allow employers to microchip workers on a voluntary basis.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A viral photograph showing a canine coronavirus vaccine demonstrates that there should already exist a human vaccine for COVID-19.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Adolf Hitler was behind the invention of the first inflatable sex dolls.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Uber and Lyft offer voters free rides to the polls on Election Day.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A map demonstrates the population disparity between densely populated Los Angeles County and much of the U.S.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Taco Bell's cinnamon twists are made from deep-fried rotini pasta. ",
+        "label": "false",
+        "supporting_evidence": [
+            "A few particularly well-informed TikTok commenters be even able to name the brand : Duritos Pellets Wheat Twists , which currently retail for about $ 12 on Amazon , although most TikTok user stick to incredulous exclamation about how they never suspect it be possible to fry pasta ( and Amazon reviewer say they do n't taste anything like the real deal at the Bell , either ) ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows a flyer posted for an \"End the Lockdown Rally\" in Staten Island.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The FBI warned that smart TVs can \"spy\" on their owners.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Donald Trump said \"Politics is boring, but more importantly, there's no money in it\" in a 1990 interview.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A \"Support Our Troops\" ad from the 2020 Trump campaign featured an image of Russian fighter jets. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump said American Revolutionary War troops took over airports.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An autopsy revealed that the late \"Black Panther\" star Chadwick Boseman had died from poisoning.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows a newborn child who weighed 8.6 kg (18.96 lbs.) at birth.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "President Donald Trump, in applying for permission to build a wall at his golf course in Ireland, warned against the threat of coastal erosion caused by global warming.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Chick-fil-A CEO Dan Cathy said white people should shine the shoes of Black people in order to show shame about racism. ",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "Find a black person & 'go right on over & shine their shoe '\nMy message to the Chick-Fil-A CEO who early today say white people should shine the shoe of black Americans ."
+        ]
+    },
+    {
+        "claim": "U.S. President Donald Trump was honored with a Man of the Year award at an event in Michigan five or six years before he “thought about running” for president.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Starbucks is opening a coffee bean roasting facility in China.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Cardinal George Pell, who has been charged with sexual abuse, once said that abortion was \"a worse moral scandal than priests sexually abusing young people.\"",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Anthropologist Jane Goodall likened Donald Trump's actions to primates engaging in dominance behavior.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Americans Jay Austin and Lauren Geoghegan were killed in Tajikistan while cycling through \"Isis territory\" in order to vindicate their belief in human kindness.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Legionnaires' disease can be contracted from a face mask used repeatedly.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Actress Dawn Wells was the only \"Gilligan's Island\" cast member to receive residual payments for syndicated airings of the show.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The Trump administration issued a memo in July 2020 that listed physical characteristic to look for in order to identify incoming transgender people at federally funded homeless shelters.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Clint Eastwood said \"one day we will realize that the Barack Obama presidency was the biggest fraud ever perpetrated on the American people.”",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In a 2018 rally, President Trump compared his mouth to Elton John’s organ, adding that the brain is “hopefully attached to the mouth.”",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "President Donald Trump and Jared Kushner have used their public offices to manipulate Gulf countries for personal gain.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows a protester against pandemic stay-at-home orders holding a sign declaring that \"muzzles are for dogs and slaves.\"",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Stormy Daniels wrote a \"suicide note\" admitting she lied about having an affair with Donald Trump before she committed suicide.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Roger Stone once marketed 'Hillary for Prison' merchandise. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Patients should avoid taking ibuprofen to relieve pain and fever associated with COVID-19 infections.",
+        "label": "half",
+        "supporting_evidence": [
+            "Nevertheless , if any of these speculation and observation that ibuprofen worsen symptom or increase the risk of transmission be true , the implication for the healthcare system may be huge because of it wide OTC use not only in the context of COVID-19-associated fever but also in patient that chronically use it for pain [ 14 , 15 ] .",
+            "COVID-19 - ibuprofen and ketoprofen slider\nEMA be aware of report , especially on social medium , which raise question about whether non-steroidal anti-inflammatory medicine ( NSAIDs ) such a ibuprofen could worsen coronavirus disease ( COVID-19 ) ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The White House Gift Shop is selling coronavirus commemorative coins. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Former Alabama judge Roy Moore authored a chapter in a 2011 textbook arguing that women should not hold political office",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "WWE wrestler Ric Flair was declared brain dead on 16 May 2019. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "NASCAR announced that Black driver Bubba Wallace mistook a serpentine belt for a noose in his stall. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "On Aug. 21, 2019, U.S. President Donald Trump articulated a belief that he is \"the chosen one,\" the \"King of Israel,\" or the \"second coming of God.\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump suggested during a White House briefing that injecting disinfectants could treat COVID-19. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows then-first lady Nancy Reagan with Mr. T dressed up as Santa Claus. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The school shooting rate in non-Christian Japan is vastly lower than that of mostly Christian Texas.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Nobel laureate Dr. Tasuku Honjo said that COVID-19 was \"man-made\" at a lab in Wuhan, China.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Self-described psychic Sylvia Browne \"predicted\" a 2020 outbreak of the new coronavirus.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "FDNY Firefighter Michael O'Connell asked the internet for help in locating the helmet he wore on 9/11, which had been stolen from his home.  ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Under U.S. President Donald Trump, federal authorities are confiscating orders of personal protective equipment (PPE) from local governments amid the COVID-19 pandemic.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An asteroid is expected to hit earth in mid-February 2020. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows U.S. President Trump kissing convicted sex trafficker Jeffrey Epstein. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "\"Antifa\" admitted to pouring concrete on train tracks causing an Amtrak train to derail.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "California Governor Jerry Brown signed a law allowing convicted felons to vote while still in prison.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Trump wrote Sen. Chuck Schumer, D-New York, a letter blaming the state's medical-supply shortage amid an ongoing pandemic on impeachment proceedings against Trump.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Referring to the ongoing COVID-19 pandemic, U.S. President Donald Trump said, \"People are dying today that have never died before.\" ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An 800 phone number can be used for tracking the status of coronavirus economic stimulus payments.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. Rep. Alexandria Ocasio-Cortez started \"chain migration\" deportation proceedings against First Lady Melania Trump and her parents.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. House Speaker Nancy Pelosi publicly criticized the actions of federal agents in U.S. cities during protests in 2020 — while simultaneously supporting a budget bill that would fund such law enforcement efforts.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. Rep. Adam Schiff is a known pedophile who has settled numerous sex crime cases out of court. ",
+        "label": "false",
+        "supporting_evidence": [
+            "Schiff build a national profile during Adam Schiff be a Democrat who have serve a the U. Adam Schiff , California Democrat , jump onto the bandwagon in the day after the “ Empire ” actor claim to have beat up and have bleach pour on him at 2 a. Adam Schiff illegally make up a FAKE & terrible statement , pretend it to be mine a the most important part of my call to the Ukrainian President , and read it aloud to Congress and the Feb 03 , 2021 · Rep. California time , and say he ’ s “ one of the big liar and leaker in Washington ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. Sen. Mitt Romney participated in a June 7, 2020 civil rights protest.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "On the same day California announced it would provide some undocumented residents COVID-19 stimulus payments, it also announced it would lay off first responders because of a lack of funds.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In 2006, an abortion-clinic owner cut the umbilical cord of a baby born alive before \"throwing\" her in a biohazard bag and putting her remains in \"the trash.\"",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Video shows young children saying \"Fuck the police\" and holding signs that read “Fuck the police” and “Eff Trump goons” during protests against police brutality in Portland, Oregon, in July 2020. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In November 2019, A.C. Moore announced it was going out of business and would be closing its stores. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Teddy Roosevelt once said, \"Patriotism means to stand by the country. It does not mean to stand by the president.\"",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Harvard professor Charles Lieber was arrested for concealing funding from a Chinese lab connected to the origin of the new coronavirus.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump donated $6,000 to Kamala Harris' 2014 campaign for reelection as California attorney general. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The \"Deodorant Challenge\" is \"sweeping\" schools and playgrounds as of May 2018.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "News media outlets misrepresented a photograph of a two-year-old migrant girl whose mother was arrested at the U.S-Mexico border as depicting an instance of family separation.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows members of the KKK marching with a Trump-Pence presidential campaign sign. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Boiling menstrual pads and drinking the water to get “high” or “drunk” is an alarming new trend amongst Indonesian teens. ",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "President Trump declared on 'Fox & Friends' that 'I am in charge, this is my country, and I will do as I please.'",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Dutch restaurants solved the problem of dining out during the COVID-19 coronavirus disease pandemic by installing personal greenhouse booths. ",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Arkansas landlord Annette Cowen informed tenants at her rental properties they could face eviction if they failed to pay rent as a result of lacking the income provided by government housing subsidy programs.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The Australian government's Threatened Species Strategy has as one of its aims the culling of 2 million feral cats by 2020, largely using a sausage bait carrying a lethal toxin. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Sales of Corona beer dropped sharply in early 2020 because consumers mistakenly associated the brand name with the new coronavirus.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows PBS children's TV host Mr. Rogers addressing the nation after 9/11.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The CEO of Wendy's donated about $400,000 to President Trump's re-election campaign. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A proposed Virginia law would outlaw martial arts and firearms instruction.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Dale Earnhardt Jr. told a story about his late father, Dale Earnhardt Sr., removing a Confederate-flag sticker from his truck. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump said he liked \"the sun better than the artificial non-sun\" during a rally.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "San Francisco is registering \"illegal aliens\" to vote.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows dozens of spiderlings dispersed from their mother after she was squashed with a broom.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A picture shows a person holding a \"Sacrifice the Weak\" sign at a rally urging the state of Tennessee to re-start its economy amid COVID-19 lockdown orders.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In August 2017, when tensions between President Trump and Senate Majority Leader Mitch McConnell were at their highest, the latter blew off an invitation to meet with the president because he had a haircut appointment.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Black Lives Matter \"members and supporters\" are tampering with or poisoning the orders of white patrons at fast food restaurants.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Nancy Pelosi announced a \"scheme\" to \"take down Donald Trump in 2020\" by lowering the voting age.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video shows 300 children who were found frozen alive for purposes of organ harvesting. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The high-dose Fluzone vaccine caused the deaths of 23 senior citizens during a clinical trial.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A 9-year-old girl was paralyzed as a result of receiving a flu shot.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A bust of Abraham Lincoln was vandalized in Chicago in protest of confederate statues.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Donald Trump intervened to stop a bat-wielding mugger in New York City in 1991.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "”\nThe Daily News story gain new attention this week after Mr. Trump criticize Broward County Sheriff ’ s deputy for not enter Marjory Stoneman Douglas High School on Feb. 14 a 19-year-old Nikolas Cruz carry out a mass shooting that take the life of 17 student and faculty member .",
+            "The detail of the widely circulate article , which claim that Trump stop a ‘ bat-wielding thug ’ on his way to a concert with Marla Maples , have be widely refute in the past ."
+        ]
+    },
+    {
+        "claim": "A drop of 21 million cellphone subscribers in China in early 2020 documents that the death toll from COVID-19 was vastly underreported in that country.",
+        "label": "half",
+        "supporting_evidence": [
+            "21 million cell phone account in China be cancel after coronavirus\nThis sudden drop suggest a very high Coronavirus death toll\nSince the outbreak of Novel Coronavirus which emerge in China 's Wuhan , the pandemic have kill 15,374 people globally and infect 351,731 individual ."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A video clip captures U.S. President Donald Trump's hairpiece being sucked off by the intake of a jet engine.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Albert Einstein said \"World War IV would be fought with sticks and stones.\"",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The snakehead fish can survive on land. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Sex traffickers are tagging vehicles as potential targets with codes such as \"1f1b.\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "New York Gov. Andrew Cuomo ordered thousands of COVID-19 patients to be sent to nursing homes, while the USNS Comfort, a hospital ship sent to New York to help treat patients, sat empty and unused.  ",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The show \"The Simpsons\" predicted the common autocorrect feature on phones, tablets and computers. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A social media meme accurately lists U.S. government assets deployed by President Trump to aid Puerto Ricans in the aftermath of Hurricane Maria.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An organization once awarded U.S. President Donald Trump a Bay of Pigs recognition award.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The Trump re-election campaign is responsible for a surge in orders of \"Trump 2020\" flags and banners produced in Chinese factories, just before the imposition of U.S. tariffs.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph of U. S. President Donald Trump and first lady Melania Trump shows them with a baby who was orphaned by the August 2019 El Paso, Texas, mass shooting. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Country music singer Willie Nelson stopped smoking weed.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Donald Trump, Jr. referred to teachers as \"losers\" at a campaign event.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Verizon Wireless limited the Santa Clara County Fire Department's data access by \"throttling\" their service in the midst of a wildfire.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. Rep. Ilhan Omar became a naturalized U.S. citizen before First Lady Melania Trump did. ",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "The fact that Ayanna Pressley , Alexandria Ocasio-Cortez and Rashida Tlaib be all bear in the United States and Ilhan Omar be a naturalized U.S. citizen be meaningless to Trump ’ s supporter because their definition of “ American ” begin and end with the color of their skin ."
+        ]
+    },
+    {
+        "claim": "As of July 2020, a new law in Canada meant motorists could be convicted and fined $1,500 if one of their passengers used a cellphone.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "News media claims of bombs sent by mail to the Clintons and Obamas were false because USPS doesn't deliver mail to persons under Secret Service protection.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In June 2019, Ecuador's government announced a plan for U.S. military aircraft to use the Galápagos Island of San Cristóbal for refueling. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A man named Robert Smalls escaped slavery, along with his family and other slaves, by stealing a Confederate ship and was later elected to the U.S. House of Representatives.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In 1989, a senior U.N. environmental official said, “Entire nations could be wiped off the face of the Earth by rising sea levels if the global warming trend is not reversed by the year 2000.”",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "While responding to a 911 assault report, Los Angeles County sheriff's deputies pointed firearms at teenagers — two of whom were Black — after witnesses said the teens themselves were the victims of an attack by a knife-wielding man. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The entire Central American migrant caravan rejected Mexico's offer of jobs, medical care and education.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump tweeted that he loves the Chinese people \"just as I love Melania or Ivanka!\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Muslims in Switzerland burned a Swiss flag and demanded the cross be removed from it.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump told people they should vote twice in the 2020 presidential election.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In October 2019, Barnes & Noble sold or marketed a satire of Donald Trump's presidency as a children's book, or placed it in the children's section of stores.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "I will never set foot in another Barnes & Noble for display the book If you Give a Pig the White House .",
+            "The book , If You Give a Pig the White House : A Parody be publish on 1st of Oct and hardcopies be sell in the US at Barnes & Noble , Amazon and Walmart for around $ 15.75 ."
+        ]
+    },
+    {
+        "claim": "Missouri Republicans passed a bill to lower the minimum wage in St. Louis from $10 an hour to $7.70.",
+        "label": "true",
+        "supporting_evidence": [
+            "What the minimum wage be now : $ 8.46 per hour\nHow the minimum wage rise :\nIn November 2004 , voter approve a constitutional amendment to raise the minimum wage to $ 6.15 an hour and link increase to inflation ."
+        ],
+        "refuting_evidence": [
+            "In 2017 , the federal minimum wage of $ 7.25 be worth 12 percent less than when it be last raise in 2009 , after adjust for inflation , and be 27 percent below it peak value in 1968.17 Since national policymakers have fail to preserve this basic labor standard , a parent work full time do not earn enough at the minimum wage to live above the federal poverty line.18\nAs of July 2017 , twenty-nine state ( and Washington , D.C. ) have institute a minimum wage high than the federal level , but 21 state remain at the federal floor of $ 7.25 an hour .",
+            "Because of the Fair Labor Standards Act , the majority of minimum wage worker in Georgia and Wyoming be pay $ 7.25 rather than $ 5.15 per hour ."
+        ]
+    },
+    {
+        "claim": "Actor Jimmy Stewart suffered what would in 2019 be diagnosed as PTSD due to his experience as a World War II bomber pilot.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The United States \"refused\" COVID-19 diagnostic tests offered by the World Health Organization.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In August 2017, the Texas House of Representatives passed a bill that would force women to purchase \"rape insurance.\"",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Samuel Beckett used to drive a teenaged André the Giant to school when they lived in a small French village.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Playgirl magazine ran a \"Sleep with Donald Trump\" contest promotion in 1990.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Maya Angelou was raped when she was a child, and after the man responsible was found dead, she refused to speak for nearly 5 years.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In September 2020, CBS Evening News dishonestly presented a group of \"Latinos for Trump\" as Biden supporters.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Jimmy Carter sold his peanut farm before taking office as president in 1977.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "Forced to sell the company , Carter start write book to generate income ."
+        ]
+    },
+    {
+        "claim": "In November 2019, Duane Chapman, known as \"Dog the Bounty Hunter,\" died either by suicide or from a pulmonary embolism.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Immigrants who illegally crossed into the U.S. at the Mexico border are the cause of measles outbreaks in 2019 in the U.S.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Under Armour garments are more flammable than other garments of their type.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An image shows an angry tweet by U.S. President Donald Trump about Goodyear tires which was full of misspellings.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A document discovered in May 2019 reveals that Donald Trump's IQ was measured at 73 during his high school years. ",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": [
+            "Trump ’ s IQ be probably not nearly as high a he say it be ( an official report of his IQ have not materialize ) ."
+        ]
+    },
+    {
+        "claim": "U.S. Sen. Elizabeth Warren said or argued to the effect that \"taxpayers must fund sex reassignment surgery.\"",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A social media post describes volunteers headed to Florida to help with Hurricane Dorian relief in September 2019.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A 17-year-old girl named Alyssa Carson is being trained by NASA to become an astronaut.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Young people are growing \"horns\" in the base of their skulls from looking down at cellphone screens.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "U.S. President Donald Trump called MSNBC host Nicole Wallace a \"dog.\"",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Upon assuming power in Germany, Hitler ordered the defunding and elimination of police departments.",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Rep. Mark Amodei reported high-school student Noah Christiansen to his school for cursing during a phone call concerning gun safety legislation.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A piece of text accurately transcribes the last words of Elijah McClain in a video recording of his encounter with police officers before he died in August 2019.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "In June 2020, U.S. President Donald Trump tweeted a doctored video with a manipulated CNN chyron of a supposedly \"racist baby\" chasing a Black toddler.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Director Ron Howard penned an essay starting \"I am a liberal, but that doesn't mean what a lot of you apparently think it does.\"",
+        "label": "false",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Former President Jimmy Carter said \"America has no functioning democracy at this moment.\"",
+        "label": "half",
+        "supporting_evidence": [
+            "In July 2014 , former President Jimmy Carter stun an audience in Atlanta when he declare that “ America no longer have a functioning democracy."
+        ],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "An Ohio man died from complications related to the COVID-19 coronavirus disease weeks after he downplayed the virus on social media. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "More than 50% of respondents to a survey from Civic Science said that Arabic numerals should not be taught in school.",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "Armed Black Panthers lobbied for Georgia gubernatorial candidate Stacey Abrams and attempted to intimidate residents into voting for her.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "A photograph shows a dog that suffered burns on its face after escaping a house fire. ",
+        "label": "true",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    },
+    {
+        "claim": "The U.S. economic downturn due to the COVID-19 coronavirus pandemic in early 2020 was forcing the United States Postal Service to close.",
+        "label": "half",
+        "supporting_evidence": [],
+        "refuting_evidence": []
+    }
+]

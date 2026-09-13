@@ -1,0 +1,42 @@
+# --- trained artefacts (regenerate by training) ---
+*.safetensors
+*.bin
+*.pth
+*.pt
+*.ckpt
+*.npy
+checkpoint-*/
+runs/
+# NOTE: checkpoints/ and saves/ are deliberately NOT ignored wholesale -- the
+# weights are already excluded by the extensions above, and the adapter_config.json /
+# trainer_state.json / all_results.json / training curves left behind are useful
+# reproducibility artefacts.
+
+# --- caches ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+cached_images/
+image_cache/
+image_cache_*/
+hf_cache/
+.cache/
+
+# --- environments ---
+.venv*/
+venv/
+env/*.egg-info/
+third_party/
+
+# --- local outputs ---
+outputs/
+output/
+results/
+my_experiment_results/
+wandb/
+*.log
+
+# --- os / editor ---
+.DS_Store
+.vscode/
+.idea/

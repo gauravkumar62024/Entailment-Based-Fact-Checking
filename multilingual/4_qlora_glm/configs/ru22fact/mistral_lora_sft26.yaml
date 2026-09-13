@@ -1,0 +1,42 @@
+### model
+model_name_or_path: unsloth/mistral-7b-instruct-v0.2-bnb-4bit
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 8
+lora_target: all
+
+### dataset
+dataset: ru22fact_mistral_train_semantic_chunking_justifications
+template: mistral
+cutoff_len: 1000
+# max_samples: 1000        # Optional: enable for quick test only
+overwrite_cache: true
+preprocessing_num_workers: 16
+dataloader_num_workers: 4
+
+### output
+output_dir: saves/ru22fact_mistral_train_semantic_chunking_with_justifications/qlora/sft_26
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: wandb
+run_name: ru22fact_mistral_train_semantic_chunking_with_justifications_26
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 1.0e-4
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+seed: 26
+

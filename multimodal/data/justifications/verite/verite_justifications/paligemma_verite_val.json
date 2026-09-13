@@ -1,0 +1,650 @@
+[
+  {
+    "claim_id": "519",
+    "claim_text": "Photograph shows parked private jets was taken during the World Economic Forum (WEF) at Davos, Switzerland in May 2022.",
+    "support_justification": "The photograph does not refute the claim that the World Economic Forum (WEF) took place in Davos, Switzerland in May 2022. The image clearly shows several private jets parked at the airport, which is consistent with the event taking place. Additionally, the location of the airport suggests that the event was indeed held in Davos. Therefore, the photograph supports the claim that the WEF took place in Davos, Switzerland in May 2022.",
+    "refute_justification": "The photograph does not show any evidence that the World Economic Forum (WEF) took place in May 2022. The event typically takes place in January each year, with the most recent edition held in 2023.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "182",
+    "claim_text": "A photograph shows a miniature figurine of a chickadee bird.",
+    "support_justification": "The photo does not support the claim that the figurine is a real bird. The figurine is too small and has no feathers. It also lacks other features such as wings and tail feathers.",
+    "refute_justification": "The photo does not show a miniature figurine of a chickadee bird.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "512",
+    "claim_text": "Image shows a damaged railway bridge collapsed into a body of water in June 2020 in Murmansk, Russia.",
+    "support_justification": "The image clearly shows a damaged railway bridge collapsed into a body of water in June 2020 in Murmansk, Russia. This contradicts the claim that the bridge is still standing.",
+    "refute_justification": "The image clearly shows that the bridge is broken and has fallen into the water. This contradicts the claim that it is still standing.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "617",
+    "claim_text": "Ιmage depicts a demonstration against COVID-19 preventive measures in Algeria in 2021.",
+    "support_justification": "The image shows a protest against COVID-19 preventive measures in Algeria in 2021. The protesters are holding signs that read \"Stop the dictatorship of masks\" and \"Enough with the dictatorship of masks.\" They are also wearing face masks and social distancing. This contradicts the official government guidelines, which require everyone to wear face masks and maintain social distance. Therefore, the claim is false.",
+    "refute_justification": "The image shows a protest against COVID-19 preventive measures in Algeria in 2021. The protesters are holding signs that read \"Stop the dictatorship of masks\" and \"Enough with the dictatorship of masks.\" They are also wearing masks and social distancing.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "3",
+    "claim_text": "Image shows electric scooters abandoned due to Mobike's downsizing its fleets to avoid an oversupply as the bike-sharing market falters.",
+    "support_justification": "The image clearly shows that the e-scooters have been left unattended, indicating that they were not used by anyone at the time of the photo. This is contradictory to the claim made in the article, which states that the scooters were being used by people. Therefore, the claim is false.",
+    "refute_justification": "The image clearly shows that the scooters have been left unattended for some time, indicating that they were likely abandoned by their owners. This is consistent with the claim that the scooters were left unattended due to the company's decision to reduce its fleet size.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "657",
+    "claim_text": "A photograph captures hundreds of people who died after an oil tanker exploded in the Democratic Republic of the Congo in 2010.",
+    "support_justification": "The photo is not accurate.",
+    "refute_justification": "The photo is not authentic.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "161",
+    "claim_text": "Photograph shows people in China tearing down a 5G tower in an attempt to stop the spread of COVID-19 coronavirus disease.",
+    "support_justification": "The claim is false. The photograph does not show people in China tearing down a 5G tower in an attempt to stop the spread of COVID-19 coronavirus disease.",
+    "refute_justification": "The image is false. The photo has been circulating online with the claim that it shows Chinese citizens destroying a 5G tower in an attempt to stop the spread of COVID-19 coronavirus disease. However, this is not true.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "445",
+    "claim_text": "A photograph shows the Great Pacific Garbage Patch that covers over 8% of the Pacific Ocean.",
+    "support_justification": "The claim is refuted by the visual evidence. The image clearly shows the Great Pacific Garbage Patch covering over 8% of the Pacific Ocean. This contradicts the textual evidence which states that the patch only covers 2.6%. Therefore, the claim is false.",
+    "refute_justification": "The claim is false. The Great Pacific Garbage Patch does not cover over 8% of the Pacific Ocean.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "672",
+    "claim_text": "Image shows George Floyd IV, a 17-year-old who was arrested in Chicago for carjacking, appeared on 'Judge Judy' in 2010.",
+    "support_justification": "The image does not show George Floyd IV. The person in the photo is actually a young man named Michael Brown, who was killed by police officers in Ferguson, Missouri, in 2014. This incident sparked nationwide protests and calls for reform of police practices.",
+    "refute_justification": "The image does not show George Floyd IV.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "724",
+    "claim_text": "Image shows a large crowd protesting on the streets of London, in defense of jailed far-right activist Tommy Robinson in June 2018.",
+    "support_justification": "The image clearly shows a large crowd protesting on the streets of London, in defense of jailed far-right activist Tommy Robinson in June 2018. This is contradictory to the given claim that states that the image does not show any support for Tommy Robinson. Therefore, I must classify this image as **REFUTE**.",
+    "refute_justification": "The image clearly shows a large crowd protesting on the streets of London, in defense of jailed far-right activist Tommy Robinson in June 2018.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "717",
+    "claim_text": "An image showing a convenience store in New Jersey that had been looted after Hurricane Sandy in 2012.",
+    "support_justification": "The claim is refuted because there is no textual evidence to support it. The visual evidence shows a convenience store that has been looted after Hurricane Sandy in 2012. This contradicts the claim that the looting was not widespread.",
+    "refute_justification": "The claim is false. The photo shows a convenience store in New Jersey that had been looted after Hurricane Sandy in 2012. However, there is no evidence to support this claim. In fact, the photo was taken before Hurricane Sandy and shows damage caused by another storm.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "656",
+    "claim_text": "A photograph captures hundreds of Christians who were burned alive by Muslims during the 2010 Jos riots in Nigeria.",
+    "support_justification": "The image is not authentic. The photo was taken after the event and used as propaganda against Muslims.",
+    "refute_justification": "The image is not authentic. The photo was taken after the event and used as propaganda against Muslims.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "677",
+    "claim_text": "Images shows bird poop falling on U.S. President Joe Biden's shoulder during an event in April 2022.",
+    "support_justification": "The image clearly shows that the object is not a bird but rather a piece of paper.",
+    "refute_justification": "The image clearly shows that the object is not a bird but rather a piece of paper.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "117",
+    "claim_text": "Mural painted in 1994 at Denver International Airport that shows citizens of the world wearing masks.",
+    "support_justification": "The mural is false because it does not show people wearing masks.",
+    "refute_justification": "The mural is false because it does not show people wearing masks.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "11",
+    "claim_text": "Image shows hundreds of white electric cars that were abandoned in France because the cost of replacing the batteries was too high.",
+    "support_justification": "The claim is refuted by the visual evidence. The image shows hundreds of white electric cars that were abandoned in France because the cost of replacing the batteries was too high. This contradicts the textual evidence which states that the French government has invested billions of euros in developing the country's electric vehicle industry.",
+    "refute_justification": "The claim is false. The image does not show hundreds of white electric cars that were abandoned in France because the cost of replacing the batteries was too high.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "566",
+    "claim_text": "Image showing a group of truckers praying amid the protests against COVID-19 restrictions in Canada in February 2022.",
+    "support_justification": "The image shows a group of truckers praying amid the protests against COVID-19 restrictions in Canada in February 2022. The photo is contradictory to the text evidence as it does not support the claim that the protesters were not religious.",
+    "refute_justification": "The image shows a group of truckers praying amid the protests against COVID-19 restrictions in Canada in February 2022. The photo is false because it does not show any evidence that the protesters were actually praying.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "257",
+    "claim_text": "A photograph shows 'Petey the Pelican' that befriended a stray dog that was hanging out in the docks.",
+    "support_justification": "The image of Petey the Pelican is contradictory to the textual evidence provided. The pelican appears to be holding a fish, which contradicts the description of the pelican as a friend of dogs. Additionally, the pelican appears to be wearing a hat, which also contradicts the description of the pelican as a friend of dogs.",
+    "refute_justification": "The image clearly shows that Petey the Pelican is not a pelican at all, but rather a duck. This can be seen by the shape of his body, as well as the color of his feathers. Additionally, the image also shows that he is swimming with a group of other ducks, which further supports the idea that he is not a pelican.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "541",
+    "claim_text": "Photograph of Ukrainian ambassador Sergiy Korsunsky clothed in Samurai armor while visiting Japan on February 14, 2022.",
+    "support_justification": "The photograph clearly shows that Ambassador Korsunsky is wearing a traditional Japanese samurai uniform. This is contradictory to the claim that he is wearing a Ukrainian military uniform.",
+    "refute_justification": "The photograph clearly shows that the ambassador is wearing a traditional Japanese samurai uniform. This is an obvious contradiction with the claim that he is not wearing a costume.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "479",
+    "claim_text": "Photograph shows iceberg with multi-colored striping taken in Lake Michigan.",
+    "support_justification": "The photograph does not support the claim that the iceberg is located in Lake Michigan. The image clearly shows an iceberg with multi-colored stripes, which is not consistent with the description of Lake Michigan as being blue. Additionally, the location of the iceberg is not specified, making it difficult to determine if it is actually located in the lake. Overall, the photograph does not provide sufficient evidence to support the claim.",
+    "refute_justification": "The photograph does not show an iceberg with multi-colored striping. The image is of a ship sailing through ice-covered waters.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "390",
+    "claim_text": "A photograph of a scarecrow that lookss like a human corpse, a Halloween prop that appeared in May 2012 on the website The House of Marrow.",
+    "support_justification": "The image is clearly a Halloween prop, as it has no real-life counterpart.",
+    "refute_justification": "The image is clearly a Halloween prop, with no real-life relevance.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "394",
+    "claim_text": "A photograph shows a panda-shaped solar farm in China.",
+    "support_justification": "The claim is refuted because there is no supporting text evidence that confirms the shape of the solar farm. Additionally, the visual evidence contradicts the textual description, as it shows a panda-shaped solar farm instead of a heart-shaped one.",
+    "refute_justification": "The claim is false. The photo does not show a panda-shaped solar farm in China.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "65",
+    "claim_text": "Photograph shows the 'USS Al Gore' global warming research vessel being frozen in February 2021.",
+    "support_justification": "The image does not show the 'USS Al Gore' global warming research vessel being frozen in February 2021. The ship is actually located at the Port of Rotterdam in the Netherlands, and was photographed on January 31st, 2021.",
+    "refute_justification": "The image does not show the 'USS Al Gore' global warming research vessel being frozen in February 2021.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "693",
+    "claim_text": "Image shows protestors drowing a swastika on an American flag and setting it on fire in in front of the American embassy in Tegucigalpa, Honduras in October 2018.",
+    "support_justification": "The image clearly shows protesters drawing a swastika on an American flag and setting it on fire in front of the American embassy in Tegucigalpa, Honduras in October 2018. This is a blatant act of disrespect towards the United States of America and its people. It is also a violation of international law and human rights. The US government should take immediate action to condemn this act and hold those responsible accountable.",
+    "refute_justification": "The image does not show protesters drawing a swastika on an American flag and setting it on fire in front of the American embassy in Tegucigalpa, Honduras in October 2018.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "694",
+    "claim_text": "A photograph shows a suffragete being attacked during the Black Friday suffragette protest in November 1910.",
+    "support_justification": "The photograph does not support the claim that the suffragette was attacked during the Black Friday protest. The image is not related to the event and cannot be used as evidence.",
+    "refute_justification": "The photograph does not show a suffragette being attacked during the Black Friday suffragette protest in November 1910.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "156",
+    "claim_text": "Image from comedic youtube video during the COVID-19 pandemic showing a person using violent tactics to enforce social distancing in Kenya.",
+    "support_justification": "The image is satirical and does not show a real event. The caption of the video states that it is a parody and should not be taken seriously.",
+    "refute_justification": "The image is satirical and does not show police enforcing social distancing in Kenya.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "112",
+    "claim_text": "Image of Joe Biden kissing a 15-year-old girl on the lips.",
+    "support_justification": "The image is clearly photoshopped. The original photo shows a young girl with her father at an event. The manipulation has been done by adding the head of a man and the body of a woman. This is a clear example of false information being spread online.",
+    "refute_justification": "The image is clearly photoshopped. The original photo shows a young girl with her father at an event.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "48",
+    "claim_text": "Picture of China launching a space rocket in December 2019.",
+    "support_justification": "The picture shows a Chinese rocket launch in December 2019. The image is contradictory to the text evidence as it does not match with the description given in the article.",
+    "refute_justification": "The picture shows a Chinese rocket launch in December 2019. The image is false because it does not show a recent launch.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "93",
+    "claim_text": "Image shows portions of a fishnet as well as several fish being stuck up on power lines after traffic accident with a fisherman boat, in Augustu 2020.",
+    "support_justification": "The image clearly shows that the fishing net is damaged and there are several dead fishes caught on it. This contradicts the claim that the accident did not cause any damage to the fishing net.",
+    "refute_justification": "The image clearly shows that the fishing net is damaged and there are no signs of any recent fishing activity. Furthermore, the location of the accident is far away from any known fishing areas. Therefore, it is unlikely that the fishermen were involved in any illegal activities.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "505",
+    "claim_text": "Image shows students participating to the The Adrian Project, a simulation by the U.S. IRS that allows students to get a glimpse into the career of a special agent.",
+    "support_justification": "The Adrian Project is an educational program that provides students with a simulated experience of being an IRS Special Agent. This program helps students gain an understanding of the role and responsibilities of an IRS Special Agent, as well as the skills and knowledge needed to succeed in this field.",
+    "refute_justification": "The image clearly shows students participating to the Adrian Project, a simulation by the U.S. IRS that allows students to get a glimpse into the career of a special agent.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "521",
+    "claim_text": "An image of priests blessing a nuclear missile named 'Satan' amid the war in Ukraine in May 2022.",
+    "support_justification": "The claim is false. The photo does not show Ukrainian priests blessing a Russian Satan missile.",
+    "refute_justification": "The claim is false. The photo does not show Ukrainian priests blessing a Russian Satan missile.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "141",
+    "claim_text": "Photograph shows McDonald's set afire during protests over George Floyd's death.",
+    "support_justification": "The photograph does not support the claim that the restaurant was set ablaze. The image is of a burning car parked outside the restaurant, which is unrelated to the protests.",
+    "refute_justification": "The image does not show any evidence of the restaurant being set on fire. The building appears to be intact and undamaged. There is no visible damage or destruction that would indicate a recent fire. Additionally, there are no signs of smoke or flames in the photo. Furthermore, there is no indication that the restaurant was closed due to the protests. Therefore, it is unlikely that the restaurant was set on fire by protesters.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "639",
+    "claim_text": "An image showing a man with a gun slung over his shoulder being searched by a Houthi soldier going into a rally in Yemen in 2015.",
+    "support_justification": "The photo shows a man with a gun slung over his shoulder being searched by a Houthi soldier going into a rally in Yemen in 2015.",
+    "refute_justification": "The photo shows a man with a gun slung over his shoulder being searched by a Houthi soldier going into a rally in Yemen in 2015.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "669",
+    "claim_text": "Photographs show an attempted robbery in El Paso, Texas, that ended with all of the assailants - three armed Mexicans who crossed the U.S. border into Texas - where shot by their intended victim.",
+    "support_justification": "The claim is refuted because it contradicts the available evidence. The photograph shows three armed Mexican men crossing the U.S. border into Texas, but they were shot by their intended victim before they could commit any crime.",
+    "refute_justification": "The claim is false.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "408",
+    "claim_text": "Photograph depicts a veteran being upset that he was behind the column of other veterans and could not catch up with them at a Victory Parade on May 9, 2007 in Russia.",
+    "support_justification": "The photograph does not support the claim that the veteran is upset because he is behind the column of other veterans. The photo shows a man wearing a military uniform and carrying a flag, walking alongside other veterans who are also carrying flags. This suggests that the veteran may be participating in a parade or commemoration event, rather than being left behind by his fellow veterans. Additionally, the man appears to be holding his flag with respect, rather than angrily throwing it away. Therefore, the photograph does not support the claim that the veteran is upset because he is behind the column of other veterans.",
+    "refute_justification": "The photograph does not support the claim.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "597",
+    "claim_text": "Photo of three firefighters covered in soot after battling blazes during Tasmania bushfires in February 2019.",
+    "support_justification": "The photo is indeed true. The image shows three firefighters covered in soot after battling blazes during Tasmania bushfires in February 2019.",
+    "refute_justification": "The image is false because it shows firefighters covered in soot after battling blazes during Tasmania bushfires in February 2019. However, there is no evidence that these fires were caused by human activity.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "438",
+    "claim_text": "A photograph shows Red Cross nurses arriving on the French Riviera area of southern France on 15 January 1945.",
+    "support_justification": "The claim is refuted because there is no textual evidence that supports it. The visual evidence contradicts the textual evidence by showing a group of people wearing uniforms and carrying luggage, which does not match the description of Red Cross nurses. Additionally, the date of the photograph is incorrect, as it is January 1945 instead of 1944.",
+    "refute_justification": "The image does not support the claim that the Red Cross nurses arrived on the French Riviera area of southern France on 15 January 1945.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "598",
+    "claim_text": "Image showing Macron sitting down and with one hand on his forehead, after an international call with NATO discussing the Russian 'military build-up in and around Ukraine' on February 18, 2022.",
+    "support_justification": "The image shows French President Emmanuel Macron sitting down and with one hand on his forehead, after an international call with NATO discussing the Russian 'military build-up in and around Ukraine' on February 18, 2022.",
+    "refute_justification": "The image shows French President Emmanuel Macron looking concerned while speaking on the phone about the Russian military buildup near the Ukrainian border.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "269",
+    "claim_text": "A photograph shows a man in a polar bear costume being arrested for tearing apart tents of Black Friday campers.",
+    "support_justification": "The image clearly shows a person dressed as a polar bear being arrested by police officers. The photo is taken during a Black Friday event, where people were camping out overnight to get early access to sales at a store.",
+    "refute_justification": "The image clearly shows that the person is wearing a polar bear costume, which is not a common sight at Black Friday events. Additionally, there is no indication that the person was involved in any illegal activity. Therefore, it is unlikely that this individual was responsible for tearing apart tents.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "551",
+    "claim_text": "Photo of a Ukrainian jet flying so low that it collected a road sign during a military exercise on August 27, 2020.",
+    "support_justification": "The image is clearly showing a Ukrainian fighter aircraft flying very close to the ground, with its wingtip touching a road sign. This is an obvious violation of safety regulations and could potentially lead to accidents.",
+    "refute_justification": "The photo is not genuine. The road sign is actually part of a traffic light pole, which was accidentally mistaken for an object by the pilot.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "704",
+    "claim_text": "A photograph shows the adult children of U.S. President Donald Trump — Ivanka, Eric, and Donald Trump Jr. — with real estate developer Michael Dezer, Michael Babel and Florida realtor Elena Baronoff.",
+    "support_justification": "The photo does not show any of the three adult children of U.S. President Donald Trump.",
+    "refute_justification": "The image does not show any of the three adult children of U.S. President Donald Trump.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "252",
+    "claim_text": "A photograph captures a cruise ship starting up its turbines before dropping anchor, stiring sand and mud from the bottom of the water, causing the brown clouds visible in the water.",
+    "support_justification": "The claim is refuted by the visual evidence. The image clearly shows that the ship's engines are running, which contradicts the claim that it has dropped anchor. Additionally, the photo also reveals that the ship is surrounded by murky brown waters, indicating that the ship is stirring up sediment from the ocean floor.",
+    "refute_justification": "The claim is false. The photo does not show the ship stirring up sand and mud from the bottom of the water.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "719",
+    "claim_text": "An image of a father crying after his wife gave birth to a healthy baby.",
+    "support_justification": "The image is contradictory to the given text evidence as it shows a man crying while his wife has just given birth to a healthy baby. This contradicts the claim that the baby is dead.",
+    "refute_justification": "The man is crying because he is overwhelmed with joy at seeing his newborn child for the first time.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "271",
+    "claim_text": "A photograph shows morning commuters driving in San Diego during the Skirball fire near Bel-Air, California, in December 2017.",
+    "support_justification": "The image clearly shows that the traffic is moving in the opposite direction of the wildfire. This indicates that the photo was taken before the fire started. Therefore, it is false that the photo was taken after the fire started.",
+    "refute_justification": "The image is false because it does not show any evidence of the Skirball Fire.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "146",
+    "claim_text": "Image shows Brian Cash at a protest against lockdown orders implemented in Michigan as a result of the COVID-19 coronavirus pandemic.",
+    "support_justification": "The image does not show Brian Cash at a protest against lockdown orders implemented in Michigan as a result of the COVID-19 coronavirus pandemic.",
+    "refute_justification": "The image does not show Brian Cash at a protest against lockdown orders implemented in Michigan as a result of the COVID-19 coronavirus pandemic.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "469",
+    "claim_text": "Photographs show a cache of weapons seized by the Mexican army in May 2010 during a raid on a makeshift camp used by a drug-smuggling crime ring in Higueras.",
+    "support_justification": "The claim is refuted because there is no supporting text evidence that contradicts the visual evidence.",
+    "refute_justification": "The claim is false. The photographs do not show a cache of weapons seized by the Mexican army in May 2010 during a raid on a makeshift camp used by a drug-smuggling crime ring in Higueras.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "405",
+    "claim_text": "A photograph shows a group of sheep squeezing through a gate, despite no fence hemming them in.",
+    "support_justification": "The photo clearly shows that there is no fence around the sheep, indicating that they are free to move around as they please. This contradicts the claim that they are being squeezed through a gate.",
+    "refute_justification": "The photo does not support the claim that there is no fence hemming the sheep in. The sheep appear to be squeezed through a gate, but this could be due to their own actions or the actions of other animals. Additionally, the photo does not show any signs of a fence surrounding the area.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "511",
+    "claim_text": "Image of a rally held by former U.S. president Donald Trump in November 2020.",
+    "support_justification": "The image shows a large crowd gathered at a rally hosted by former U.S. President Donald Trump in November 2020. The event was held in support of his campaign for reelection as president.\nAccording to the organizers, over 70,000 people attended the rally.\nHowever, according to multiple sources, including news reports and social media posts, it is widely believed that the number of attendees was significantly lower than the reported figure.\nSome reports put the attendance at around 30,000 people, while others estimate it at less than 10,000.\nThis discrepancy between the official count and actual attendance has led to speculation about the possibility that the organizers inflated the numbers to attract more attention and funding.",
+    "refute_justification": "The image shows a large crowd gathered at a rally hosted by former U.S. President Donald Trump in November 2020. The event was held in support of his campaign for reelection as president.\nHowever, it is important to note that the photo does not show any evidence of voter fraud or other illegal activities. In fact, there were no reports of violence or disruptions during the rally.\nFurthermore, the photo does not show any signs of tampering or manipulation. It appears to be an accurate representation of the event.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "217",
+    "claim_text": "'Keep NYC Trash free' posters by street artist Winston Tseng depicting people wearing 'Make America Great Again' hats.",
+    "support_justification": "The claim is refuted because it contradicts the visual evidence. The image shows people wearing 'Make America Great Again' hats, which is contradictory to the claim that they are keeping New York City trash free.",
+    "refute_justification": "The poster does not refute the claim that Trump supporters litter New York City streets.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "322",
+    "claim_text": "Christine Blasey Ford holding a sign reading 'Not My President' at an anti-Trump protest.",
+    "support_justification": "The image of Christine Blasey Ford holding a sign reading 'Not My President' at an anti-Trump protest is contradictory to the textual evidence provided. The photo does not support her claim that she was sexually assaulted by Brett Kavanaugh.",
+    "refute_justification": "The image of Christine Blasey Ford holding a sign reading 'Not My President' at an anti-Trump protest is a strong refutation of the claim that she did not attend the party where Brett Kavanaugh allegedly sexually assaulted her. The photo shows her actively participating in the protest, demonstrating her willingness to publicly stand up against the president who has been accused of sexual assault.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "580",
+    "claim_text": "Photograph shows a demonstration in Paris over pension reforms that took place in early 2020.",
+    "support_justification": "The photograph does not support the claim as it is contradictory to the textual evidence.",
+    "refute_justification": "The photograph does not show any signs of a protest against pension reforms in early 2020. The photo is actually from a demonstration held in November 2019 to protest against the government's proposed pension reform.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "216",
+    "claim_text": "Image shows an archaeologist excavating the remains of a woolly mammoth that was found at a quarry site near Paris, France in November 2012.",
+    "support_justification": "The image clearly shows an archaeologist excavating the remains of a woolly mammoth that was found at a quarry site near Paris, France in November 2012. This is a refutation of the claim as it contradicts the textual evidence.",
+    "refute_justification": "The image does not show an archaeologist excavating the remains of a woolly mammoth. The photo is actually of an excavation of a prehistoric human settlement in France.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "67",
+    "claim_text": "Image of a sculpture handmade by Susi Brister that is made out of platinum blonde hair extension and is exhibited at the Lawndale Art Center in Houston.",
+    "support_justification": "The sculpture by Susi Brister titled \"Hair Sculpture\" is made out of platinum blonde hair extensions and is exhibited at the Lawndale Art Center in Houston. The sculpture is approximately 3 feet tall and weighs around 200 pounds. It is made up of multiple strands of hair that are intertwined with each other, creating a dense mass. The sculpture has been described as being very unique and eye-catching, and it has received a lot of attention since its debut.",
+    "refute_justification": "The sculpture is made out of platinum blonde hair extension and is exhibited at the Lawndale Art Center in Houston.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "274",
+    "claim_text": "A photograph shows a fawn and a bobcat huddled together at the 'Animal Rescue Team' fascility during the Jesusita wildfire near Santa Barbara, California in May 2009.",
+    "support_justification": "The image clearly shows that the two animals are separated by a fence. The fawn is standing next to a tree while the bobcat is sitting on top of a rock.",
+    "refute_justification": "The image does not show a bobcat and a fawn huddled together at the 'Animal Rescue Team' facility during the Jesusita wildfire near Santa Barbara, California in May 2009.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "410",
+    "claim_text": "A photograph shows Senator John McCain posing with ISIS leader Abu Bakr al-Baghdadi.",
+    "support_justification": "The image does not show Senator John McCain posing with ISIS leader Abu Bakr al-Baghdadi.",
+    "refute_justification": "The image does not show Senator John McCain posing with ISIS leader Abu Bakr al-Baghdadi.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "323",
+    "claim_text": "A woman holding a 'Not My President' sign in a protest against president Donald Trump in New York City on 12 November 2016.",
+    "support_justification": "The image clearly shows a woman holding a sign that reads \"Not my president.\" This is contradictory to the claim that states that the woman is protesting because she supports Donald Trump as president. Therefore, the claim is false.",
+    "refute_justification": "The image shows a woman holding a sign that reads \"Not my president.\" This is a clear indication that she does not support the election of Donald Trump as president.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "712",
+    "claim_text": "A photograph shows a large mesa - a flat-topped mountain - in Tunisia, called Jugurtha Tableland.",
+    "support_justification": "The claim is refuted because there is no textual evidence that supports it. The image does not show any features of a mesa, such as a flat top or steep sides. Additionally, the location of the tableland is not mentioned in the text, so it cannot be confirmed.",
+    "refute_justification": "The claim is false. The image does not show a large mesa in Tunisia, called Jugurtha Tableland.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "234",
+    "claim_text": "A photogram shows a pile of rubbish left in Hyde Park in the aftermath of a celebration for 420, a marijuana-centric holiday.",
+    "support_justification": "The claim is refuted because there is no evidence that supports it. The image does not show any signs of marijuana use, such as a joint or a bag of weed. It only shows a pile of rubbish.",
+    "refute_justification": "The photograph clearly shows a large pile of rubbish left behind after a gathering celebrating 420, a marijuana-centric holiday. This is a blatant violation of the park's rules and regulations, which prohibit littering and demand that visitors take their garbage home with them.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "57",
+    "claim_text": "Photograph of U.S. President Joe Biden kneeling in front of George Floyd’s son to apologize for the death of his father while in police custody.",
+    "support_justification": "The photograph shows U.S. President Joe Biden kneeling in front of George Floyd's son to apologize for the death of his father while in police custody.\nThis is an example of a photo that supports the claim.",
+    "refute_justification": "The photograph shows U.S. President Joe Biden kneeling in front of George Floyd's son to apologize for the death of his father while in police custody.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "332",
+    "claim_text": "A photograph shows police officers escorting a group of convicts at a sentencing rally in China in 2004.",
+    "support_justification": "The photo is clearly showing that the prisoners were escorted by police officers.",
+    "refute_justification": "The photo is not genuine. The image has been manipulated by an unknown person or organization.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "224",
+    "claim_text": "A photograph shows columns of tanks taking part in the U.S. military tanks parade near Capitol Building, Washington DC in 1974.",
+    "support_justification": "The photo is false. The caption states that it was taken in 1974, but there are no photos of tanks at the parade.",
+    "refute_justification": "The photo is false because it was taken during a time period when there were no tanks in the US military.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "570",
+    "claim_text": "A photo illustrating reports about Turkish air strikes on the Batifa, a Kurdish district in northern Iraq in 2020.",
+    "support_justification": "The claim is refuted by the visual evidence. The image shows a military helicopter flying over a city, but there is no indication that it was involved in any attacks. Additionally, the location of the city is not specified, so it is impossible to determine if the attack occurred in the Batifa district or elsewhere.",
+    "refute_justification": "The claim is false.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "276",
+    "claim_text": "A photograph shows a protester standing on a U.S. flag. at the University of Wisconsin-Milwaukee before the campaign appearance of candidate Donald Trump in April 2016.",
+    "support_justification": "The image clearly shows a person standing on an American flag. This is highly disrespectful and offensive to our country's military veterans and law enforcement officers who have served and sacrificed their lives to protect our freedom. It also goes against our nation's values and principles that we hold dear.",
+    "refute_justification": "The image clearly shows a person standing on an American flag. This is disrespectful and offensive to our country's military and veterans.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "388",
+    "claim_text": "Image of former President Barack Obama was in Houston serving food to people affected by Hurricane Harvey in August 2017.",
+    "support_justification": "Former President Barack Obama was not in Houston serving food to people affected by Hurricane Harvey in August 2017.",
+    "refute_justification": "Former President Barack Obama was not in Houston serving food to people affected by Hurricane Harvey in August 2017.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "473",
+    "claim_text": "A picture snapped just as President Obama took the stage in the Memorial Amphitheater during the playing of 'Hail to the Chief' in May 2009 at Arlington National Cemetery's Memorial Amphitheater.",
+    "support_justification": "The image clearly shows that the flag is being lowered by the military personnel. This indicates that the president has passed away.",
+    "refute_justification": "The image does not refute the claim that Barack Obama was the first African American president.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "167",
+    "claim_text": "Image of a mother fox suckling koala joeys caught up in Australian bushfires in the winter of 2020.",
+    "support_justification": "The image is contradictory to the textual evidence provided. The mother fox is not a koala, and therefore cannot be nursing the koala joeys. Additionally, the image does not show any signs of the fires that were occurring at the time. Therefore, it can be concluded that the image is false.",
+    "refute_justification": "The image is false because it is an example of misinformation. The photo was taken by a wildlife photographer who posted it online after seeing it on social media.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "721",
+    "claim_text": "An image of a father crying after his wife gave birth to a healthy baby.",
+    "support_justification": "The image is contradictory to the given text evidence as it shows a man crying while his wife has just given birth to a healthy baby. This contradicts the claim that the baby is dead.",
+    "refute_justification": "The man is crying because he is overwhelmed with joy at seeing his newborn child for the first time.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "546",
+    "claim_text": "A photograph of a riot police officer with his boot on the shoulder of a protester in 2010 during protests over a G20 summit in Toronto.",
+    "support_justification": "The photo is clearly showing a police officer's foot on the shoulder of a protester. This is an act of violence that should be condemned and punished. The use of force by police officers should always be used as a last resort and only after all other options have been exhausted.",
+    "refute_justification": "The image clearly shows a police officer's foot on the shoulder of a protester. This is an act of violence that should be condemned and punished.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "175",
+    "claim_text": "Aerial view of red-tinted clouds snapped by a meteorologist during a sunset over Hawaiian waters.",
+    "support_justification": "The claim is refuted because the image shows red-tinted clouds over water at sunset, which contradicts the description in the text that states that the clouds were caused by volcanic ash.",
+    "refute_justification": "The claim is refuted because the image shows a sunset over water with red-tinted clouds, which is not indicative of volcanic activity.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "623",
+    "claim_text": "Image shows section of empty shelves at a Hispanic specialty supermarket in Los Angeles during special shopping hours for senior citizens and disabled customers, in the early months of the COVID-19 pandemic.",
+    "support_justification": "The image clearly shows that there is no food available for purchase at this particular store. This contradicts the claim that there is enough food for everyone.",
+    "refute_justification": "The image clearly shows that there is no food available for purchase at the store.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "73",
+    "claim_text": "Photograph shows historical artifacts from the White House being returned to museums and galleries at the end of the president's Trump term.",
+    "support_justification": "The photograph clearly shows that the items were taken back to their original locations after the end of the Trump presidency. This is consistent with the claim that they were returned to museums and galleries.",
+    "refute_justification": "The photograph does not show any historical artifacts being returned to museums and galleries at the end of the president's Trump term.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "273",
+    "claim_text": "A photograph shows morning commuters driving in San Diego during the Skirball fire near Bel-Air, California, in December 2017.",
+    "support_justification": "The image clearly shows that the traffic is moving in the opposite direction of the wildfire. This indicates that the photo was taken before the fire started. Therefore, it is false that the photo was taken after the fire started.",
+    "refute_justification": "The image is false because it does not show any evidence of the Skirball Fire.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "214",
+    "claim_text": "Photograph shows Democratic members of the U.S. House of Representatives vacationing in Italy with tax player money.",
+    "support_justification": "The photograph does not support the claim that all Democratic members of the U.S. House of Representatives are vacationing in Italy with tax payer money.",
+    "refute_justification": "The image clearly shows that the members of the U.S. House of Representatives are vacationing in Italy with tax payer money. The photo is taken during their official trip to Europe, where they were attending a meeting of the European Union's Interparliamentary Conference.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  }
+]

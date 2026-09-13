@@ -1,0 +1,9 @@
+{
+"base_model_path": "Qwen/Qwen2.5-7B-Instruct-1M",
+"adapter_path":"checkpoint/TBE3/LIAR_RAW/LoRA/qwen",
+"test_data_path":"qwen_lair_raw__test_transformed_dataset.json",
+"output_dir":"results/TBE3/LoRA/LAIR_RAW/Qwen",
+"max_new_tokens": 256,
+"temperature": 0.01,
+"truncate_len": 2048
+}

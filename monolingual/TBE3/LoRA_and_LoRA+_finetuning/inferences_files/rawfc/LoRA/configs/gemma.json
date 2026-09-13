@@ -1,0 +1,10 @@
+{
+"base_model_path":"google/gemma-7b-it",
+"adapter_path": "checkpoint/TBE3/RAWFC/LoRA/gemma",
+"test_data_path": "gemma_rawfc_test_llama_fact_transformed_dataset.json",
+"output_dir": "results/TBE3/LoRA/RAWFC/gemma",
+"max_new_tokens": 256,
+"temperature": 0.01,
+"truncate_len": 2048
+}
+

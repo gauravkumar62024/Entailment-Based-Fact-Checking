@@ -1,0 +1,59 @@
+# Environment A -- "vllm"
+#
+# Used by: evidence classification (step 1), justification generation (step 2),
+#          ELM training (step 3, RoBERTa / XLNet / DeBERTa / XLM-R / mBERT),
+#          and QLoRA-adapter inference.
+#
+# These are the versions the paper's experiments were run with. The exact
+# `pip freeze` of that environment is kept alongside this file as
+# requirements-vllm-freeze.txt -- use it if you need bit-exact reproduction.
+#
+#   conda create -n entail-vllm python=3.11 -y && conda activate entail-vllm
+#   pip install -r env/requirements-vllm.txt
+#
+# NOTE: this environment is NOT compatible with LLaMA-Factory, which pins
+# transformers <= 4.49. Use env/requirements-llamafactory.txt in a separate
+# environment for the LoRA / LoRA+ / QLoRA *training* stages.
+
+# --- core inference / training stack ---
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+vllm==0.11.0
+transformers==4.57.0
+tokenizers==0.22.1
+accelerate==1.10.1
+peft==0.17.1
+bitsandbytes==0.48.1
+safetensors==0.6.2
+sentencepiece==0.2.1
+huggingface-hub==0.35.3
+xformers==0.0.32.post1
+
+# --- data / metrics ---
+numpy==2.2.6
+scipy==1.16.2
+pandas>=2.0.0
+scikit-learn==1.7.2
+tqdm==4.67.1
+pyyaml==6.0.3
+
+# --- multimodal (Factify-2 / MOCHEG / VERITE image handling) ---
+pillow==11.3.0
+requests==2.32.5
+opencv-python-headless==4.12.0.88
+
+# --- multilingual preprocessing (X-Fact / RU22Fact) ---
+# document chunking + FAISS retrieval with multilingual-e5
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+langchain-text-splitters>=0.2.0
+spacy>=3.7.0
+blingfire>=0.1.8
+nltk>=3.8
+# spaCy multilingual sentence splitter used by 0_preprocessing:
+#   python -m spacy download xx_sent_ud_sm
+
+# --- error analysis / figures ---
+matplotlib>=3.7.0
+seaborn>=0.13.0

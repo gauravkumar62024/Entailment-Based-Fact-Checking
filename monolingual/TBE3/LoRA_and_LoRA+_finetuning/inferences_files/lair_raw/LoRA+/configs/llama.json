@@ -1,0 +1,9 @@
+{
+  "base_model_path": "meta-llama/Llama-3.1-8B-Instruct",
+  "adapter_path": "checkpoint/TBE3/LIAR_RAW/LoRA++/llama",
+  "test_data_path": "data/transform_understanding_test_llama.json",
+  "output_dir": "results/TBE3/LoRA_plus/LAIR_RAW/llama",
+"max_new_tokens": 256,
+"temperature": 0.01,
+"truncate_len": 2048
+}

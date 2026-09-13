@@ -1,0 +1,920 @@
+[
+  {
+    "claim_id": "273",
+    "claim_text": "A photograph of a homeless encampment in San Jose, California, southeast of San Francisco.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "686",
+    "claim_text": "A cartoon showing a healthcare worker holding a hospital bed above water while themselves being submerged was produced in 2020 by an Iranian artist named Bozorgmehr Hossainpour.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "214",
+    "claim_text": "Photograph of pedestrians swarming the Golden Gate Bridge during its 1937 opening ceremony which almost collapsed.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "363",
+    "claim_text": "A photograph shows morning commuters driving in San Diego during the Skirball fire near Bel-Air, California, in December 2017.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "379",
+    "claim_text": "Image from surveillance video shows a group of customers shooting an armed robber in a store in USA, 2017.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "166",
+    "claim_text": "Image shows former U.S. President Barack Obama and first lady Michelle Obama marching with protesters against racial injustice and police violence in June 2020.",
+    "support_justification": "- Provide an explanation of the given claim using relevant facts and arguments",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "373",
+    "claim_text": "A photograph shows a member of the October 2018 Central American migrant caravan urinating on an U.S. flag.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "854",
+    "claim_text": "Image of a downed F-16 fighter jet crash near Lake Havasu City Airport, Arizona in 2018.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual information.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "650",
+    "claim_text": "A picture of a humorous Christmas display of a doll staged to look as if the homeowner was trapped by a fallen ladder while installing Christmas decorations.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "464",
+    "claim_text": "A photograph shows Cuban Elian Gonzalez refugee in a bedroom closet with Donato Dalrymple, one of the two men who rescued the boy from the sea, as federal agents enter the Little Havana home of Elian's relatives in 2000.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "Elian was found by a neighbor in the bathroom closet of his family's home in Miami, Florida. The neighbor had noticed that Elian was missing from the house. When he called police, they discovered that Elian had been in the bathroom closet with his family members.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "968",
+    "claim_text": "A photograph shows a hunter that killed a squirrel, using forced perspective to make the squirrel appear larger than it really is, taken in November 2016.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "961",
+    "claim_text": "Photograph shows the Palestine National Library in Gaza before and after being destroyed by the Israel military in May 2019.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "103",
+    "claim_text": "Image shows Make America Great Again (MAGA) demonstrators packing the streets of the District of Columbia.",
+    "support_justification": "- Provide an explanation that supports the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "887",
+    "claim_text": "An image showing a man with a gun slung over his shoulder being searched by a Houthi soldier going into a rally in Yemen in 2015.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "992",
+    "claim_text": "A photograph shows a large mesa - a flat-topped mountain - in Tunisia, called Jugurtha Tableland.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the contradictory facts",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "875",
+    "claim_text": "Image shows parked business jets that flew into the New Orleans Lakefront Airport for the Super Bowl XLVII in February 2013.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide an explanation of the given claim using relevant facts and arguments",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "81",
+    "claim_text": "Image shows Donald J. Trump participating in a video teleconference call with military members on Christmas Eve in Palm Beach, Florida on December 24, 2017.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "296",
+    "claim_text": "A German-English dictionary used as part of a crystallization experiment by Catherine McEver in 2014.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "791",
+    "claim_text": "A photo illustrating reports about Turkish air strikes on the Batifa, a Kurdish district in northern Iraq in 2020.",
+    "support_justification": "- Provide an explanation of the truthfulness of the claims made by the article",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "233",
+    "claim_text": "Photograph of a Greta Thunberg look-alike shooting a gun.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "677",
+    "claim_text": "Photograph shows vehicles encrusted with ice from severe cold weather, near the Lake Léman in Geneva, Switzerland in January 2005.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "46",
+    "claim_text": "Image of an 8 year old Ukrainian girl confronting a Russian soldier and telling him to go back to his country, taken during Russia's invasion of Ukraine in March 2022.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "71",
+    "claim_text": "Photograph of Prince Philip wearing the ceremonial dress, preparing to escort Queen Elizabeth to the ceremony of the Grenadier Guards.",
+    "support_justification": "- Provide an explanation that is supported by relevant textual and visual evidence",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "721",
+    "claim_text": "An image of a warehouse filled with cardboard boxes of baby formula during the shortage of baby formula in the United States in May 2022.",
+    "support_justification": "- Provide an explanation that supports the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "196",
+    "claim_text": "U.S. President Donald Trump said 'I don't care how sick you are. [...] Get out and vote' during the COVID-19 coronavirus disease pandemic.",
+    "support_justification": "- Provide an explanation of the given claim using the provided textual and visual evidence",
+    "refute_justification": "- Provide an explanation of the given claim using relevant facts and arguments",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "591",
+    "claim_text": "A photograph shows debris resulting from a magnitude 9.0 earthquake - and resulting tsunami - that struck northern Japan in 2011.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "370",
+    "claim_text": "A photograph shows former president Barack Obama visiting Arlington National Cemetery alone in the rain in November 2018.",
+    "support_justification": "- Provide an explanation of the given claim using the provided textual and visual evidence",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "882",
+    "claim_text": "Picture shows former United States president Ronald Reagan meeting with the Mujahideen (Afghan freedom fighters) in February 1983.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "906",
+    "claim_text": "Heavily software-processed image of the sun's chromosphere created by Jason Guenzel in January 2021.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual information.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "633",
+    "claim_text": "A photograph shows a satellite image of Hurricane Floyd from September 1999.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "643",
+    "claim_text": "A photograph shows B'liv, the strongest dog in the world, who works in the Russian army special forces.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "849",
+    "claim_text": "An image showing crowds gathered for the annual Women’s March in Los Angeles on January 21, 2017.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "300",
+    "claim_text": "Photograph of U.S. President Joe Biden holding hands in solidarity with U.S. Senator Robert Byrd.",
+    "support_justification": "- Provide an explanation that is supported by relevant textual and visual evidence",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "565",
+    "claim_text": "A photograph shows a JetBlue airliner buried in snow in January 2016.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "80",
+    "claim_text": "Image of a sculpture handmade by Susi Brister that is made out of platinum blonde hair extension and is exhibited at the Lawndale Art Center in Houston.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "387",
+    "claim_text": "A photograph shows trash that was left behind by a caravan of refugees near the Austria-Germany border in September 2015.",
+    "support_justification": "- Provide an explanation for the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "944",
+    "claim_text": "Image shows a fake snake being wrapped around a van, created as an art installation for a zoo in China.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "127",
+    "claim_text": "Photograph shows a priest giving the last rites to a Cuban farmer who was being executed because he refused to work for the Castro regime.",
+    "support_justification": "- Provide an explanation of the given claim using the provided textual and visual evidence",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "549",
+    "claim_text": "An image of an actress pelted with eggs from La Rosa de Guadalupe, a Mexican drama series.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "Explain why the statement is false.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "470",
+    "claim_text": "A photograph shows a mother cheetah attempting to teach her cubs how to kill prey, then eventually dispatching a captured impala when her inexperienced cubs proved they weren't yet up to the task of strangling it themselves.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "747",
+    "claim_text": "A digital artwork of a hurricane over Miami that was created by artist Brent Shavnore in 2019.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "44",
+    "claim_text": "Image shows a 'Die in' climate protest in Austria, where protesters got inside of body bags to signify the catastrophic impact that current climate policy could have on the world.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "826",
+    "claim_text": "Photo of three Ukrainian firefighters covered in soot after battling blazes caused by Russian attacks in March 2022.",
+    "support_justification": "- Provide an explanation that supports the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "270",
+    "claim_text": "A long exposure photograph of an ingloo that is illuminated by a flashlight inside of it.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "618",
+    "claim_text": "A photograph shows a white man posing with the body of a small black child. The image surfaced in 2007 and police determined the man in the photo had paid to pose with the child.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "352",
+    "claim_text": "A photograph shows a U.S. Border Patrol agent who was injured by a thrown rock from the other side of the border, in November 2018 in California.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "867",
+    "claim_text": "Photograph shows a group of migrants at the U.S.-Mexico border wearing t-shirts that read 'Biden, please let us in' in March 2021.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "367",
+    "claim_text": "A photograph shows a fawn and a bobcat huddled together during the California Camp Fire of November 2018.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "99",
+    "claim_text": "Photograph of a triceratops model being unloaded from a truck at the Mojosemi Forest Park in Indonesia.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "389",
+    "claim_text": "A photograph shows trash that was left behind by a caravan of refugees near the Austria-Germany border in September 2015.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "94",
+    "claim_text": "Photograph shows Trump family looting historical artifacts from the White House.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "1004",
+    "claim_text": "An image of a father crying after his wife gave birth to a healthy baby.",
+    "support_justification": "A mother is shown crying after giving birth to her baby.",
+    "refute_justification": "A mother is shown crying after giving birth to her child. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The woman is also holding the child's head in her hands. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her hands. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her hands. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The child is looking at the camera. The child is wearing a white shirt and blue pants. The woman is holding the child in her arms. The",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "344",
+    "claim_text": "A photograph shows an extra from the film Dunkirk doing a 'dab' in the summer of 2016.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "781",
+    "claim_text": "An image shows a Russian helicopter downed in Ukraine on March 7, 2022.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "220",
+    "claim_text": "Aerial view of red-tinted clouds taken over Australia, where a series of massive bushfires was raging across the continent in 2020.",
+    "support_justification": "- Provide an explanation that is supported by relevant facts and evidence",
+    "refute_justification": "- Provide an explanation that is supported by relevant facts and arguments",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "159",
+    "claim_text": "Image shows a person in blackface taken into police custody for causing a disturbance during an anti-racism march a Canadian city.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "978",
+    "claim_text": "A photograph shows soldiers, rest while waiting to pack their weapons for shipment back to the United States, after the 2011 USA troop withdrawal from Iraq.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "348",
+    "claim_text": "A photograph shows Migrant Cubans using mobile phones inside the migrant shelter 'Casa del Migrante' in Mexico. They only have one hour of cell phone usage for security purposes.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "997",
+    "claim_text": "An image showing a convenience store in Houston that had been looted during Hurricane Harvey in 2017.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.\n- Do NOT mention the label \"False\" in your response\n- Focus only on key contradictory details (objects, text, context), and refer to them naturally\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "714",
+    "claim_text": "Image of a rally held by former U.S. president Donald Trump in November 2020.",
+    "support_justification": "- Provide an explanation that is supported by relevant facts and logical reasoning",
+    "refute_justification": "- Provide an explanation that is supported by relevant facts and arguments",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "163",
+    "claim_text": "Surveillance camera footage shows person being attacked by Black Lives Matter protesters in June 2020.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide an explanation of the given claim using relevant facts and arguments",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "825",
+    "claim_text": "Photo of three firefighters covered in soot after battling blazes during Tasmania bushfires in February 2019.",
+    "support_justification": "- Provide an explanation that supports the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "777",
+    "claim_text": "Image shows Klaus Schwab, founder of the World Economic Forum, with U2 front man Bono, heading to the 'Special 10th Anniversary Celebration of the (RED) Campaign' during the WEF annual meeting in Davos January 22, 2016.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "6",
+    "claim_text": "Image shows unnamed runway model showcasing designs from Chinese designer and performance artist Sheguang Hu's collection during the Mercedes-Benz China Fashion Week.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "890",
+    "claim_text": "An image shows a large crowd gathered on the Rio de Janeiro seafront to celebrate a Mass delivered by Pope Francis in 2013.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "828",
+    "claim_text": "Image of actress Nicole Kidman excited to see Jessica Chastain across the room before the start of he 94th Academy Awards in 2022.",
+    "support_justification": "- Provide an explanation that is supported by relevant textual and visual evidence",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "284",
+    "claim_text": "'Keep NYC Trash free' posters by street artist Winston Tseng depicting people wearing 'Make America Great Again' hats.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the argument",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "603",
+    "claim_text": "Image shows women eating fruit pie at a pie eating contest at Tidal Basin and was taken in Washington, D.C., on 13 July 1921.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "459",
+    "claim_text": "A photograph shows an optical illusion on the floor designed by Casa Ceramica, a tile company in the United Kingdom, and is located at the entrance of their showroom.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "The image above is an example of an optical illusion that can be seen by people who have normal vision. The image is made up of two different colors, red and blue. The color of the background is white. The person viewing the image will see a number of objects moving around the room. The first object is a red ball, which is moving towards the viewer. The second object is a blue ball, which is also moving towards the viewer. The third object is a black box, which is also moving towards the viewer. The fourth object is a green box, which is also moving towards the viewer. The fifth object is a yellow box, which is also moving towards the viewer. The sixth object is a black box, which is also moving towards the viewer. The seventh object is a black box, which is also moving towards the viewer. The eighth object is a black box, which is also moving towards the viewer. The ninth object is a black box, which is also moving towards the viewer. The tenth object is a black box, which is also moving towards the viewer. The eleventh object is a black box, which is also moving towards the viewer. The twelfth object is a black box, which is also moving towards the viewer. The thirteenth object is a black box, which is also moving towards the viewer. The fourteenth object is a black box, which is also moving towards the viewer. The fifteenth object is a black box, which is also moving towards the viewer. The sixteenth object is a black box, which is also moving towards the viewer. The seventeenth object is a black box, which is also moving towards the viewer. The eighteenth object is a black box, which is also moving towards the viewer. The nineteenth object is a black box, which is also moving towards the viewer. The twentieth object is a black box, which is also moving towards the viewer. The twenty-first object is a black box, which is also moving towards the viewer. The twenty-second object is a black box, which is also moving towards the viewer. The twenty-third object is a black box, which is also moving towards the viewer. The twenty-fourth object is a black box, which is also moving towards the viewer. The twenty-fifth object is a black box, which is also moving towards the viewer. The twenty-sixth object is a black box, which is also moving towards the viewer. The twenty-seventh object is a black box, which is also moving towards the viewer. The twenty-eighth object is a black",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "225",
+    "claim_text": "Image shows thousands of people at a parade in honor of the 2019 NBA Champions, the Toronto Raptors, taken in June 2019.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "429",
+    "claim_text": "Artist Kelsey Amy created a pair of custom Nike Monarchs that were hand-painted to look like as if they had been burned.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual information.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "1000",
+    "claim_text": "Photograph shows an alligator that has torn of the arm of a 77-year-old South Carolina golfer in October 2009.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "718",
+    "claim_text": "Image shows a damaged railway bridge collapsed into a body of water in 2022 during the Russia-Ukraine war.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "665",
+    "claim_text": "Photograph shows iceberg with multi-colored stripes taken by a Norwegian sailor named Oyvind Tangen while he was aboard a research ship about 1,700 miles south of Cape Town, South Africa.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "733",
+    "claim_text": "An image of a traffic jam on a Crimean bridge show people fleeing the Crimean peninsula in response to explosions at a Russian air base on August 9, 2022.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "203",
+    "claim_text": "Photograph shows a soldier rescuing a starving donkey during the Algerian War in 1958 by carrying it on his back.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "574",
+    "claim_text": "A photograph shows a baseball stadium in Japan repurposed as a residential neighborhood.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "27",
+    "claim_text": "Image of a bus powered by compressed natural gas, bursting into flames in Italy.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "616",
+    "claim_text": "Image shows Vassilyev - a peasant from Shuya (near Moscow), Russia - who gave birth to a total of 69 children, comprising 16 pairs of twins, seven sets of triplets, and four sets of quadruplets.",
+    "support_justification": "- Provide an explanation that is supported by relevant textual and visual evidence",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "517",
+    "claim_text": "A photograph shows a panda-shaped solar farm in China.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "238",
+    "claim_text": "Image of mexican drug lord 'El Chapo' plotting with Democrat Nancy Pelosi to maintain open borders.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "223",
+    "claim_text": "A photograph taken by the International Space Station shows bushfires raging across Australia.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "95",
+    "claim_text": "Photograph shows historical artifacts from the White House being returned to museums and galleries at the end of the president's Trump term.",
+    "support_justification": "- Provide an explanation that supports the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "30",
+    "claim_text": "A Norwegian naval ship is being struck by a missile that was fired by the Norwegian Navy in 2013",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide an explanation of the key contradictory factors and logical reasoning",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "32",
+    "claim_text": "A Norwegian naval ship is being struck by a missile that was fired by the Norwegian Navy in 2013",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide an explanation of the key contradictory factors and logical reasoning",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "432",
+    "claim_text": "A photograph shows police officers escorting a group of convicts at a sentencing rally in China in 2004.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided textual and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "604",
+    "claim_text": "Image of early suffragettes wearing bathing suits and eating pizza in large groups to annoy men in 1921.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information",
+    "refute_justification": "- Provide a concise, well-reasoned explanation",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "89",
+    "claim_text": "Photograph of a spectacled hairless Andean bear named Dolores.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "558",
+    "claim_text": "A still from the 1988 Holocaust-themed miniseries War and Remembrance depicts a Jewish mother hugging her toddler daughter before both were shot to death by Nazis.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "913",
+    "claim_text": "Image shows a helicopter using fossil fuels, spraying de-icer, made with fossil fuels, to de-ice a wind turbine during the deep freeze in Texas in February 2021.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "758",
+    "claim_text": "A photograph of a police officer wielding a baton while holding an individual down by their head during clearing of a homeless camp in Toronto in July 2021.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "692",
+    "claim_text": "An image of an anti-government protest in Brazil on March 13, 2016.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory details (objects, text, context)\n- Use clear, objective language\n- Use clear, objective language",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "104",
+    "claim_text": "Image shows demonstrators during the March for Our Lives rally on March 24, 2018 in the District of Columbia.",
+    "support_justification": "- Provide an explanation that supports the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "754",
+    "claim_text": "An image of Supreme Court Justice Clarence Thomas with his wife, Ginni Thomas, holding a bottle of wine was captured in May 2022 following the leak of a draft U.S. Supreme Court opinion striking down the landmark 1973 Roe v. Wade case that legalized abortion.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide an explanation for the statement",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "142",
+    "claim_text": "Photograph shows buses purchased by Black Lives Matter to transport members to riots.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation of the claim",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "228",
+    "claim_text": "A photograph shows a miniature figurine of a chickadee bird.",
+    "support_justification": "The image is an example of a rhetorical device that can be used to support a claim. The rhetorical device is known as an allusion. An allusion is a reference made by one person to another person or thing. In this case, the person who is referred to is the audience. The person being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to is the reader. The person who is being referred to is the author. The person who is being referred to",
+    "refute_justification": "The image is an example of a rhetorical device that can be used to support a claim. The rhetorical device is known as a rhetorical question. Rhetorical questions are often used to ask a question about something that has already been said or implied. In this case, the rhetorical question is asking if the person who made the statement was lying.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "250",
+    "claim_text": "Image shows a crowd of people at the 'Area 51 Raid' in September 2019.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the given information.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "281",
+    "claim_text": "Image shows an archaeologist excavating the remains of a woolly mammoth that was found at a quarry site near Paris, France in November 2012.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "759",
+    "claim_text": "Photograph of Ukrainian ambassador Sergiy Korsunsky clothed in Samurai armor while visiting Japan on February 14, 2022.",
+    "support_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.\n- Do NOT explicitly mention the label \"False\" in your response\n- Focus only on key contradictory factors and logical reasoning\n- Use clear, objective language\n- Keep the explanation within 150 words",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "25",
+    "claim_text": "A photograph shows a sign that reads 'whites only within city limits after dark', taken in a Sundown town in 2022.",
+    "support_justification": "- Provide a concise, well-reasoned explanation of the given claim",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer) based on the provided text and visual evidence.",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": true
+  },
+  {
+    "claim_id": "114",
+    "claim_text": "Image shows three U.S. Democratic senators during the confirmation hearing of Supreme Court nominee Brett Kavanaugh in September 2018.",
+    "support_justification": "- Provide an explanation that is supported by relevant facts and logic",
+    "refute_justification": "- Provide an explanation that is supported by relevant facts and arguments",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  },
+  {
+    "claim_id": "654",
+    "claim_text": "Image documents pre-pubescent girls, relatives of the brides and grooms, accompaning the groom during a mass wedding in the Gaza Strip in July 2009.",
+    "support_justification": "- Provide an explanation that is supported by relevant textual and visual evidence",
+    "refute_justification": "- Provide a concise, well-reasoned explanation (150 words or fewer)",
+    "supporting_evidence_count": 0,
+    "refuting_evidence_count": 0,
+    "has_visual_evidence": false
+  }
+]

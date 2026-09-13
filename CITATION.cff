@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or the released justifications, please cite the paper."
+title: "Entailed Opinion Matters: Improving the Fact-Checking Performance of Language Models by Relying on their Entailment Ability"
+authors:
+  - family-names: Kumar
+    given-names: Gaurav
+  - family-names: Garg
+    given-names: Ayush
+  - family-names: Mazumder
+    given-names: Debajyoti
+  - family-names: Kishore
+    given-names: Aditya
+  - family-names: Kumar
+    given-names: Babu
+  - family-names: Patro
+    given-names: Jasabanta
+preferred-citation:
+  type: article
+  title: "Entailed Opinion Matters: Improving the Fact-Checking Performance of Language Models by Relying on their Entailment Ability"
+  authors:
+    - family-names: Kumar
+      given-names: Gaurav
+    - family-names: Garg
+      given-names: Ayush
+    - family-names: Mazumder
+      given-names: Debajyoti
+    - family-names: Kishore
+      given-names: Aditya
+    - family-names: Kumar
+      given-names: Babu
+    - family-names: Patro
+      given-names: Jasabanta
+  journal: "arXiv preprint arXiv:2505.15050"
+  year: 2026
+  url: "https://arxiv.org/abs/2505.15050"
+  notes: "Accepted at AACL 2026; cite the arXiv preprint until the proceedings are published."
+identifiers:
+  - type: other
+    value: "arXiv:2505.15050"
+    description: arXiv preprint
+license: MIT
+repository-code: "https://github.com/gauravkumar62024/Entailment-Based-Fact-Checking"
+url: "https://arxiv.org/abs/2505.15050"

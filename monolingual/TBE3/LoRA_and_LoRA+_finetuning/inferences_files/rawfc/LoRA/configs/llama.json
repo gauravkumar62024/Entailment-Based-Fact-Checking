@@ -1,0 +1,9 @@
+{
+"base_model_path": "meta-llama/Llama-3.1-8B-Instruct",
+"adapter_path": "checkpoints/llama_rawfc_lora",
+"test_data_path":"../../inference_test_data/llama_rawfc_test_llama_fact_transformed_dataset.json",
+"output_dir": "results/TBE3/LoRA/RAWFC/llama",
+"max_new_tokens": 256,
+"temperature": 0.01,
+"truncate_len": 2048
+}

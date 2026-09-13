@@ -1,0 +1,5 @@
+python ibe3_lair_raw_falcon.py
+python ibe3_lair_raw_gemma.py
+python ibe3_lair_raw_llama.py
+python ibe3_lair_raw_mistral.py
+python ibe3_lair_raw_qwen.py

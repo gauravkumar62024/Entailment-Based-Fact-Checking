@@ -1,0 +1,187 @@
+{
+  "VERITE_idifice": {
+    "file_name": "idefics3_verite_full_train_with_labels_llama_factory.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "VERITE_peligemma": {
+    "file_name": "paligemma_verite_full_train_with_labels_llama_factory.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "VERITE_qwenvl": {
+    "file_name": "qwen2vl_verite_full_train_with_labels_llama_factory.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "factcheck": {
+    "file_name": "train_llamafactory_qwen_factify.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "factcheck_idifice": {
+    "file_name": "train_llamafactory_idefics_factify.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "factcheck_peligemma": {
+    "file_name": "train_llamafactory_paligemma_factify.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "mocheng_idifice": {
+    "file_name": "train_llamafactory_idefices3_mocheng.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "mocheng_qwenvl": {
+    "file_name": "train_llamafactory_qwen2vl_mocheng.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "factcheck_inference": {
+    "file_name": "test_llamafactory_qwen_factify.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "mr2_idifice": {
+    "file_name": "converted_mr2_train_justifications_idefics3_with_labels.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "mr2_peligemma": {
+    "file_name": "converted_mr2_train_justifications_peligemma_awq_with_labels.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "mr2_qwenvl": {
+    "file_name": "converted_mr2_train_justifications_qwen2vl_with_labels.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "xfact_gemma_train_semantic_chunking_justifications": {
+    "file_name": "xfact_gemma_train_semantic_chunking_justifications.json"
+  },
+  "xfact_llama_train_semantic_chunking_justifications": {
+    "file_name": "xfact_llama_train_semantic_chunking_justifications.json"
+  },
+  "xfact_mistral_train_semantic_chunking_justifications": {
+    "file_name": "xfact_mistral_train_semantic_chunking_justifications.json"
+  },
+  "xfact_qwen_train_semantic_chunking_justifications": {
+    "file_name": "xfact_qwen_train_semantic_chunking_justifications.json"
+  },
+  "ru22fact_gemma_train_semantic_chunking_justifications": {
+    "file_name": "ru22fact_gemma_train_semantic_chunking_justifications.json"
+  },
+  "ru22fact_llama_train_semantic_chunking_justifications": {
+    "file_name": "ru22fact_llama_train_semantic_chunking_justifications.json"
+  },
+  "ru22fact_mistral_train_semantic_chunking_justifications": {
+    "file_name": "ru22fact_mistral_train_semantic_chunking_justifications.json"
+  },
+  "ru22fact_qwen_train_semantic_chunking_justifications": {
+    "file_name": "ru22fact_qwen_train_semantic_chunking_justifications.json"
+  },
+  "lair_raw_train_with_justi_for_lafct_formate": {
+    "file_name": "lair_raw_train_with_justi_for_lafct_formate.json"
+  },
+  "lair_raw_train_with_justi_for_lafct_formate_gemma": {
+    "file_name": "lair_raw_train_with_justi_for_lafct_formate_gemma.json"
+  },
+  "lair_raw_train_with_justi_for_lafct_formate_train_meta_llama": {
+    "file_name": "lair_raw_train_with_justi_for_lafct_formate_train_meta_llama.json"
+  },
+  "lair_raw_test_with_justi_for_lafct_formate_train_mistral": {
+    "file_name": "lair_raw_test_with_justi_for_lafct_formate_train_mistral.json"
+  },
+  "lair_raw_test_with_justi_for_lafct_formate__train_qwen": {
+    "file_name": "lair_raw_test_with_justi_for_lafct_formate__train_qwen.json"
+  },
+  "gemma_lair_raw_train_transformed_dataset": {
+    "file_name": "gemma_lair_raw_train_transformed_dataset.json"
+  },
+  "llama_lair_raw_train_transformed_dataset": {
+    "file_name": "llama_lair_raw_train_transformed_dataset.json"
+  },
+  "mistral_lair_raw_train_transformed_dataset": {
+    "file_name": "mistral_lair_raw_train_transformed_dataset.json"
+  },
+  "qwen_lair_raw_train_transformed_dataset": {
+    "file_name": "qwen_lair_raw_train_transformed_dataset.json"
+  },
+  "rawfc_train_with_justi_for_lafct_formate": {
+    "file_name": "rawfc_train_with_justi_for_lafct_formate.json"
+  },
+  "rawfc_train_with_justi_for_lafct_formate_falcon": {
+    "file_name": "rawfc_train_with_justi_for_lafct_formate_falcon.json"
+  },
+  "rawfc_train_with_justi_for_lafct_formate_gemma": {
+    "file_name": "rawfc_train_with_justi_for_lafct_formate_gemma.json"
+  },
+  "rawfc_train_with_justi_for_lafct_formate_llama": {
+    "file_name": "rawfc_train_with_justi_for_lafct_formate_llama.json"
+  },
+  "rawfc_train_with_justi_for_lafct_formate_mistral": {
+    "file_name": "rawfc_train_with_justi_for_lafct_formate_mistral.json"
+  },
+  "rawfc_train_with_justi_for_lafct_formate_qwen": {
+    "file_name": "rawfc_train_with_justi_for_lafct_formate_qwen.json"
+  },
+  "mistral_rawfc_train_llama_fact_transformed_dataset": {
+    "file_name": "mistral_rawfc_train_llama_fact_transformed_dataset.json"
+  },
+  "lair_train": {
+    "file_name": "lair_train.json"
+  },
+  "mocheng_peligemma": {
+    "file_name": "train_llamafactory_palegemma_mocheng.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "lair_raw_train_with_justi_for_lafct_formate_train_falcon3": {
+    "file_name": "lair_raw_train_with_justi_for_lafct_formate_train_falcon3.json"
+  },
+  "rawfc_train_with_justi_for_lafct_formate_falcon3": {
+    "file_name": "rawfc_train_with_justi_for_lafct_formate_falcon3.json"
+  }
+}
