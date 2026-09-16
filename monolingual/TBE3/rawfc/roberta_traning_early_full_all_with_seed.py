@@ -15,34 +15,36 @@ LABEL_MAP = {"false": 0, "half": 1, "true": 2}
 INV_LABEL_MAP = {v: k for k, v in LABEL_MAP.items()}
 
 def set_seed(seed):
-    
-    # uncomment the following lines to set the seed for reproducibility
-    
-    # random.seed(seed)
-    # np.random.seed(seed)
-    # torch.manual_seed(seed)
-    # if torch.cuda.is_available():
-    #     torch.cuda.manual_seed_all(seed)
-    pass
+    """Seed every RNG the run touches. This body was commented out to a bare
+    `pass`, so seeded runs were not actually seeded -- the seed only named the
+    output files."""
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
 
 class EarlyStopping:
     """Early stopping handler class"""
-    def __init__(self, patience=3, min_delta=0, mode='max'):
+    def __init__(self, patience=3, min_delta=0, mode='max', min_epochs=0):
         self.patience = patience
         self.min_delta = min_delta
         self.mode = mode
+        self.min_epochs = min_epochs      # never stop before this many epochs
+        self.epoch = 0
         self.counter = 0
         self.best_score = None
         self.early_stop = False
         self.best_model = None
 
     def __call__(self, score, model):
+        self.epoch += 1
         if self.best_score is None:
             self.best_score = score
             self.best_model = copy.deepcopy(model.state_dict())
         elif score <= (self.best_score + self.min_delta) if self.mode == 'max' else score >= (self.best_score - self.min_delta):
             self.counter += 1
-            if self.counter >= self.patience:
+            if self.counter >= self.patience and self.epoch >= self.min_epochs:
                 self.early_stop = True
         else:
             self.best_score = score
@@ -132,9 +134,9 @@ def eval_model(model, dataloader, device, phase="Validation"):
         print(report)
     return f1
 
-def train_model(model, train_dataloader, val_dataloader, test_dataloader, optimizer, scheduler, device, epochs=100, patience=3, checkpoint_filename="best_model.pth"):
+def train_model(model, train_dataloader, val_dataloader, test_dataloader, optimizer, scheduler, device, epochs=100, patience=3, checkpoint_filename="best_model.pth", min_epochs=0):
     """Train the model with early stopping; saves best model to the given checkpoint filename"""
-    early_stopping = EarlyStopping(patience=patience)
+    early_stopping = EarlyStopping(patience=patience, min_epochs=min_epochs)
     best_val_f1 = 0
     for epoch in range(epochs):
         model.train()
@@ -247,7 +249,7 @@ def resize_position_embeddings(model, new_max_pos):
 
 
 
-def run_experiment_for_dataset_and_seed(dataset_id, dataset_config, seed):
+def run_experiment_for_dataset_and_seed(dataset_id, dataset_config, seed, min_epochs=0):
     print(f"\n***** Running experiment for dataset '{dataset_id}' with seed {seed} *****")
     set_seed(seed)
     folder = dataset_config["folder"]
@@ -275,7 +277,8 @@ def run_experiment_for_dataset_and_seed(dataset_id, dataset_config, seed):
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=0, num_training_steps=num_training_steps)
     checkpoint_filename = f"best_{dataset_id}_seed{seed}_roberta.pth"
     print("Starting training...")
-    model = train_model(model, train_dataloader, val_dataloader, test_dataloader, optimizer, scheduler, device, epochs=epochs, patience=3, checkpoint_filename=checkpoint_filename)
+    model = train_model(model, train_dataloader, val_dataloader, test_dataloader, optimizer, scheduler, device, epochs=epochs, patience=3, checkpoint_filename=checkpoint_filename,
+                        min_epochs=min_epochs)
     print("Running test inference...")
     test_report = run_test_inference(model, test_dataloader, device, dataset_id, seed)
     result_summary = {
@@ -335,6 +338,8 @@ def main():
                     help="Random seeds to run (default: 42).")
     ap.add_argument("--data_root", default="cleaned_data",
                     help="Directory holding <folder>/<split> files (default: cleaned_data).")
+    ap.add_argument("--min_epochs", type=int, default=12,
+                    help="Never let early stopping fire before this many epochs (default: 12).")
     ap.add_argument("--output", default="overall_results.json")
     args = ap.parse_args()
 
@@ -348,7 +353,8 @@ def main():
          cfg["folder"] = os.path.join(args.data_root, cfg["folder"])
          overall_results[dataset_id] = []
          for seed in args.seeds:
-             result = run_experiment_for_dataset_and_seed(dataset_id, cfg, seed)
+             result = run_experiment_for_dataset_and_seed(dataset_id, cfg, seed,
+                                                          min_epochs=args.min_epochs)
              overall_results[dataset_id].append(result)
     overall_filename = args.output
     with open(overall_filename, "w", encoding="utf-8") as f:
