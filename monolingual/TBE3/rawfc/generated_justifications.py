@@ -9,15 +9,20 @@ import torch
 parser = argparse.ArgumentParser()
 parser.add_argument('--evidence_dir', type=str, required=True, help="Directory containing evidence files (e.g., ./results/outputs)")
 parser.add_argument('--output', type=str, required=True, help="Base output directory for justifications (e.g., ./results)")
+parser.add_argument('--models', nargs='+', default=None,
+                    help="Short names of the GLMs to run (llama qwen gemma mistral falcon). Default: all five.")
+parser.add_argument('--splits', nargs='+', default=None, choices=['train', 'val', 'test'],
+                    help="Which splits to process. Default: all three.")
 args = parser.parse_args()
 
 # Define models and their short names
+# The five GLMs of Table 14. Select a subset at run time with --models.
 MODELS = {
-    #"meta-llama/Llama-3.1-8B-Instruct": "llama",
-    #"Qwen/Qwen2.5-7B-Instruct-1M": "qwen",
+    "meta-llama/Llama-3.1-8B-Instruct": "llama",
+    "Qwen/Qwen2.5-7B-Instruct-1M": "qwen",
     "google/gemma-7b-it": "gemma",
     "mistralai/Mistral-7B-Instruct-v0.3": "mistral",
-    "tiiuae/Falcon3-7B-Instruct": "falcon"
+    "tiiuae/Falcon3-7B-Instruct": "falcon",
 }
 
 DATASETS = ["train", "test", "val"]
@@ -124,7 +129,14 @@ def main():
     output_base = Path(args.output) / "generated_justification_rawfc_data"
     output_base.mkdir(parents=True, exist_ok=True)
 
-    for model_id, model_short_name in MODELS.items():
+    models = MODELS
+    if args.models:
+        models = {k: v for k, v in MODELS.items() if v in args.models}
+        if not models:
+            raise SystemExit(f"--models {args.models} matched none of {sorted(MODELS.values())}")
+    splits = [s for s in DATASETS if not args.splits or s in args.splits]
+
+    for model_id, model_short_name in models.items():
         print(f"Processing model: {model_short_name}")
         model_output_dir = output_base / model_short_name
         model_output_dir.mkdir(exist_ok=True)
@@ -132,7 +144,7 @@ def main():
         # Setup the model and tokenizer
         model, sampling_params, tokenizer = setup_model(model_id)
 
-        for split in DATASETS:
+        for split in splits:
             # Dynamically locate evidence file
             evidence_file = evidence_base / model_short_name / f"entailment_evidence_rawfc_{split}_{model_short_name}.json"
             if not evidence_file.exists():

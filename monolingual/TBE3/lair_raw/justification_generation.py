@@ -16,15 +16,15 @@ LIAR_RAW_LABELS = {
 
 # Dictionary mapping models to their IDs and data file names
 models_config = {
-    #"gemma": {
-    #    "model_id": "google/gemma-7b-it",
-     #   "tokenizer_id": "google/gemma-7b-it",
-    #    "data_files": {
-     #       "train": "outputs/google_gemma_7b_it/train_lair_raw_it.json",
-     #       "val": "outputs/google_gemma_7b_it/val_lair_raw_it.json",
-    #        "test": "outputs/google_gemma_7b_it/test_lair_raw_it.json"
-   #     }
-   # },
+    "gemma": {
+        "model_id": "google/gemma-7b-it",
+        "tokenizer_id": "google/gemma-7b-it",
+        "data_files": {
+            "train": "outputs/google_gemma_7b_it/train_lair_raw_it.json",
+            "val": "outputs/google_gemma_7b_it/val_lair_raw_it.json",
+            "test": "outputs/google_gemma_7b_it/test_lair_raw_it.json"
+        }
+    },
    "mistral": {
         "model_id": "mistralai/Mistral-7B-Instruct-v0.3",
         "tokenizer_id": "mistralai/Mistral-7B-Instruct-v0.3",
@@ -159,7 +159,7 @@ def process_claims(data, model, sampling_params, tokenizer, model_key):
     
     return results
 
-def process_model(model_key, model_info):
+def process_model(model_key, model_info, out_dir=None):
     print(f"Loading tokenizer for model: {model_key}")
     tokenizer_id = model_info["tokenizer_id"]
     
@@ -184,8 +184,9 @@ def process_model(model_key, model_info):
             data = load_data(file_path)
             justifications = process_claims(data, model, sampling_params, tokenizer, model_key)
             
-            # Save the justifications in the same folder as the input file
-            output_dir = Path(file_path).parent
+            # Save beside the input file, or under --out_dir when given
+            output_dir = Path(out_dir) if out_dir else Path(file_path).parent
+            output_dir.mkdir(parents=True, exist_ok=True)
             output_filename = output_dir / f"generated_justifications_{split}_{model_key}.json"
             with open(output_filename, "w", encoding="utf-8") as f:
                 json.dump(justifications, f, indent=4, ensure_ascii=False)
@@ -201,8 +202,21 @@ def process_model(model_key, model_info):
         torch.cuda.empty_cache()
 
 def main():
-    for model_key, model_info in models_config.items():
-        process_model(model_key, model_info)
+    import argparse
+    p = argparse.ArgumentParser(description="TBE-3 step 2: generate supporting/refuting justifications.")
+    p.add_argument('--models', nargs='+', default=None, choices=list(models_config),
+                   help="Which GLMs to run. Default: all.")
+    p.add_argument('--splits', nargs='+', default=None, choices=['train', 'val', 'test'],
+                   help="Which splits to process. Default: all three.")
+    p.add_argument('--out_dir', type=str, default=None,
+                   help="Write results here instead of beside the input file.")
+    args = p.parse_args()
+
+    for model_key in (args.models or list(models_config)):
+        info = dict(models_config[model_key])
+        if args.splits:
+            info["data_files"] = {k: v for k, v in info["data_files"].items() if k in args.splits}
+        process_model(model_key, info, args.out_dir)
 
 if __name__ == "__main__":
     main()
