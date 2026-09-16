@@ -303,8 +303,8 @@ def main():
           "qwen": {
               "folder": "qwen2.5",
               "train": "train_qwen_cleaned.json",
-              "val": "test_qwen_cleaned.json",
-              "test": "val_qwen_cleaned.json"
+              "val": "val_qwen_cleaned.json",
+              "test": "test_qwen_cleaned.json"
          },
          "gemma": {
               "folder": "gemma",
@@ -327,15 +327,30 @@ def main():
         
          
     }
-    # seeds = [42, 123, 999]
-    seed = 1
+    import argparse, os
+    ap = argparse.ArgumentParser(description="TBE-3 step 3: RoBERTa veracity prediction on RAW-FC.")
+    ap.add_argument("--models", nargs="+", default=None, choices=list(dataset_configs),
+                    help="Which GLM's justifications to train on. Default: all.")
+    ap.add_argument("--seeds", type=int, nargs="+", default=[42],
+                    help="Random seeds to run (default: 42).")
+    ap.add_argument("--data_root", default="cleaned_data",
+                    help="Directory holding <folder>/<split> files (default: cleaned_data).")
+    ap.add_argument("--output", default="overall_results.json")
+    args = ap.parse_args()
+
+    selected = {k: v for k, v in dataset_configs.items() if not args.models or k in args.models}
+    if not selected:
+        raise SystemExit(f"--models matched none of {sorted(dataset_configs)}")
+
     overall_results = {}
-    for dataset_id, dataset_config in dataset_configs.items():
+    for dataset_id, dataset_config in selected.items():
+         cfg = dict(dataset_config)
+         cfg["folder"] = os.path.join(args.data_root, cfg["folder"])
          overall_results[dataset_id] = []
-        #  for seed in seeds:
-         result = run_experiment_for_dataset_and_seed(dataset_id, dataset_config, seed)
-         overall_results[dataset_id].append(result)
-    overall_filename = "overall_results.json"
+         for seed in args.seeds:
+             result = run_experiment_for_dataset_and_seed(dataset_id, cfg, seed)
+             overall_results[dataset_id].append(result)
+    overall_filename = args.output
     with open(overall_filename, "w", encoding="utf-8") as f:
          json.dump(overall_results, f, indent=4)
     print(f"\nOverall results saved to '{overall_filename}'")
