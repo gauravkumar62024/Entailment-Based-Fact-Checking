@@ -349,12 +349,29 @@ def main():
          # "falcon": { ... }
     }
 
+    import argparse, os
+    ap = argparse.ArgumentParser(
+        description="TBE-3 step 3: RoBERTa veracity prediction on LIAR-RAW.")
+    ap.add_argument("--models", nargs="+", default=None, choices=list(dataset_configs),
+                    help="Which GLM's justifications to train on. Default: all.")
+    ap.add_argument("--data_root", default=None,
+                    help="Directory holding <model>/<split> files. Default: cleaned_data/<model>.")
+    ap.add_argument("--output", default="overall_results.json")
+    args = ap.parse_args()
+
+    selected = {k: v for k, v in dataset_configs.items() if not args.models or k in args.models}
+    if not selected:
+        raise SystemExit(f"--models matched none of {sorted(dataset_configs)}")
+
     overall_results = {}
-    for dataset_id, dataset_config in dataset_configs.items():
-         result = run_experiment_for_dataset(dataset_id, dataset_config)
+    for dataset_id, dataset_config in selected.items():
+         cfg = dict(dataset_config)
+         if args.data_root:
+             cfg["folder"] = os.path.join(args.data_root, os.path.basename(cfg["folder"]))
+         result = run_experiment_for_dataset(dataset_id, cfg)
          overall_results[dataset_id] = result
 
-    overall_filename = "overall_results.json"
+    overall_filename = args.output
     with open(overall_filename, "w", encoding="utf-8") as f:
          json.dump(overall_results, f, indent=4)
     print(f"\nOverall results saved to '{overall_filename}'")
