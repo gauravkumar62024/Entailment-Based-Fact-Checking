@@ -330,13 +330,30 @@ def main():
         },
     }
 
+    import argparse, os
+    ap = argparse.ArgumentParser(
+        description="TBE-3 step 3: XLNet veracity prediction on LIAR-RAW.")
+    ap.add_argument("--models", nargs="+", default=None, choices=list(dataset_configs),
+                    help="Which GLM's justifications to train on. Default: all five.")
+    ap.add_argument("--data_root", default=None,
+                    help="Directory holding <model>/<split> files. Default: cleaned_data/<model>.")
+    ap.add_argument("--output", default="overall_results.json")
+    args = ap.parse_args()
+
+    selected = {k: v for k, v in dataset_configs.items() if not args.models or k in args.models}
+    if not selected:
+        raise SystemExit(f"--models matched none of {sorted(dataset_configs)}")
+
     all_results = {}
-    for ds_id, cfg in dataset_configs.items():
+    for ds_id, cfg in selected.items():
+        cfg = dict(cfg)
+        if args.data_root:
+            cfg["folder"] = os.path.join(args.data_root, os.path.basename(cfg["folder"]))
         all_results[ds_id] = run_experiment_for_dataset(ds_id, cfg)
 
-    with open("overall_results.json", "w", encoding="utf-8") as f:
+    with open(args.output, "w", encoding="utf-8") as f:
         json.dump(all_results, f, indent=4)
-    print("\nOverall results saved to 'overall_results.json'")
+    print(f"\nOverall results saved to '{args.output}'")
 
 if __name__ == "__main__":
     main()
