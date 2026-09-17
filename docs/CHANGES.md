@@ -101,6 +101,25 @@ Triton kernels at startup and fails without `Python.h` (`python3-dev`). The fall
 
 ---
 
+## Removed
+
+`monolingual/TBE3/rawfc/roberta_traning_early_full_all_with_seed.py` was removed.
+On a verification run (seed 42, min_epochs 12, Llama justifications) it collapsed
+at initialisation -- training loss pinned at 1.10 (= ln 3, uniform over the three
+classes) for all 12 epochs, test macro-F1 0.293. The unseeded trainer
+`roberta_traning_early_full_all.py` reached **0.860** on identical data, against
+the paper's reported 0.88.
+
+The likely cause is RoBERTa-large fine-tuning instability: lr 1e-5 with
+`num_warmup_steps=0` and a freshly initialised classification head. That the
+file shipped with `set_seed()` commented out to a bare `pass` suggests the
+seeding may have been disabled deliberately for this reason.
+
+The other seeded trainers are untouched: `XLNET_large_traning_early_full_all_seed.py`
+(RAW-FC) and both LIAR-RAW `*_seed.py` variants, whose `set_seed()` bodies are live.
+
+---
+
 ## Known gaps
 
 These are things the paper reports that this repository does not fully cover. Listed so a
